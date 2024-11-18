@@ -1,4 +1,7 @@
 // See https://observablehq.com/framework/config for documentation.
+
+import { markdownIt } from "./markdown-it-wiki-pearl.js";
+
 export default {
   // The app’s title; used in the sidebar and webpage titles.
   title: "Aarde",
@@ -52,4 +55,6 @@ export default {
   // footer: "Built with Observable",
   footer: ({ path }) =>
     `<a href="https://observablehq.com/">Built with Observable</a> – <a href="https://github.com/Martien/aarde/blob/main/src/${path}.md?plain=1">view source</a> – <a href="./evolver">view site’s evolution</a>`,
+
+  markdownIt,
 };
