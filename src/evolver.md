@@ -7,3 +7,4 @@
     1. link to page source; and
     1. link to this page.
 1. Added `pages[]` to `observable-config.js` so sidebar and footer have no duplicates.
+`npm run build` and committed to main and pushed to github.
