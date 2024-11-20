@@ -1,8 +1,26 @@
 # markdown-it-container
+
+This site uses the `markdown-it-container` to facilitate writing and maintenance of {pearl}s and {pearl language}.
+
+{pearl}s have a simple and fixed structure and use the following ***keywords**: name > context > wish > therefore > constitution > rationale.
+
+For instance,
+~~~md
 ::: name
 country city fingers
 :::
-<image class="hero" src="/a-pattern-language/city-country-fingers-urban-main-street.jpg" width=640>
+~~~
+results in:
+
+::: name
+country city fingers
+:::
+
+You can use any of the keywords mentioned above to fence off a specific section of a {pearl}. This will format each section accoring to the traditional way of Christopher Alexander’s *A Pattern Language*.
+
+The remainder of this page shows an example of the rest of {country city fingers}.
+
+<image class="hero" src="city-country-fingers-urban-main-street.jpg" width=640>
 
 
 ::: context

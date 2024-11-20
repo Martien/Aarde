@@ -17,31 +17,22 @@ _We begin with that part of the language which defines a town or community. Thes
 
 1. {independent regions}
 
-   within each region work toward those regional policies which will protect the
-   land and mark the limits of the cities;
+   within each region work toward those regional policies which will protect the land and mark the limits of the cities;
 
 1. {the distribution of towns}
 1. {city country fingers}
-1. {agricultural valleys}
-    ::: wish
-    asd asd asd
-    :::
-1. {lace of country street}
-1. {country towns}
-1. {the countryside}
+1. agricultural valleys
+1. lace of country street
+1. country towns
+1. the countryside
 
    through city policies, encourage the piecemeal formation of those major structures which define the city;
 
-1. {mosaic of subcultures}
-1. {scattered work}
-1. {magic of the city}
-1. {local transport areas}
+1. mosaic of subcultures
+1. scattered work
+1. magic of the city
+1. local transport areas
 
    build up these larger city patterns from the grass roots, through action essentially controlled by two levels of self-governing communities, which exist as physically identifiable places;
 
-```js
-//import { patternNames } from "./a-pattern-language.js";
-//const aap = await patternNames.text();
-//const mies = aap.trim().split("\n").map((d) => `{${d}}`);
-//display(mies);
-```
+1. …

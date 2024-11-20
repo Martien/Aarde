@@ -9,7 +9,7 @@ city country fingers
 <image class="hero" src="city-country-fingers-urban-main-street.jpg" width="100%">
 
 ::: context
-the distribution of towns required to make a balanced region—{distribution of towns}—can be further helped by controlling the balance of urban land and open countryside within the towns and cities themselves.
+the distribution of towns required to make a balanced region—{the distribution of towns}—can be further helped by controlling the balance of urban land and open countryside within the towns and cities themselves.
 :::
 
 ::: wish

@@ -15,3 +15,5 @@
     1. Added `markdownIt` to configuration object: Wiki markup is now converted to proper intra-site links.
 1. Added `pearl { font-variant: small-caps; }` to `aarde.css` so patterns and pearls show as small-caps in text.
 1. **DEPLOYED**
+1. Added a {page loader} for [[pattern list]].
+1. Added `markdown-it-container` for {pattern}s and {pearl}s.
