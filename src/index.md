@@ -4,6 +4,14 @@ toc: false
 
 <div class="hero">
   <h1>Aarde</h1>
-  <h2>Welcome to your new app! Edit&nbsp;<code style="font-size: 90%;">src/index.md</code> to change this page.</h2>
-  <a href="https://observablehq.com/framework/getting-started">Get started<span style="display: inline-block; margin-left: 0.25rem;">↗︎</span></a>
+  <h2>All Martien’s works gather here over time.</h2>
 </div>
+
+::: card
+**WARNING** – this site is still very experimental as I’m learning Observable Framework.
+- Site can be down for any amount of time.
+- Links may not work.
+- Text may not make sense.
+
+Served from my trusty and old Mac mini using Apache.
+:::

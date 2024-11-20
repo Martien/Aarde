@@ -19,3 +19,4 @@ Also, text in curly brackets, like:
 ```
 Convert to specific pearls and their corresponding link, allowing you to grow a {pearl language} – akin a {pattern language}, like so:
 > {pearls}, {pearl language}, {closure}, and {pure function}.
+- {independent regions}

@@ -12,6 +12,18 @@ export default {
       path: "/wiki",
     },
     {
+      name: "A Pattern Language",
+      path: "/a-pattern-language/index",
+    },
+    {
+      name: "Pattern list",
+      path: "pl",
+    },
+    {
+      name: "Markdown-it-container",
+      path: "pl-container",
+    },
+    {
       name: "Observable Framework examples",
       path: "/observable-framework-examples",
     },
@@ -36,6 +48,7 @@ export default {
   // The path to the source root.
   root: "src",
 
+  // theme: "light",
   // Some additional configuration options and their defaults:
   // theme: "default", // try "light", "dark", "slate", etc.
   // header: "", // what to show in the header (HTML)
@@ -54,7 +67,7 @@ export default {
 
   // footer: "Built with Observable",
   footer: ({ path }) =>
-    `<a href="https://observablehq.com/">Built with Observable</a> – <a href="https://github.com/Martien/aarde/blob/main/src/${path}.md?plain=1">view source</a> – <a href="./evolver">view site’s evolution</a>`,
+    `Built with <a href="https://observablehq.com/">Observable</a> – <a href="https://github.com/Martien/aarde/blob/main/src/${path}.md?plain=1">view source</a> – <a href="./evolver">view site’s evolution</a>`,
 
   markdownIt,
 };

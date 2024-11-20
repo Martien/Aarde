@@ -1,5 +1,6 @@
 @import url("observablehq:default.css");
-@import url("observablehq:theme-coffee.css");
+@import url("observablehq:theme-parchment.css");
+@import url("pearl-language.css");
 
 .hero {
     display: flex;
@@ -42,8 +43,4 @@
     .hero h1 {
         font-size: 90px;
     }
-}
-
-.pearl {
-    font-variant: small-caps;
 }
