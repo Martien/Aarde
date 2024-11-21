@@ -26,11 +26,14 @@ export const markdownIt = (md) =>
         postProcessLabel,
       }),
     )
-    .use(MarkdownItContainer, "name")
     .use(MarkdownItContainer, "card")
+    .use(MarkdownItContainer, "name")
+    .use(MarkdownItContainer, "hero")
     .use(MarkdownItContainer, "context")
     .use(MarkdownItContainer, "wish")
     .use(MarkdownItContainer, "therefore")
+    .use(MarkdownItContainer, "sketch")
+    .use(MarkdownItContainer, "photo")
     .use(MarkdownItContainer, "constitution")
     .use(MarkdownItContainer, "rationale")
     .use(MarkdownItContainer, "quotation");

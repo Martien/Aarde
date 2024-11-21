@@ -1,15 +1,17 @@
 @import url("observablehq:default.css");
 @import url("observablehq:theme-parchment.css");
-@import url("pearl-language.css");
 
 .hero {
     display: flex;
     flex-direction: column;
     align-items: center;
     font-family: var(--sans-serif);
-    margin: 4rem 0 8rem;
+    /* margin: 4rem 0 8rem; */
     text-wrap: balance;
     text-align: center;
+}
+.hero > img {
+    width: 100%;
 }
 
 .hero h1 {
@@ -43,4 +45,94 @@
     .hero h1 {
         font-size: 90px;
     }
+}
+
+.context {
+    /* margin-top: 36px; */
+    display: block;
+    /* max-width: 640px; */
+}
+.name {
+    text-align: center;
+    font-size: x-large;
+    font-variant: small-caps;
+}
+.wish,
+.therefore {
+    font-weight: bold;
+}
+publication {
+    font-style: italic;
+}
+section {
+    font-variant: small-caps;
+    text-align: center;
+}
+section-body,
+.quotation {
+    font-size: smaller;
+}
+.therefore::before {
+    content: "Therefore:";
+    font-weight: normal;
+    display: block;
+}
+/* div.constitution > p, */
+/* div.context > p {
+    display: inline;
+} */
+.context::after,
+.rationale::before,
+.constitution::before {
+    content: "❖ ❖ ❖";
+    /* content: "✣ ✣ ✣"; */
+    text-align: center;
+    display: block;
+    font-weight: normal;
+    font-size: larger;
+    margin-top: 18px;
+    max-width: 640px;
+}
+/* .context::before, */
+.context > :first-child::before,
+.constitution > :last-child::after {
+    content: "…";
+    display: inline;
+}
+/* rationale {
+    display: block;
+    /* max-width: 640px; */
+} */
+.rationale {
+}
+
+.rationale > :last-child::after {
+    content: "❦";
+    text-align: center;
+    display: block;
+    margin-top: 24px;
+    /* max-width: 640px; */
+}
+.constitution {
+    display: block;
+    /* max-width: 640px; */
+}
+.pearl {
+    font-variant: small-caps;
+}
+a.pearl {
+    font-variant: small-caps;
+    color: var(--theme-foreground);
+}
+.hero {
+    border: 2px solid black;
+    max-width: 640px;
+}
+.hero,
+.sketch,
+.photo {
+    display: flex;
+    justify-content: center;
+    max-width: 640px;
+    /* margin-top: var(--leading); */
 }

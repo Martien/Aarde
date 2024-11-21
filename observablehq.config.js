@@ -36,12 +36,8 @@ export default {
       open: false,
       pages: [
         {
-          name: "Wiki markup",
-          path: "wiki",
-        },
-        {
-          name: "Markdown-it-container",
-          path: "markdown-it-container",
+          name: "Pearl",
+          path: "pearl",
         },
       ],
     },
@@ -57,6 +53,21 @@ export default {
         {
           name: "Example report",
           path: "example-report",
+        },
+      ],
+    },
+    {
+      name: "Engine Room",
+      path: "engine-room",
+      open: false,
+      pages: [
+        {
+          name: "Wiki markup",
+          path: "wiki",
+        },
+        {
+          name: "Markdown-it-container",
+          path: "markdown-it-container",
         },
       ],
     },

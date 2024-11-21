@@ -6,7 +6,9 @@ title: City Country Fingers
 city country fingers
 :::
 
-<image class="hero" src="city-country-fingers-urban-main-street.jpg" width="100%">
+::: hero
+<img src="city-country-fingers-urban-main-street.jpg">
+:::
 
 ::: context
 the distribution of towns required to make a balanced region—{the distribution of towns}—can be further helped by controlling the balance of urban land and open countryside within the towns and cities themselves.
@@ -20,34 +22,36 @@ Continuous sprawling urbanization destroys life, and makes cities unbearable. Bu
 Keep interlocking fingers of farmland and urban land, even at the center of the metropolis. The urban fingers should never be more than 1 mile wide, while the farmland fingers should never be less than 1 mile wide.
 :::
 
-<sketch>
-    <figure>
-      <img
-        alt="Sketch of Earth showing communities in continents"
-        src="city-country-fingers-as-sketch.png"
-      >
-      <figcaption>
-        White: Country fingers at least one mile wide.<br/>
-        Hatched: City fingers at most 1 mile wide.
-      </figcaption>
-    </figure>
-  </sketch>
+::: sketch
+<figure>
+  <img
+    alt="Sketch of Earth showing communities in continents"
+    src="city-country-fingers-as-sketch.png"
+  >
+  <figcaption>
+    White: Country fingers at least one mile wide.<br/>
+    Hatched: City fingers at most 1 mile wide.
+  </figcaption>
+</figure>
+:::
 
 ::: constitution
 Whenever land is hilly, keep the country fingers in the valleys and the city fingers on the upper slopes of hillsides—{agricultural valleys}. Break the city fingers into hundreds of distinct self-governing subcultures—{mosaic of subcultures}, and run the major roads and railways down the middle of these city fingers—{web of public transportation}, {ring roads}
 :::
 
-::: rationale
+:::: rationale
 People feel comfortable when they have access to the countryside, experience of open fields, and agriculture; access to wild plants and birds and animals. For this access, cities must have boundaries with the countryside near every point. At the same time, a city becomes good for life only when it contains a great density of interactions among people and work, and different ways of life. For the sake of this interaction, the city must be continuous—not broken up. In this pattern we shall try to bring these two facts to balance.
 
 Let us begin with the fact that people living in cities need contact with true rural land to maintain their roots with the land that supports them. A 1972 Gallup poll gives very strong evidence for this fact. The poll asked the question: “If you could live anywhere, would you prefer a city, suburban area, small town, or farm?” and received the following answers from 1465 Americans:
 
-<table style="width:144px; margin: auto;">
-  <tr><td>City</td><td>13%</td></tr>
-  <tr><td>Suburb</td><td>13%</td></tr>
-  <tr><td>Small town</td><td>32%</td></tr>
-  <tr><td>Farm</td><td>23%</td></tr>
-</table>
+<div style="max-width: 640px;">
+  <table style="width:144px; margin-left: auto; margin-right: auto;">
+    <tr><td>City</td><td>13%</td></tr>
+    <tr><td>Suburb</td><td>13%</td></tr>
+    <tr><td>Small town</td><td>32%</td></tr>
+    <tr><td>Farm</td><td>23%</td></tr>
+  </table>
+</div>
 
 And this dissatisfaction with cities is getting worse. In 1966, 22 percent said they preferred the city—in 1972, only six years later, this figure dropped to 13 percent. (“Most don't want to live in a city,” George Gallup, San Francisco Chronicle, Monday, December 18, 1972, p. 12.)
 
@@ -59,16 +63,16 @@ But it is becoming increasingly difficult for city dwellers to come into contact
 
 With the breakdown of contact between city dwellers and the countryside, the cities become prisons. Farm vacations, a year on the farm for city children, and retirement to the country for old people are replaced by expensive resorts, summer camps, and retirement villages. And for most, the only contact remaining is the weekend exodus from the city, choking the highways and the few organized recreation centers. Many weekenders return to the city on Sunday night with their nerves more shattered than when they left.
 
-<photo>
-     <figure>
-       <sketch>
-         <img src="city-country-fingers-city-as-prison.jpg" style="width:300px;">
-       </sketch>
-       <figcaption>
-         <i>When the countryside is far away the city becomes a prison.</i>
-       </figcaption>
-     </figure>
-   </photo>
+::: photo
+<figure>
+  <sketch>
+    <img src="city-country-fingers-city-as-prison.jpg" style="width:300px;">
+  </sketch>
+  <figcaption>
+    <i>When the countryside is far away the city becomes<br/> a prison.</i>
+  </figcaption>
+</figure>
+:::
 
 If we wish to re-establish and maintain the proper connection between city and country, and yet maintain the density of urban interactions, it will be necessary to stretch out the urbanized area into long sinuous fingers which extend into the farmland, shown in the diagram above. Not only will the city be in the form of narrow fingers, but so will the farmlands adjacent to it.
 
@@ -81,4 +85,4 @@ The implementation of this pattern requires new policies of three diderent kinds
 Imagine how this one pattern would transform life in cities.
 
 Every city dweller would have access to the countryside; the open country would be a half-hour bicycle ride from downtown.
-:::
+::::

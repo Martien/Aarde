@@ -6,7 +6,9 @@ title: Independent Regions
 independent regions
 :::
 
-<hero><img alt="Goose flying against clouds backdrop (B&W)" src="independent-regions-flying-goose.jpg" style="width:100%;"></hero>
+::: hero
+<img alt="Goose flying against clouds backdrop (B&W)" src="independent-regions-flying-goose.jpg">
+:::
 
 ::: wish
 Metropolitan regions will not come to balance until each one is small and autonomous enough to be an independent sphere of culture.
@@ -20,14 +22,14 @@ each with its own economy; each one autonomous and self-governing;
 each with a seat in a world government, without the intervening power of larger states or countries.
 :::
 
-<sketch>
-	<figure>
-		<img alt="Sketch of Earth showing communities in continents" src="independent-regions-earth-globe-with-regions.png" style="width:216px;">
-		<figcaption>
-			each region 2 to 10 million people<br> 1000 regions
-		</figcaption>
-	</figure>
-</sketch>
+::: sketch
+<figure>
+	<img alt="Sketch of Earth showing communities in continents" src="independent-regions-earth-globe-with-regions.png" style="width:216px;">
+	<figcaption>
+		each region 2 to 10 million people<br> 1000 regions
+	</figcaption>
+</figure>
+:::
 
 ::: constitution
 Within each region encourage the population to distribute itself as widely as possible across the region—{the distribution of towns}
@@ -37,7 +39,7 @@ Within each region encourage the population to distribute itself as widely as po
 
 There are four separate arguments which have led us to this conclusion: 1. The nature and limits of human government. 2. Equity among regions in a world community. 3. Regional planning considerations. 4. Support for the intensity and diversity of human cultures.
 
-1. There are natural limits to the size of groups that can govern themselves in a human way. The biologist J. B. S. Haldane has remarked on this in his paper, “On Being the Right Size”:
+1. There are natural limits to the size of groups that can govern themselves in a human way. The biologist J. B. S. Haldane has remarked on this in his paper, ”On Being the Right Size”:
 
     > …just as there is a best size for every animal, so the same is true for every human institution. In the Greek type of democracy all the citizens could listen to a series of orators and vote directly on questions of legislation. Hence their philosophers held that a small city was the largest possible democratic state… (J. B. S Haldane, “On Being the Right Size,” <publication>The World of Mathematics, Vol. II,</publication> J. R. Newman, ed. New York: Simon and Schuster, 1956, pp. 962-67).
 
