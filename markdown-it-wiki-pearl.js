@@ -15,6 +15,8 @@ export const markdownIt = (md) =>
       // wikilinks default: [[...]]
       markdownItWikilinks({
         uriSuffix: "",
+        postProcessPageName,
+        // makeAllLinksAbsolute: true,
       }),
     )
     .use(
@@ -27,6 +29,7 @@ export const markdownIt = (md) =>
       }),
     )
     .use(MarkdownItContainer, "card")
+    .use(MarkdownItContainer, "warning")
     .use(MarkdownItContainer, "name")
     .use(MarkdownItContainer, "hero")
     .use(MarkdownItContainer, "context")

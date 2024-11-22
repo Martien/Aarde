@@ -1,11 +1,11 @@
 ---
+title: A Pattern Language
 ---
-
 # A Pattern Language
 
 ```js
 import {FileAttachment} from "observablehq:stdlib";
-const n = await FileAttachment("/pattern-names.txt").text();
+const n = await FileAttachment("pattern-names.txt").text();
 const t = n.split("\n")
 .map((p) => `1. {${p}}\n`);
 const ps = (first, last) => t.slice(first - 1, last).join("\n");

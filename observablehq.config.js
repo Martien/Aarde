@@ -3,11 +3,10 @@
 import { markdownIt } from "./markdown-it-wiki-pearl.js";
 
 export default {
-  // The app’s title; used in the sidebar and webpage titles.
   title: "Aarde",
-
   pages: [
     {
+      // A Pattern Language
       name: "A Pattern Language",
       path: "a-pattern-language",
       open: false,
@@ -31,6 +30,7 @@ export default {
       ],
     },
     {
+      // Pearl Language
       name: "Pearl Language",
       path: "pearl-language",
       open: false,
@@ -42,6 +42,7 @@ export default {
       ],
     },
     {
+      // Observable Framework
       name: "Observable Framework",
       path: "observable-framework-examples",
       open: false,
@@ -57,8 +58,35 @@ export default {
       ],
     },
     {
+      // DNA
+      name: "DNA",
+      open: false,
+      pages: [
+        {
+          name: "Kernzaken",
+          path: "kernzaken",
+        },
+        {
+          name: "Geluksindex",
+          path: "geluksindex",
+        },
+        {
+          name: "Bezitten",
+          path: "bezitten",
+        },
+        {
+          name: "Huishouden",
+          path: "huishouden",
+        },
+        {
+          name: "Klonen",
+          path: "klonen",
+        },
+      ],
+    },
+    {
+      // Engine Room
       name: "Engine Room",
-      path: "engine-room",
       open: false,
       pages: [
         {
@@ -72,10 +100,9 @@ export default {
       ],
     },
   ],
-
   head: '<link rel="icon" href="observable.png" type="image/png" sizes="32x32">',
   root: "src",
-  style: "aarde.css",
+  style: "style.css",
   footer: ({ path }) =>
     `Built with <a href="https://observablehq.com/">Observable</a> – <a href="https://github.com/Martien/aarde/blob/main/src/${path}.md?plain=1">view source</a> – <a href="./evolver">view site’s evolution</a>`,
   markdownIt,
