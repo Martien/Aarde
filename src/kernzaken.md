@@ -17,6 +17,3 @@ De kernstructuur en -praktijken voor ons model zijn vooral de logische gevolgen 
 - [[Voorzien]]—hoe bereik je met een hele bos autonome adviseurs - overeenstemming  over de visie?
 - [[Verkopen]]—hoe verkopen we onze adviseurs eigenlijk?
 - [[Onconferentie]]—hoe onze halfjaarlijkse onconferentie werkt.
-
----
-[[wiki links]]
