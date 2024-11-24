@@ -2,8 +2,6 @@
 
 This site uses the `markdown-it-container` to facilitate writing and maintenance of {pearl}s and {pearl language}.
 
-{pearl}s have a simple and fixed structure and use the following ***keywords**: name > context > wish > therefore > constitution > rationale.
-
 For instance,
 ~~~md
 ::: name
