@@ -95,6 +95,10 @@ export default {
           path: "dashboard",
         },
         {
+          name: "Besturen",
+          path: "besturen",
+        },
+        {
           name: "Klonen",
           path: "klonen",
         },
