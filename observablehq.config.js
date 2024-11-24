@@ -99,6 +99,10 @@ export default {
           path: "besturen",
         },
         {
+          name: "Ondernemen",
+          path: "ondernemen",
+        },
+        {
           name: "Klonen",
           path: "klonen",
         },
