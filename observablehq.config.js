@@ -83,6 +83,14 @@ export default {
           path: "beslissen",
         },
         {
+          name: "Werven",
+          path: "werven",
+        },
+        {
+          name: "Warme broodjesprotocol",
+          path: "warme-broodjesprotocol",
+        },
+        {
           name: "Klonen",
           path: "klonen",
         },

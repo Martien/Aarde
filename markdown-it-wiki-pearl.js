@@ -29,6 +29,7 @@ export const markdownIt = (md) =>
       }),
     )
     .use(MarkdownItContainer, "card")
+    .use(MarkdownItContainer, "tip")
     .use(MarkdownItContainer, "warning")
     .use(MarkdownItContainer, "name")
     .use(MarkdownItContainer, "hero")
