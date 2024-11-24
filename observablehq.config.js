@@ -91,6 +91,10 @@ export default {
           path: "warme-broodjesprotocol",
         },
         {
+          name: "Dashboard",
+          path: "dashboard",
+        },
+        {
           name: "Klonen",
           path: "klonen",
         },
