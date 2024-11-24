@@ -79,6 +79,10 @@ export default {
           path: "huishouden",
         },
         {
+          name: "Beslissen",
+          path: "beslissen",
+        },
+        {
           name: "Klonen",
           path: "klonen",
         },
