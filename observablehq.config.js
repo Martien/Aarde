@@ -35,10 +35,8 @@ export default {
       path: "pearl-language",
       open: false,
       pages: [
-        {
-          name: "Pearl",
-          path: "pearl",
-        },
+        { name: "Pearl", path: "pearl" },
+        { name: "Open Bron", path: "open-bron" },
       ],
     },
     {
@@ -60,8 +58,13 @@ export default {
     {
       // DNA
       name: "DNA",
+      path: "dna",
       open: false,
       pages: [
+        {
+          name: "Identificeren",
+          path: "identificeren",
+        },
         {
           name: "Kernzaken",
           path: "kernzaken",
@@ -105,6 +108,10 @@ export default {
         {
           name: "Klonen",
           path: "klonen",
+        },
+        {
+          name: "Unconference",
+          path: "unconference",
         },
       ],
     },
