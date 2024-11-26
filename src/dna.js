@@ -12,10 +12,13 @@ export const principes = {
   name: "Principes",
   tagline: "beginselen die al ons handelen drijven",
   children: [
-    { name: "Identificeren" },
-    { name: "Ecosofie" },
-    { name: "Floreren" },
-    { name: "Systeem" },
+    { name: "Identificeren", prompt: "Wat De Zaak is en waarom." },
+    {
+      name: "Ecosofie",
+      prompt: "De grondslag van al onze financiële en zakelijke speelregels.",
+    },
+    { name: "Floreren", prompt: "Hoe De Zaak werkt." },
+    { name: "Systeem", prompt: "Waarom het voor ons zo goed werkt." },
   ],
 };
 export const kernzaken = {

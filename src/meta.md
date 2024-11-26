@@ -2,8 +2,9 @@
 title: Meta
 ---
 # Meta
+Ent je eigen unieke versie op een kloon van deze.
 ~~~js
-import {toc, section} from "/components/aids.js";
-import {dnaTree} from "./dna.js";
-display(section(dnaTree.children[4]));
+import {section2} from "/components/aids.js";
+import {meta} from "./dna.js";
+display(section2(meta));
 ~~~

@@ -4,7 +4,7 @@ title: Klonen
 
 # Klonen
 
-De DNA is [open bron](https://nl.wikipedia.org/wiki/Open_source). Dus ben je welkom om het te kopiëren en iets vergelijkbaars te creëren.
+De DNA is {open bron}. Dus ben je welkom om het te kopiëren en iets vergelijkbaars te creëren.
 
 ## Waar komt de DNA vandaan?
 

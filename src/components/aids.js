@@ -55,4 +55,6 @@ export const title = ({ name, subtitle }) =>
   >`;
 
 const li2 = ({ name, prompt }) =>
-  html`<li><a href="${href(name)}">${name}</a>–${prompt}</li>`;
+  html`<li>
+    <a href="${href(name)}">${name}</a>${prompt ? "–" + prompt : ""}
+  </li>`;
