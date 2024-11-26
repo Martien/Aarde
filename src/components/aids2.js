@@ -1,7 +1,7 @@
 // import html from "npm:htl";
 // import { curry } from "npm:ramda";
 
-export const href = (string) => string.toLowerCase().replace(/\s+/, "-");
+export const href = (string) => string.toLowerCase().replace(/\s+/g, "-");
 
 export const pages = ({ name, children, open = false, path }) => ({
   name,

@@ -19,7 +19,7 @@ export const pages = ({ name, children }) => ({
 
 // convert a string to a clean href:
 // - spaces → -
-const href = (string) => string.toLowerCase().replace(/\s+/, "-");
+const href = (string) => string.toLowerCase().replace(/\s+/g, "-");
 
 // render a single toc entry as <li>
 const li = ({ name }) =>
