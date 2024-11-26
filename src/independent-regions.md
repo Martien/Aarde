@@ -55,9 +55,11 @@ There are four separate arguments which have led us to this conclusion: 1. The n
 
    We found this point expressed by Lord Weymouth of Warminster, England, in a letter to the <publication>New York Times</publication>, March 15, 1973:
 
-   <section>world federation: a thousand states</section>
 
-   <section-body>…the essential foundation stone for world federation on a democratic basis consists of regionalization within centralized government… This argument rests on the idea that world government is lacking in moral authority unless each delegate represents an approximately equal portion of the world’s population. Working backward from an estimate of the global population in the year 2000, which is anticipated to rise to the 10,000 million mark, I suggest that we should be thinking :in terms of an ideal regional state at something around ten million, or between five and fifteen million, to give greater flexibility. This would furnish the U.N. with an assembly of equals of 1000 regional representatives: a body that would be justified in claiming to be truly representative of the world’s population.<section-body>
+    ::: quotation
+    <p class="section">world federation: a thousand states<p>
+    …the essential foundation stone for world federation on a democratic basis consists of regionalization within centralized government… This argument rests on the idea that world government is lacking in moral authority unless each delegate represents an approximately equal portion of the world’s population. Working backward from an estimate of the global population in the year 2000, which is anticipated to rise to the 10,000 million mark, I suggest that we should be thinking :in terms of an ideal regional state at something around ten million, or between five and fifteen million, to give greater flexibility. This would furnish the U.N. with an assembly of equals of 1000 regional representatives: a body that would be justified in claiming to be truly representative of the world’s population.
+   :::
 
    Weymouth believes that Western Europe could take some of the initiative for triggering this conception of world government. He looks for the movement for regional autonomy to take hold in the European Parliament at Strasbourg; and hopes that power can					gradually be transferred from Westminister, Paris, Bonn, etc., to regional councils, federated in Strasbourg.
 

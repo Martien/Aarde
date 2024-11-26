@@ -1,5 +1,6 @@
 @import url("observablehq:default.css");
-@import url("observablehq:theme-parchment.css");
+/* @import url("observablehq:theme-parchment.css"); */
+@import url("observablehq:theme-ink.css");
 
 .hero {
     display: flex;
@@ -64,11 +65,10 @@
 publication {
     font-style: italic;
 }
-section {
+.section {
     font-variant: small-caps;
     text-align: center;
 }
-section-body,
 .quotation {
     font-size: smaller;
 }
