@@ -1,7 +1,19 @@
 @import url("observablehq:default.css");
-/* @import url("observablehq:theme-parchment.css"); */
-@import url("observablehq:theme-ink.css");
+@import url("observablehq:theme-parchment.css");
+/* @import url("observablehq:theme-ink.css"); */
 
+.as-is,
+.vista {
+    max-width: 640px;
+}
+.vista > img {
+    width: 100%;
+}
+.as-is > img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
 .hero {
     display: flex;
     flex-direction: column;

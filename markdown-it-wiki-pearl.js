@@ -21,7 +21,8 @@ export const markdownIt = (md) =>
     )
     .use(
       markdownItWikilinks({
-        linkPattern: /\{\{?([-\w\s/]+)(\|([-\w\s/]+))?\}\}?/,
+        // linkPattern: /\{\{?([-\S\s/]+)(\|([-\S\s/]+))?\}\}?/,
+        linkPattern: /\{([^\}]*)\}/,
         uriSuffix: "",
         htmlAttributes,
         postProcessPageName,
@@ -31,8 +32,11 @@ export const markdownIt = (md) =>
     .use(MarkdownItContainer, "card")
     .use(MarkdownItContainer, "tip")
     .use(MarkdownItContainer, "warning")
+    .use(MarkdownItContainer, "pas-op")
     .use(MarkdownItContainer, "name")
     .use(MarkdownItContainer, "hero")
+    .use(MarkdownItContainer, "as-is")
+    .use(MarkdownItContainer, "vista")
     .use(MarkdownItContainer, "context")
     .use(MarkdownItContainer, "wish")
     .use(MarkdownItContainer, "therefore")
