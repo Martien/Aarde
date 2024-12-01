@@ -16,9 +16,10 @@ Het [[Serieus Gek Geld Spel]] simuleert handel met zowel conventioneel geld—ge
 
 De bliksemversie van het spel neemt je in minder dan een uur mee door de **emotie van geld** en maakt onverwachte energie vrij.
 
-::: warning
+<div class="warning" lang="nl">
 Door het spelen van het Serieus Gek Geld Spel leer je anders kijken en kan je mensvaardigheid beïnvloedt worden. Met mate gebruiken.
-:::
+</div>
+
 
 Druk ter oriëntatitie eerst de [Serieus Gek Geld Spel Handelskaart](http://aardbron.nl/wp-content/uploads/2008/10/serieus-gek-geld-spel.pdf) af (PDF, 44 KB).
 

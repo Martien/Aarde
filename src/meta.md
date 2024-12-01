@@ -4,7 +4,7 @@ title: Meta
 # Meta
 Ent je eigen unieke versie op een kloon van deze.
 ~~~js
-import {section2} from "/components/aids.js";
-import {meta} from "./dna.js";
-display(section2(meta));
+import { section } from "./components/aids.js";
+import {meta as toc} from "./zones/dna.js";
+display(section(toc));
 ~~~

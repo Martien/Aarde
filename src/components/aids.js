@@ -1,31 +1,32 @@
-import { html } from "npm:htl";
-import { curry } from "npm:ramda";
+export const href = (string) => string.toLowerCase().replace(/\s+/g, "-");
 
-// render the first two levels of a toc tree
-export const toc = curry(
-  ({ columns = 2 } = {}) =>
-    (tree) =>
-      html`<div class="grid grid-cols-${columns}" style="grid-auto-rows: auto;">
-        ${tree?.children.map(section)}
-      </div>`,
-);
-
-export const pages = ({ name, children }) => ({
+// DEPRECATED
+export const pages = ({ name, children, open = false, path }) => ({
   name,
-  path: href(name),
-  open: true,
+  path: path || href(name),
+  open,
   pages: children?.map(({ name }) => ({ name, path: href(name) })),
 });
 
-// convert a string to a clean href:
-// - spaces → -
-const href = (string) => string.toLowerCase().replace(/\s+/g, "-");
+// turn a SiteMap into a Page
+export const pager = ({ name, children, open = false, path }) => ({
+  name,
+  path: path || href(name),
+  open,
+  pages: children?.map(({ name }) => ({ name, path: href(name) })),
+});
 
-// render a single toc entry as <li>
-const li = ({ name }) =>
-  html`<li>
-    <a href="${href(name)}">${name}</a>
-  </li>`;
+import { html } from "htl";
+
+// render the first two levels of a toc tree
+// export const toc = () => [];
+export const outliner =
+  ({ columns = 2 } = {}) =>
+  (tree) =>
+    // html`<p>hoi</p>`;
+    html`<div class="grid grid-cols-${columns}" style="grid-auto-rows: auto;">
+      ${tree?.children.map(section)}
+    </div>`;
 
 // render a section: its name, tagline and children
 export const section = ({ name, tagline, children }) =>
@@ -37,24 +38,7 @@ export const section = ({ name, tagline, children }) =>
     </ol>
   </div>`;
 
-export const toc2 = curry(
-  ({ columns = 2 } = {}) =>
-    (tree) =>
-      html`<div class="grid grid-cols-${columns}" style="grid-auto-rows: auto;">
-        ${tree?.children.map(section)}
-      </div>`,
-);
-export const section2 = ({ name, tagline, subtitle, children }) =>
-  html`<ul>
-    ${children?.map(li2)}
-  </ul>`;
-
-export const title = ({ name, subtitle }) =>
-  html`<a class="observablehq-header-anchor" href="${href(name)}"
-    ><h1>${subtitle || name}</h1></a
-  >`;
-
-const li2 = ({ name, prompt }) =>
+const li = ({ name }) =>
   html`<li>
-    <a href="${href(name)}">${name}</a>${prompt ? "–" + prompt : ""}
+    <a href="${href(name)}">${name}</a>
   </li>`;

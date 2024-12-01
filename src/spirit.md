@@ -8,7 +8,7 @@ A particular way of thinking, feeling, or behaving, especially a way that is typ
 - **in a spirit of** – We acted in a spirit of cooperation.
 ## In this section…
 ~~~js
-import {section2} from "/components/aids.js";
-import {spirit as toc} from "./aardbron.js";
-display(section2(toc));
+import { section } from "./components/aids.js";
+import { spirit as toc } from "./zones/aardbron.js";
+display(section(toc));
 ~~~

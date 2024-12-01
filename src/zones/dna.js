@@ -8,6 +8,7 @@ export const thuiskomen = {
     { name: "Meta" },
   ],
 };
+
 export const principes = {
   name: "Principes",
   tagline: "beginselen die al ons handelen drijven",
@@ -21,6 +22,7 @@ export const principes = {
     { name: "Systeem", prompt: "Waarom het voor ons zo goed werkt." },
   ],
 };
+
 export const kernzaken = {
   name: "Kernzaken",
   subtitle: "Kernstructuur en -praktijken", // has preference over name
@@ -87,8 +89,12 @@ export const meta = {
   tagline: "maak je eigen unieke versie",
   children: [{ name: "Klonen" }, { name: "Crisps deltas" }],
 };
-export const dnaTree = {
+export const dna = {
   name: "DNA",
   open: true,
   children: [thuiskomen, principes, kernzaken, ondersteunen, meta],
 };
+
+import { outliner } from "../components/aids.js";
+export const toc = outliner()(dna);
+export const outline = outliner()(dna);

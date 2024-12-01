@@ -1,3 +1,6 @@
+---
+title: Sterk merk
+---
 ::: name
 sterk merk
 :::

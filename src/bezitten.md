@@ -1,5 +1,6 @@
 ---
-title: bezitten
+title: Bezitten
+toc
 ---
 # Bezitten
 Van wie is De Zaak eigenlijk en waarom?

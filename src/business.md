@@ -7,7 +7,7 @@ title: Business
 > > — [Roger Waters](https://en.wikipedia.org/wiki/Money_(Pink_Floyd_song)), Pink Floyd.
 ## In this section…
 ~~~js
-import {section2} from "/components/aids.js";
-import {business} from "/aardbron.js";
-display(section2(business));
+import { section } from "./components/aids.js";
+import {business as toc} from "./zones/aardbron.js";
+display(section(toc));
 ~~~

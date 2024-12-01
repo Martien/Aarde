@@ -1,5 +1,5 @@
 ---
-title: "duizend echte fans"
+title: Duizend echte fans
 date: "2009-03-18"
 categories:
   - "geld"

@@ -2,12 +2,12 @@
 title: Aardbron
 ---
 # Aardbron
-Van toen tot toen was Aardbron actief:
+Van maart 2007 tot november 2013 was Aardbron actief:
 - ideale wereld
 - florerende community
 - geldsystemen
 - pareltaal
 ~~~js
-import {toc} from "/aardbron.js";
-display(toc);
+import {outline} from "/zones/aardbron.js";
+display(outline);
 ~~~

@@ -19,7 +19,7 @@ Een mooi Japans woord dat het geheel samenvat is misschien wel *[omotenashi](htt
 Wil je een vergelijkbare organisatie beginnen? Lees dan _[[klonen|Hoe de DNA te klonen]]_.
 
 ~~~js
-import {toc} from "/components/aids.js";
-import {thuiskomen} from "./dna.js";
-display(toc()(thuiskomen));
+import { section } from "./components/aids.js";
+import {thuiskomen as toc} from "./zones/dna.js";
+display(section(toc));
 ~~~

@@ -23,9 +23,8 @@ export const aardbron = {
   name: "Aardbron",
   open: true,
   children: [money, community, business, spirit],
+  // children: [],
 };
 
-import { toc as index, section2 } from "/components/aids.js";
-export const toc = index()(aardbron);
-
-export const c = { data: community, toc: section2(community) };
+import { outliner } from "../components/aids.js";
+export const outline = outliner()(aardbron);

@@ -1,5 +1,5 @@
 ---
-title: open bron
+title: Open bron
 ---
 # Goede open bron
 ::: sketch

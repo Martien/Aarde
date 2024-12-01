@@ -1,5 +1,5 @@
 ---
-toc: false
+title: Aarde
 ---
 
 <div class="hero">

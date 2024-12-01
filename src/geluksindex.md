@@ -1,5 +1,5 @@
 ---
-title: geluksindex
+title: Geluksindex
 ---
 # Geluksindex
 

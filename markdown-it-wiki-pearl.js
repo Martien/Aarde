@@ -31,6 +31,7 @@ export const markdownIt = (md) =>
     )
     .use(MarkdownItContainer, "card")
     .use(MarkdownItContainer, "tip")
+    .use(MarkdownItContainer, "todo")
     .use(MarkdownItContainer, "warning")
     .use(MarkdownItContainer, "pas-op")
     .use(MarkdownItContainer, "name")

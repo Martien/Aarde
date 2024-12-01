@@ -6,7 +6,7 @@ title: Ondersteunen
 Belangrijk spul, maar geen [[kernzaken]].
 
 ~~~js
-import {section2} from "/components/aids.js";
-import {ondersteunen} from "./dna.js";
-display(section2(ondersteunen));
+import { section } from "./components/aids.js";
+import {ondersteunen as toc} from "./zones/dna.js";
+display(section(toc));
 ~~~

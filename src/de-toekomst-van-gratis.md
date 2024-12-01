@@ -1,3 +1,6 @@
+---
+title: Gratis als bedrijfsmodel
+---
 # Chris Anderson over gratis als bedrijfsmodel
 
 Chris Anderson tijdens [[Creativity World Forum 2008]] over **De toekomst van gratis**.

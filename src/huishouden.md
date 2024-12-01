@@ -1,5 +1,5 @@
 ---
-title: huishouden
+title: Huishouden
 ---
 # Huishouden
 
