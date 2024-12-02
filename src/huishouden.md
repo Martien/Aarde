@@ -3,7 +3,7 @@ title: Huishouden
 ---
 # Huishouden
 
-[[Floreren]] vat het economisch model op hoofdlijnen samen. Hier lees je enkel concrete voorbeelden die het huishouden—ofwel de economie—verduidelijken. Onze economie is geënt op onze gedegen [[Ecosofie]].
+[[floreren|Floreren]] vat het economisch model op hoofdlijnen samen. Hier lees je enkel concrete voorbeelden die het huishouden—ofwel de economie—verduidelijken. Onze economie is geënt op onze gedegen [[ecosofie]].
 
 
 ## Voorbeeld: één maand

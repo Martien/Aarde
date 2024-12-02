@@ -2,6 +2,10 @@
 title: Identificeren
 ---
 # Identificeren
+::: as-is
+<img src="dna-identity-pulling-mask.jpg">
+:::
+
 De Zaak heeft twee gezichten:
 
 1. Voor **klanten** assisteert De Zaak je om de prestatie van jouw organisatie naar een hoger plan te transformeren en weet hoe je dat in een razendsnel veranderende wereld het beste aanpakt.

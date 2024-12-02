@@ -16,21 +16,21 @@ Misschien ben je een onafhankelijk adviseur en wil je een of andere samenwerking
 
 ## Wat is het licentiemodel?
 
-De DNA is beschikbaar onder de [Creative Commons Naamsvermelding 4.0 Internationaal-licentie](https://creativecommons.org/licenses/by/4.0/deed.nl). Dat betekent dat je naar hartelust de tekst kunt wijzigen, zelfs voor commerciële doeleinden, zolang je de originele Engelse tekst maar toeschrijft aan Crisp en de Nederlandse tekst toeschrijft aan {{dezaak}}, terwijl je  de licentie aanhoudt zodat anderen hun eigen ingenieuze veranderingen hiervan af kunnen splitsen. Ga lekker de licentie lezen, het is de moeite waard.
+De DNA is beschikbaar onder de [Creative Commons Naamsvermelding 4.0 Internationaal-licentie](https://creativecommons.org/licenses/by/4.0/deed.nl). Dat betekent dat je naar hartelust de tekst kunt wijzigen, zelfs voor commerciële doeleinden, zolang je de originele Engelse tekst maar toeschrijft aan Crisp en de Nederlandse tekst toeschrijft aan {dezaak}, terwijl je  de licentie aanhoudt zodat anderen hun eigen ingenieuze veranderingen hiervan af kunnen splitsen. Ga lekker de licentie lezen, het is de moeite waard.
 
-## Kan ik mijn bedrijf {{dezaak}} noemen?
+## Kan ik mijn bedrijf {de zaak} noemen?
 
-Alsjeblieft niet. We kunnen je rechtmatig niet weerhouden je organisatie {{dezaak}} te noemen, maar we hebben liever dat je een andere naam gebruikt. Anders kunnen mensen zomaar denken dat er een relatie is tussen onze bedrijven. Als je een andere naam kiest, kunnen onze merken zich onafhankelijk ontwikkelen.
+Alsjeblieft niet. We kunnen je rechtmatig niet weerhouden je organisatie {de zaak} te noemen, maar we hebben liever dat je een andere naam gebruikt. Anders kunnen mensen zomaar denken dat er een relatie is tussen onze bedrijven. Als je een andere naam kiest, kunnen onze merken zich onafhankelijk ontwikkelen.
 
 ## Hoe creëer ik mijn eigen kopie van de DNA?
 
 De eenvoudigste manier is om gewoon alle tekst te kopiëren naar je eigen webstek en daar naar je hand te zetten.
 
-Zodra je de DNA gekloond hebt is het niet langer ons model maar jouw model. {{dezaak}} is gewoon jouw voorouderlijke—en enigszins rare—oom. Verander de DNA zoveel als je wilt. Gebruik je eigen organisatienaam. Verwijder pagina’s die niet relevant zijn. Vervang de afbeeldingen. Doe eens gek.
+Zodra je de DNA gekloond hebt is het niet langer ons model maar jouw model. {de zaak} is gewoon jouw voorouderlijke—en enigszins rare—oom. Verander de DNA zoveel als je wilt. Gebruik je eigen organisatienaam. Verwijder pagina’s die niet relevant zijn. Vervang de afbeeldingen. Doe eens gek.
 
 ## Maar wacht eens even, het gaat om heel veel inhoud!
 
-Geen zorgen. Zodra je een kopie hebt gemaakt snoei je alles wat je niet nodig hebt. Het model staat samengevat in [[Identificeren]] en [[Systeem]]. Dus je kunt gewoon alleen met die twee van start en daar je eigen organisatienaam invullen.
+Geen zorgen. Zodra je een kopie hebt gemaakt snoei je alles wat je niet nodig hebt. Het model staat samengevat in [[identificeren]] en [[systeem]]. Dus je kunt gewoon alleen met die twee van start en daar je eigen organisatienaam invullen.
 
 Een andere optie is om al het techneutenspul—het klonen—over te slaan en alleen die stukjes te stelen die je aanspreken.
 

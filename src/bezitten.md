@@ -1,6 +1,6 @@
 ---
 title: Bezitten
-toc
+date: "2016-12-11"
 ---
 # Bezitten
 Van wie is De Zaak eigenlijk en waarom?
@@ -27,7 +27,7 @@ We hebben allemaal adviesbureaus gezien die volgens een piramidemodel werken, wa
 
 Dus zijn onze aandelen vastgezet op laagste waarde die wettelijk mogelijk is. Alle aandelen van De Zaak hebben een totale waarde van 1 eurocent.
 
-Als je mede-eigenaar wordt, hetgeen geheel optioneel is, dan koop je aandelen voor die lage prijs. Je hebt exact hetzelfde aantal aandelen als alle andere mede-eigenaren. Als de De Zaak verlaat moet je jouw aandelen tegen dezelfde prijs verkopen. [[Contracten]] vertelt je er meer over.
+Als je mede-eigenaar wordt, hetgeen geheel optioneel is, dan koop je aandelen voor die lage prijs. Je hebt exact hetzelfde aantal aandelen als alle andere mede-eigenaren. Als de De Zaak verlaat moet je jouw aandelen tegen dezelfde prijs verkopen. [[contracten|Contracten]] vertelt je er meer over.
 
 Kortom, er is geen financiële prikkel om aandelen te bezitten of te verzilveren.
 

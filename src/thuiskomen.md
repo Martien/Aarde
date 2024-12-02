@@ -3,6 +3,9 @@ title: Thuiskomen
 ---
 # Thuiskomen
 
+::: as-is
+![https://stocksnap.io/photo/house-home-CLD6T4J9VZ](thuiskomen-720.jpg)
+:::
 De Zaak is een zwerm van bevlogen ZZP-ers in Nederland, maar niet zomaar een zwerm. Bijvoorbeeld:
 
 - Wij hebben niemand in dienst.
@@ -11,6 +14,7 @@ De Zaak is een zwerm van bevlogen ZZP-ers in Nederland, maar niet zomaar een zwe
 - Wij willen geen inkomsten genereren en verzamelen van onze mensen. In principe en in praktijk zijn we een onderneming zonder winstoogmerk. Onze mensen houden zelf het meeste van wat ze verdienen.
 - Ons model voor eigenaarschap is ontworpen om onze aandelen financieel waardeloos te houden. Er zijn geen prikkels om te verzilveren.
 - Onze mensen zijn 100% autonoom. Ze kunnen doen wat ze willen zolang het ons merk en ons huis versterkt en kunnen zoveel of zo weinig werken als ze willen.
+- Wij willen een {leidend voorbeeld} voor andere ondernemers zijn.
 
 Wij krijgen veel vragen over hoe dit in praktijk werkt, in het bijzonder van andere adviseurs die iets vergelijkbaars willen creëren. Na vele jaren van experimenteren zijn we uitgekomen op een model dat goed werkt en dat het zoete midden vindt tussen het zijn van een onafhankelijke consultant en het zijn van een werknemer. Daarom maken we dit model als {open bron} beschikbaar.
 

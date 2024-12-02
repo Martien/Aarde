@@ -2,6 +2,9 @@
 title: Principes
 ---
 # Leidende principes
+::: as-is
+<img src="coffee-jar+mug-blackboard.jpg">
+:::
 
 Deze beginselen drijven bijna alles bij De Zaak:
 ~~~js

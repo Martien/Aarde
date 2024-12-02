@@ -57,7 +57,7 @@ Nogmaals, we hebben geen haast om te groeien. Een schitterend individu is het wa
 
 ## Wat voor soort mensen passen er nou niet bij De Zaak?
 
-Mensen die op zoek zijn naar stabiliteit passen niet bij ons. Je hebt hier geen vaste werkplek en geen vaste uren. Je krijgt niet eens een vast salaris—het precies andersom—je betaalt een bijdrage en behoudt het meeste van wat je verdient. [[Floreren]] vertelt je de details.
+Mensen die op zoek zijn naar stabiliteit passen niet bij ons. Je hebt hier geen vaste werkplek en geen vaste uren. Je krijgt niet eens een vast salaris—het precies andersom—je betaalt een bijdrage en behoudt het meeste van wat je verdient. [[floreren|Floreren]] vertelt je de details.
 
 Dus als je een klus hebt bloedt je elke maand! Tegelijkertijd verdien hier je meer als je een klus hebt dan welk bedrijf je ook als salaris geeft. Kortom, hoe meer je bloedt, hoe beter het met je gaat. Het is dus aan jou om een buffer in kas te hebben en je risico’s te beheren.
 

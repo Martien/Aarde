@@ -85,4 +85,4 @@ Hier zijn wat opties:
 - **Escaleer de beslissing naar het bestuur.** Bijvoorbeeld, “Hé, bestuur, ik wil ons wervingsproces veranderen. Hoe nemen we daar een beslissing over?” Wij doen ons best het aantal beslissingen dat door het bestuur genomen wordt te minimaliseren. Het bestuur kan echter nuttige inbreng leveren over wie er betrokken moet worden in de beslissing.
 Onze onconferenties en vergelijkbare samenscholingen zijn een prachtige gelegenheid om het beslisproces te bespreken—en in veel gevallen ook de werkelijke beslissing te nemen omdat toch iedereen er is :-).
 
-De [[onconferentie|open structuur]] van onze conferenties zijn samen  de [[handsignalen]] essentieel voor ons [[beslissen|beslisproces]].
+De [[unconference|open structuur]] van onze conferenties zijn samen  de [[handsignalen]] essentieel voor ons [[beslissen|beslisproces]].

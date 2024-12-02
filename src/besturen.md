@@ -1,10 +1,11 @@
 ---
 title: Besturen
+date: "2016-12-12"
 ---
 # Besturen
 De Nederlandse wetgeving schrijft het hebben van een bestuur voor. In de meeste bedrijven wordt het bestuur aangewezen door de eigenaren om hen te representeren zodat de managementgroep onder leiding van de directeur het geheel bestuurt volgens de richtlijnen van de eigenaren en het bestuur.
 
-Bij De Zaak werkt dat wat anders. Ten eerste nodigen we alle Zakenlieden die tenminste twee jaar aan boord zijn uit tot mede-eigenaar. Ten tweede houden we elk jaar verkiezingen voor de leden van het bestuur waarin alle Zakenlieden, mede-eigenaar of niet, stemrecht hebben. Omdat we de rol van directeur hebben geschrapt en omdat we zeer autonome Zakenlieden hebben valt er heel weinig te managen.
+Bij {de zaak} werkt dat wat anders. Ten eerste nodigen we alle Zakenlieden die tenminste twee jaar aan boord zijn uit tot mede-eigenaar. Ten tweede houden we elk jaar verkiezingen voor de leden van het bestuur waarin alle Zakenlieden, mede-eigenaar of niet, stemrecht hebben. Omdat we de rol van directeur hebben geschrapt en omdat we zeer autonome Zakenlieden hebben valt er heel weinig te managen.
 
 
 ## Wat doet het bestuur?
