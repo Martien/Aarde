@@ -21,10 +21,5 @@ export const spirit = {
 };
 export const aardbron = {
   name: "Aardbron",
-  open: true,
   children: [money, community, business, spirit],
-  // children: [],
 };
-
-import { outliner } from "../components/aids.js";
-export const outline = outliner()(aardbron);

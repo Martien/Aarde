@@ -8,6 +8,7 @@ Van maart 2007 tot november 2013 was Aardbron actief:
 - geldsystemen
 - pareltaal
 ~~~js
-import {outline} from "/zones/aardbron.js";
-display(outline);
+import {aardbron as toc} from "/zones/aardbron.js";
+import {outliner} from "/components/aids.js";
+display(outliner()(toc));
 ~~~

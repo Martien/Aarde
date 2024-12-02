@@ -1,7 +1,9 @@
 // this file is used for the sidebar
 // it collects all zones into a single list called pages
-//
+// ready to import by observable.config.js
+
 // import each page from the source
+// NOTA BENE:
 import { aardbron } from "./aardbron.js";
 import { dna } from "./dna.js";
 import { pl } from "./pearl-language.js";
@@ -12,10 +14,20 @@ import { contact } from "./contact.js";
 
 // pager converts each page source to Framework’s page format
 // page source can have more metadata than Framework’s page needs
-import { pager } from "../components/aids.js";
+
+const href = (string) => string.toLowerCase().replace(/\s+/g, "-");
+
+const pager = ({ name, children, open = false, path }) => ({
+  name,
+  path: path || href(name),
+  open,
+  pages: children?.map(({ name }) => ({ name, path: href(name) })),
+});
 
 // collect all pages
+// sidebar has the same order
 // observable.config.js can import and use this verbatim
+// export const pages = [];
 export const pages = [
   apl,
   pl,

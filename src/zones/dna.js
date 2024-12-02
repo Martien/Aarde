@@ -94,7 +94,3 @@ export const dna = {
   open: true,
   children: [thuiskomen, principes, kernzaken, ondersteunen, meta],
 };
-
-import { outliner } from "../components/aids.js";
-export const toc = outliner()(dna);
-export const outline = outliner()(dna);
