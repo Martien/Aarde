@@ -6,6 +6,7 @@ export default {
   pages,
   head: '<link rel="icon" href="observable.png" type="image/png" sizes="32x32">',
   root: "src",
+  search: true,
   style: "style.css",
   footer: ({ path }) =>
     `Built with <a href="https://observablehq.com/">Observable</a> – <a href="https://github.com/Martien/aarde/blob/main/src/${path}.md?plain=1">view source</a> – <a href="./evolver">view site’s evolution</a>`,
