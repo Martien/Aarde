@@ -1,7 +1,7 @@
 ---
 title: DNA
 ---
-# Wat is dit?
+# DNA van {de zaak}
 ::: as-is
 ![DNA](dna-2000x1200.jpg)
 :::
