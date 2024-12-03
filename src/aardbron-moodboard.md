@@ -11,6 +11,6 @@ categories:
 
 *Klik op de plaat voor de <a href="/src/Aardbron-Moodboard.pdf" download>PDF-versie van Aardbron’s Moodboard</a> (548 KB)*
 
-<a href="/src/Aardbron-Moodboard.pdf" download>
+<a href="./Aardbron-Moodboard.pdf" download>
   <img src="./Aardbron-Moodboard-pdf.jpg">
 </a>
