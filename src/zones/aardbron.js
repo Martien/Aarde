@@ -6,6 +6,8 @@ export const money = {
     { name: "De toekomst van gratis" },
     { name: "A flaw in the monetary system" },
     { name: "Adembenemend geldsysteem" },
+    { name: "Als de dollar valt" },
+    { name: "AEGON over renterot" },
   ],
 };
 export const community = {
@@ -15,6 +17,7 @@ export const community = {
     { name: "Duizend echte fans" },
     { name: "Aardnoot Wiki Marathon" },
     { name: "Aards paradijs" },
+    { name: "Alliantie voor een nieuw mensdom" },
   ],
 };
 export const business = {
