@@ -5,6 +5,7 @@ export const money = {
     { name: "Serieus Gek Geld Spel" },
     { name: "De toekomst van gratis" },
     { name: "A flaw in the monetary system" },
+    { name: "Adembenemend geldsysteem" },
   ],
 };
 export const community = {
@@ -13,11 +14,16 @@ export const community = {
     { name: "Vriendkunst" },
     { name: "Duizend echte fans" },
     { name: "Aardnoot Wiki Marathon" },
+    { name: "Aards paradijs" },
   ],
 };
 export const business = {
   name: "Business",
   children: [{ name: "De toekomst van gratis" }, { name: "Made to stick" }],
+};
+export const develop = {
+  name: "Develop",
+  children: [{ name: "Academie voor Levenskunst" }],
 };
 export const spirit = {
   name: "Spirit",
@@ -29,5 +35,6 @@ export const identity = {
 };
 export const aardbron = {
   name: "Aardbron",
-  children: [money, community, business, spirit, identity],
+  open: true,
+  children: [money, community, business, develop, spirit, identity],
 };
