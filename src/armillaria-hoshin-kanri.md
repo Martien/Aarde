@@ -19,7 +19,7 @@ Armillaria is de {hoshin kanri}—voorstel, reden, zakelijke zin en plan van aan
 
 Klik op onderstaande plaat voor de PDF van Armillaria.
 
-[![](images/aardbron-vrijgeld-armillaria-hoshin-kanri-2.0.jpg)](http://aardbron.nl/wp-content/uploads/2010/01/Aardbron-Vrijgeld-Armillaria-hoshin-kanri-2.0.pdf)
+<a href="Aardbron-Vrijgeld-Armillaria-hoshin-kanri-2.0.pdf" download><img src="aardbron-vrijgeld-armillaria-hoshin-kanri-2.0.jpg"></a>
 
 Nog [meer hoshin kanri](hoshin-kanri). Voor meer uitleg, zie {hoshin kanri}.
 
