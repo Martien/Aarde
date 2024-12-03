@@ -8,6 +8,7 @@ export const money = {
     { name: "Adembenemend geldsysteem" },
     { name: "Als de dollar valt" },
     { name: "AEGON over renterot" },
+    { name: "Anthony stort zijn hart uit" },
   ],
 };
 export const community = {
