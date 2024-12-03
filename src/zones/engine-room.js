@@ -15,5 +15,8 @@ export const engineRoom = {
       name: "Markdown-it-container",
       path: "markdown-it-container",
     },
+    {
+      name: "Import WordPress",
+    },
   ],
 };
