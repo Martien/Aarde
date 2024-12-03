@@ -9,6 +9,8 @@ categories:
 ---
 # Aardbron Moodboard
 
-*Klik op de plaat voor de [PDF-versie van Aardbron’s Moodboard](/src/Aardbron-Moodboard.pdf) (548 KB)*
+*Klik op de plaat voor de <a href="/src/Aardbron-Moodboard.pdf" download>PDF-versie van Aardbron’s Moodboard</a> (548 KB)*
 
-[![](Aardbron-Moodboard-pdf.jpg)](/src/Aardbron-Moodboard.pdf)
+<a href="/src/Aardbron-Moodboard.pdf" download>
+  <img src="./Aardbron-Moodboard-pdf.jpg">
+</a>
