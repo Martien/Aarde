@@ -33,7 +33,10 @@ export const develop = {
 };
 export const spirit = {
   name: "Spirit",
-  children: [{ name: "The soul hypothesis" }],
+  children: [
+    { name: "The soul hypothesis" },
+    { name: "Beleving van verbinding" },
+  ],
 };
 export const identity = {
   name: "Identity",
