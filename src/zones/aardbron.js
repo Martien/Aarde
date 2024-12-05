@@ -36,6 +36,7 @@ export const spirit = {
   children: [
     { name: "The soul hypothesis" },
     { name: "Beleving van verbinding" },
+    { name: "Bericht uit het Universum" },
   ],
 };
 export const identity = {
