@@ -8,6 +8,7 @@ categories:
   - "samenlevenskunst"
 ---
 # Aardbron Moodboard
+## 2010-03-15
 
 *Klik op de plaat voor de <a href="./Aardbron-Moodboard.pdf" download>PDF-versie van Aardbron’s Moodboard</a> (548 KB)*
 

@@ -6,6 +6,7 @@ categories:
 ---
 
 # Academie voor Levenskunst
+## 2008-01-08
 
 Om meteen maar met de deur in huis te vallen, Aardbron wil in de komende jaren hét opleidingsinstituut zijn dat **mens, organisatie, overheid, bedrijfsleven en maatschappij** in staat stelt de levenskunst ten volle te bedrijven. **Mensen zijn scheppers.** Je wordt van harte uitgenodigd om mee te scheppen aan deze Academie voor Levenskunst.
 

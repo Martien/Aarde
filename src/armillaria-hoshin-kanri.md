@@ -14,6 +14,7 @@ keywords:
  - "project"
 ---
 # Armillaria hoshin kanri
+## 2010-01-04
 
 Armillaria is de {hoshin kanri}—voorstel, reden, zakelijke zin en plan van aanpak op één A4—om met **Nederland Vrijgeldland**™ [[samenlevenskunst]] op te laten bloeien.
 

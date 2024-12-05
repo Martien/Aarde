@@ -9,6 +9,7 @@ categories:
  - "video"
 ---
 # Banken Bonus Battle
+# 2010-03-14
 
 Dan Roam doet het rookgordijn dat de superrijken hebben opgetrokken—[[Miljardairs 50 procent rijker in 2009]]—glashelder uit de doeken.
 

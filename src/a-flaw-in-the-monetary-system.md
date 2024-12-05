@@ -5,6 +5,8 @@ categories:
   - "money"
 ---
 # A flaw in the monetary system?
+## 2013-08-11
+
 ![](A-Flaw-in-the-Monetary-System.png)
 
 Excellent 7 minute video of [how we fool ourselves with our current monetary system](https://vimeo.com/71074210).

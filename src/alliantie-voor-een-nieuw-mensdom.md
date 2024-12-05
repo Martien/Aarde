@@ -10,6 +10,7 @@ tags:
  - "wees-de-verandering"
 ---
 # Alliantie voor een Nieuw Mensdom
+## 2008-06-03
 
 De ~~[Alliance for a New Humanity Nederland](http://anhnederland.ning.com/)~~ brengt mensen bij elkaar die samen een beweging in gang zetten die leidt tot een waarachtige en vreedzame wereld. Het bundelen van krachten van deze pioniers van verandering veroorzaakt een onomkeerbaar en steeds sneller groeiend momentum.
 

@@ -13,6 +13,7 @@ tags:
   - "wikinomie"
 ---
 # Aardnoot wikimarathon
+## 2008-06-03
 
 [Aardnoot.nl](http://aardnoot.nl) is een prille start van een “semantische” Wiki voor het nieuwe mensdom; zeg maar de Nederlandstalige Wikipedia voor samenlevenskunst. Kan en wil je meedoen aan een *content marathon*?
 

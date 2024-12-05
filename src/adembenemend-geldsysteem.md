@@ -5,6 +5,7 @@ categories:
  - "geld"
 ---
 # Adembenemend geldsysteem
+## 2010-01-13
 
 Onder water. Tot aan je knieën vastgezogen in de taaie klei. Alleen een rietje.
 
