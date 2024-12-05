@@ -3,6 +3,7 @@ export const money = {
   children: [
     { name: "De centimeters zijn op" },
     { name: "Serieus Gek Geld Spel" },
+    { name: "Armillaria hoshin kanri" },
     { name: "De toekomst van gratis" },
     { name: "A flaw in the monetary system" },
     { name: "Adembenemend geldsysteem" },

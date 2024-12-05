@@ -7,7 +7,7 @@ categories:
  - "project"
  - "vrijgeld"
  - "zakelijke-zin"
-tags:
+keywords:
  - "armillaria"
  - "hoshin-kanri"
  - "initiatief"
@@ -49,13 +49,13 @@ Nog [meer hoshin kanri](hoshin-kanri). Voor meer uitleg, zie {hoshin kanri}.
 
 - Schaal bewezen monetaire oplossingsrichtingen uit de onderstroom op naar nationaal niveau.
 - Ontwerp en implementeer een elegant, slim, schaalvrij, gedecentraliseerd, zelforganiserend, zelfhelend en zakelijk zinnig open source [[vrijgeld]]systeem en monetair internetprotocol dat:
-   - [[samenlevenskunst]], sociale cohesie en maatschappelijke participatie nationaal katalyseert;
-   - mensen in staat stelt elk gereedschap te creëren voor het uitdrukken, groeien en uitwisselen van krediet, waarde, rijkdom, rangordening en verkiezing met (eigen) digitale girale munten;
-   - volledig onafhankelijk is van hard- en software en leveranciers; en
-   - voldoende, duurzaam, ‘gratis’ & waardevast is.
+  - [[samenlevenskunst]], sociale cohesie en maatschappelijke participatie nationaal katalyseert;
+  - mensen in staat stelt elk gereedschap te creëren voor het uitdrukken, groeien en uitwisselen van krediet, waarde, rijkdom, rangordening en verkiezing met (eigen) digitale girale munten;
+  - volledig onafhankelijk is van hard- en software en leveranciers; en
+  - voldoende, duurzaam, ‘gratis’ & waardevast is.
 
 ## Waarom?
- Vergrijzing, ontgroening, toenemende spanning in de markt en de transitie naar duurzaamheid op basis van grote systeemwijzigingen vergroot de hunkering naar oplossingsgerichte innovaties van aanvullende monetaire systemen uit de onderstroom. De noodzaak voor en behoefte aan structurele innovaties op maatschappelijk, economisch en financieel terrein neemt sterk toe. De transitie van de ‘ikonomie’ naar de ‘wijconomie’ is onomkeer- baar ingezet.
+Vergrijzing, ontgroening, toenemende spanning in de markt en de transitie naar duurzaamheid op basis van grote systeemwijzigingen vergroot de hunkering naar oplossingsgerichte innovaties van aanvullende monetaire systemen uit de onderstroom. De noodzaak voor en behoefte aan structurele innovaties op maatschappelijk, economisch en financieel terrein neemt sterk toe. De transitie van de ‘ikonomie’ naar de ‘wijconomie’ is onomkeer- baar ingezet.
 
 Geldsystemen oefenen een extreme kracht uit op organisatiestructuren en kunnen genetwerkte gemeenschappen en samenlevenskunst maken of breken. Daarmee hebben ontwerpkeuzes voor geldsystemen een ongekende impact op sociale cohesie en zijn daarmee van kritisch maatschap- pelijk belang. Ons huidige monetaire systeem blijkt verouderd en achterhaald en past niet meer bij de zich steeds sneller ontwikkelende informatie-, kennis- en wijsheidstechnologie.
 
@@ -79,7 +79,7 @@ Nederland is een land van vrijdenkers en vrijdoeners. Laten wij wederom een impu
    - Prototype (RFID) chippas operationeel.
    - DNB steekt voorzichtig duim omhoog.
    - EU zet [[vrijgeld]] op agenda en Buitenhof rapporteert.
-- **Seizoen 2**:
+- **Seizoen 2**:
    - Wachtrij voor participatie in project groeit.
    - 1.000 bedrijven investeren elk €1.000.
    - Open source software vrijgegeven.
