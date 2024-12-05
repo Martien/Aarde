@@ -23,6 +23,7 @@ export const community = {
     { name: "Aardnoot Wiki Marathon" },
     { name: "Aards paradijs" },
     { name: "Alliantie voor een nieuw mensdom" },
+    { name: "Bewegende Beelden Festival 4 april" },
   ],
 };
 export const business = {
