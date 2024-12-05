@@ -45,4 +45,4 @@ Al jaren hebben ze nagedacht over een grondige hervorming van hun geldsysteem en
 
 Als sportieve wedstrijd bouwen ze allebei in slechts 10 jaar een nieuwe hoofdstad in hun eigen land. Na 10 jaar wordt het geldsysteem van degene die de mooiste stad bouwt en waar de mensen het gelukkigst zijn ook in het andere land ingevoerd. In welke stad wil jij graag wonen?
 
-[» Meer informatie en inschrijven](http://www.bewegendebeelden.nl/site/mc/1/11/42/201/bewegende%2bbeelden%2bfestival%2b4%2bapril%2b2009.html).
+[» Videoverslag](https://youtu.be/He3xYfa6anw?si=0QDN5xqIjacDG-IN).
