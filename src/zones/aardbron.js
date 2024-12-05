@@ -7,6 +7,7 @@ export const money = {
     { name: "De toekomst van gratis" },
     { name: "A flaw in the monetary system" },
     { name: "Betaal met Arkel" },
+    { name: "Betaal met belminuten" },
     { name: "Banken Bonus Battle" },
     { name: "Adembenemend geldsysteem" },
     { name: "Als de dollar valt" },
