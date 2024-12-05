@@ -5,7 +5,7 @@ categories:
  - "zomaar"
 ---
 # Beleving van verbinding
-## 2008-02-06
+### 2008-02-06
 
 **Alles is met alles verbonden.** Wie spreekt en denkt daar niet over? Is het waar? Of is het gewoon het eerste axioma voor **Nieuwe Hoop**? Áls het waar is, moet ik er ook iets van voelen en iedereen moet het kunnen ontdekken. Één-zijn met al wat is. Vóel ik iets van **‘oneness’**? Of vóelt het als ik eerlijk ben, tóch dat het allemaal iets buiten mij is, iets wat ik kan gebruiken? Wil ik graag _geloven_ dat alles verbonden is met alles? Uit de Nieuwe Hoop lijkt een **Nieuwe Geloofsethiek** te komen.
 

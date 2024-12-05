@@ -5,6 +5,7 @@ date: "2016-12-12"
 # Communiceren
 
 ## Wat zijn onze interne hoofdkanalen voor communicatie?
+### 2016-12-12
 
 Onze hoofdkanalen voor interne communicatie zijn:
 

@@ -2,6 +2,8 @@
 title: Open bron
 ---
 # Goede open bron
+### 2020-07-04
+
 ::: sketch
 <img src="open-source-initiative-2048x1152.png">
 :::

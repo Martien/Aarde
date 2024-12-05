@@ -5,7 +5,7 @@ categories:
  - "geld"
 ---
 # Als de dollar valt
-## 2008-03-27
+### 2008-03-27
 
 ![](als-de-dollar-valt-omslag-klein.png)
 

@@ -4,6 +4,7 @@ date: "2016-12-10"
 ---
 
 # Wat meten we?
+### 2016-12-10
 
 Om te floreren meten we:
 

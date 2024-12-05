@@ -3,6 +3,8 @@ title: Bezitten
 date: "2016-12-11"
 ---
 # Bezitten
+### 2016-12-11
+
 Van wie is De Zaak eigenlijk en waarom?
 
 De Zaak is een Nederlandse [Besloten Vennootschap](https://nl.wikipedia.org/wiki/Besloten_vennootschap_met_beperkte_aansprakelijkheid) en dus zijn er aandelen en wettelijk moet iemand daar eigenaar van zijn.

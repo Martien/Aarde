@@ -5,7 +5,7 @@ categories:
  - "geld"
 ---
 # Anthony stort zijn hart uit
-## 2009-04-25
+### 2009-04-25
 
 Anthony Michgels, een van de oprichters van ~~[Gelre Handelsnetwerken](http://www.gelre-handelsnetwerken.nl/)~~ waar ze de Gelre als alternatief betaalmiddel gebruiken stort zijn hart van verbazing en verwarring uit. ---- Het moet me even van het hart mensen: [Bloomberg » Financial Rescue Nears GDP as Pledges Top $12.8 Trillion (Update 1)](http://www.bloomberg.com/apps/news?pid#20601087&sidarmOzfkwtCA4&refer=worldwide)
 

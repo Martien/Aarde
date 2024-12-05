@@ -3,6 +3,7 @@ title: "E-mail conventies"
 date: "2016-12-15"
 ---
 # E-mail conventies
+### 2016-12-15
 
 Eenvoudige conventies voor scherpe, puntige, heldere communicatie.
 

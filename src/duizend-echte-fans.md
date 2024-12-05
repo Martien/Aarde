@@ -5,6 +5,7 @@ categories:
   - "geld"
 ---
 # Duizend echte fans
+### 2009-03-18
 
 ::: as-is
 <img src="duizend-echte-fans.jpg" style="width:100%"/>

@@ -8,6 +8,7 @@ categories:
 - "serieus-spel"
 ---
 # De centimeters zijn op
+### 2009-09-01
 
 Er is een baanbrekende, verstorende en innovatieve manier om de gevolgen van de kredietcrisis het hoofd te bieden en ook nog op een duurzame manier.
 

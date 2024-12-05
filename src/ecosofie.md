@@ -3,6 +3,7 @@ title: "Ecosofie"
 date: "2017-07-08"
 ---
 # Ecosofie
+### 2017-07-08
 
 Waar eco**nomie** de **regels** en eco**logie** de **kennis** van het [[huishouden]] vormen, daar geeft eco**sofie** de **wijsheid** van de huishouding.
 

@@ -3,6 +3,7 @@ title: Ondernemen
 date: "2016-12-13"
 ---
 # Ondernemen
+### 2016-12-13
 
 Eigenlijk hebben we niet echt een gebied waarin we werken. Joppe en Martien hebben allebei hun IT-achtergrond ondertussen ontstegen. In de loop der jaren hebben ze zich ontwikkeld tot strateeg, coach, opleider en {hofnar}. Ze bedienen zich voornamelijk van de waarden, principes, praktijken en parels van agile en lean. Langzaam en zeker groeit dat uit tot sociocratie, holacratie en andere besturingssystemen voor florerende organisaties in een steeds sterker veranderende tijd.
 

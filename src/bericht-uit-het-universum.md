@@ -5,7 +5,7 @@ categories:
  - ”zomaar"
 ---
 # Bericht uit het Universum
-## 2008-08-01
+### 2008-08-01
 
 Al een paar jaar ben ik geabonneerd op [TUT… A Note from the Universe](https://www.tut.com/notes-from-the-universe/) van de _TUT Adventurer’s Club_, een initiatief van Mike Dooley. Elke werkdag een vaak prachtige en altijd opbeurend bericht uit het Universum. Soms ook heel diep.
 

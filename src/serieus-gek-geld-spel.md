@@ -4,7 +4,8 @@ date: "2009-01-05"
 categories:
   - geld
 ---
-## Serieus Gek Geld Spel
+# Serieus Gek Geld Spel
+### 2009-01-05
 
 ::: vista
 <img src="serieus-gek-geld-spel-vista.png"/>

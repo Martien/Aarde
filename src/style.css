@@ -3,6 +3,18 @@
 @import url("observablehq:theme-parchment.css");
 @import url("note.css");
 
+/* h1 + h3 is a publication date */
+h1 + h3 {
+    font-size: small;
+    font-family: sans-serif;
+    font-weight: normal;
+    color: grey;
+    margin-bottom: 24px;
+}
+h1 + h3::after {
+    /* content: " 📅"; */
+}
+
 .as-is,
 .vista {
     max-width: 640px;

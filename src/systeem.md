@@ -4,6 +4,7 @@ date: "2016-12-10"
 ---
 
 # Waarom dit model werkt (voor ons).
+### 2016-12-10
 
 Na jaren van experimenteren is er een model ontstaan dat werkelijk goed voor ons werkt. Doorstroom van onze staf is nagenoeg nul, de [[geluksindex]] is meestal hoger dan 4 en de omzet per meemaker is ongeveer twee maal zo hoog als bij een doorsnee adviesbureau. Bovendien geven onze cliënten ons wonderbaarlijk goede recensies, zo goed dat we te nederig zijn ze hier te tonen.
 
