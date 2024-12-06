@@ -29,7 +29,11 @@ export const community = {
 };
 export const business = {
   name: "Business",
-  children: [{ name: "De toekomst van gratis" }, { name: "Made to stick" }],
+  children: [
+    { name: "De toekomst van gratis" },
+    { name: "Made to stick" },
+    { name: "Change the changes" },
+  ],
 };
 export const develop = {
   name: "Develop",
