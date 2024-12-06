@@ -1,4 +1,7 @@
 # Made to stick
+::: as-is
+<img src="madetostick-web12.jpg">
+:::
 
 Tijdens het [[Creativity World Forum 2008]] lichtte Dan Heath het door zijn broer en hem geschreven boek “Made to stick” toe. Over broodje aap verhalen zoals het gebruik van de regenworm in hamburgers van McDonald's, maar ook het feit dat de Chinese Muur vanuit de ruimte te zien is. Kortom, dingen die blijven plakken, die iets betekenen, die iets veranderen.
 
