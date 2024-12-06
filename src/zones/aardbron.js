@@ -37,6 +37,7 @@ export const develop = {
     { name: "Academie voor Levenskunst" },
     { name: "Inhaalslag Bildung voor altijd" },
     { name: "Brad Neuberg on Inventing with Values" },
+    { name: "Byron Katie" },
   ],
 };
 export const spirit = {
