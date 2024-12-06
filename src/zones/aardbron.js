@@ -32,7 +32,10 @@ export const business = {
 };
 export const develop = {
   name: "Develop",
-  children: [{ name: "Academie voor Levenskunst" }],
+  children: [
+    { name: "Academie voor Levenskunst" },
+    { name: "Inhaalslag Bildung voor altijd" },
+  ],
 };
 export const spirit = {
   name: "Spirit",
