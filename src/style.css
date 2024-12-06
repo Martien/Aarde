@@ -3,6 +3,18 @@
 @import url("observablehq:theme-parchment.css");
 @import url("note.css");
 
+@import url("https://fonts.googleapis.com/css2?family=Bitter:ital,wght@0,100..900;1,100..900&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+root: {
+    --serif: Bitter, Inter, -apple-system, BlinkMacSystemFont, "avenir next",
+        avenir, helvetica, "helvetica neue", ubuntu, roboto, noto, "segoe ui",
+        arial, sans-serif;
+    --sans-serif: Bitter;
+}
+body,
+.card {
+    font-family: Bitter;
+}
 /* h1 + h3 is a publication date */
 h1 + h3 {
     font-size: small;
