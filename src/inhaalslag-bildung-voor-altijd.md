@@ -5,6 +5,7 @@ categories:
  - "zomaar"
 ---
 # Inhaalslag Bildung voor altijd
+### 2008-03-07
 
 De interesse van Aardbron richt zich op het **klaar zijn voor altijd.** Niet beperkt tot het nu of het straks; nee, voor altijd. Volgens [Klaus Prange](https://de.wikipedia.org/wiki/Klaus_Prange) is **Bildung voor altijd.** Ik ben dat volkomen met hem eens. Aardbron houdt zich kortgezegd dan ook met al haar trainingen, samenscholingen en andere activiteiten bezig met _Bildung_.
 

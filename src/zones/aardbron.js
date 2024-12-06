@@ -6,6 +6,7 @@ export const money = {
     { name: "Armillaria hoshin kanri" },
     { name: "De toekomst van gratis" },
     { name: "A flaw in the monetary system" },
+    { name: "BitCoin explained" },
     { name: "Betaal met Arkel" },
     { name: "Betaal met belminuten" },
     { name: "Banken Bonus Battle" },
