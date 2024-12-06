@@ -25,6 +25,7 @@ export const community = {
     { name: "Aards paradijs" },
     { name: "Alliantie voor een nieuw mensdom" },
     { name: "Bewegende Beelden Festival 4 april" },
+    { name: "Cogito en conscientia" },
   ],
 };
 export const business = {
