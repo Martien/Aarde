@@ -36,6 +36,7 @@ export const develop = {
   children: [
     { name: "Academie voor Levenskunst" },
     { name: "Inhaalslag Bildung voor altijd" },
+    { name: "Brad Neuberg on Inventing with Values" },
   ],
 };
 export const spirit = {
