@@ -52,6 +52,7 @@ export const spirit = {
     { name: "The soul hypothesis" },
     { name: "Beleving van verbinding" },
     { name: "Bericht uit het Universum" },
+    { name: "Daniel Goleman over compassie" },
   ],
 };
 export const identity = {
