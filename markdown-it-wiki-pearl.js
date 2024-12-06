@@ -14,6 +14,7 @@ export const markdownIt = (md) =>
     .use(
       // wikilinks default: [[...]]
       markdownItWikilinks({
+        linkPattern: /\[\[([^\]|]+)(\|([^\]]+))?\]\]/,
         uriSuffix: "",
         postProcessPageName,
         // makeAllLinksAbsolute: true,
