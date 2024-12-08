@@ -54,6 +54,7 @@ export const develop = {
 export const spirit = {
   name: "Spirit",
   children: [
+    { name: "De ziel van Leiderschap" },
     { name: "The soul hypothesis" },
     { name: "Beleving van verbinding" },
     { name: "Bericht uit het Universum" },
