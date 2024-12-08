@@ -58,6 +58,7 @@ export const spirit = {
     { name: "Beleving van verbinding" },
     { name: "Bericht uit het Universum" },
     { name: "Daniel Goleman over compassie" },
+    { name: "De wereld van Merlijn" },
   ],
 };
 export const identity = {
