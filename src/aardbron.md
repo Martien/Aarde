@@ -7,6 +7,8 @@ Van maart 2007 tot november 2013 was Aardbron actief:
 - florerende community
 - geldsystemen
 - pareltaal
+
+Hier verzamelen zich alle artikelen uit die tijd, oorspronkelijk geplaats op `aardbron.nl`.
 ~~~js
 import {aardbron as toc} from "/zones/aardbron.js";
 import {outliner} from "/components/aids.js";
