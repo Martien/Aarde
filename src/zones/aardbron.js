@@ -37,9 +37,11 @@ export const business = {
   name: "Business",
   children: [
     { name: "De toekomst van gratis" },
+    { name: "Doorbraakversneller" },
     { name: "Made to stick" },
     { name: "Change the changes" },
     { name: "De Essentie van Leiderschap" },
+    { name: "Don’t eat the marshmallow yet" },
     { name: "De Tien Gezichten van Innovatie" },
   ],
 };

@@ -16,7 +16,10 @@ import { contact } from "./contact.js";
 // page source can have more metadata than Framework’s page needs
 
 const href = (string) =>
-  string.toLowerCase().replace(/\s+/g, "-").replace(/[,:]/g, "");
+  string
+    .toLowerCase()
+    .replace(/[\s\W]+/g, "-")
+    .replace(/[,:]/g, "");
 
 const pager = ({ name, children, open = false, path }) => ({
   name,

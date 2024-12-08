@@ -1,5 +1,8 @@
 export const href = (string) =>
-  string.toLowerCase().replace(/\s+/g, "-").replace(/[,:]/g, "");
+  string
+    .toLowerCase()
+    .replace(/[\s\W]+/g, "-")
+    .replace(/[,:]/g, "");
 
 import { html } from "htl";
 
