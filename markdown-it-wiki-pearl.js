@@ -13,17 +13,16 @@ const postProcessLabel = (label) => label.trim();
 export const markdownIt = (md) =>
   md
     .use(
-      // wikilinks default: [[...]]
+      // [[text]] or [[text|link]]
       markdownItWikilinks({
         linkPattern: /\[\[([^\]|]+)(\|([^\]]+))?\]\]/,
         uriSuffix: "",
         postProcessPageName,
-        // makeAllLinksAbsolute: true,
       }),
     )
     .use(
+      // {pearl}
       markdownItWikilinks({
-        // linkPattern: /\{\{?([-\S\s/]+)(\|([-\S\s/]+))?\}\}?/,
         linkPattern: /\{([^\}]*)\}/,
         uriSuffix: "",
         htmlAttributes,

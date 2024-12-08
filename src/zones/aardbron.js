@@ -34,6 +34,7 @@ export const community = {
     { name: "Bewegende Beelden Festival 4 april" },
     { name: "Cogito en conscientia" },
     { name: "Creativity World Forum 2008" },
+    { name: "Feedback van de deelgevers van het eerste uur" },
   ],
 };
 export const business = {
