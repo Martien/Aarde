@@ -13,7 +13,7 @@ categories:
 # Deepak Chopra in Nederland
 ### 2008-02-06
 
-Voor €595,— kan je op [18 april in Almere naar Deepak Chopra](http://www.deepakkomtnaarnederland.nl/) en je onderdompelen in:
+Voor €595,— kan je op ~~[18 april in Almere naar Deepak Chopra](http://www.deepakkomtnaarnederland.nl/)~~ en je onderdompelen in:
 > **The Soul of Leadership**
 
 Een evenement georganiseerd door ~~[Nieuwe Dimensies](http://www.nieuwedimensies.nl/)~~. Prachtig.
