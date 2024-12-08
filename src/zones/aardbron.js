@@ -71,6 +71,7 @@ export const spirit = {
     { name: "Bericht uit het Universum" },
     { name: "Daniel Goleman over compassie" },
     { name: "De wereld van Merlijn" },
+    { name: "Geurt Busser, waddenschilder" },
   ],
 };
 export const identity = {
