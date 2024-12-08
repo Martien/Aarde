@@ -39,6 +39,7 @@ export const business = {
     { name: "Made to stick" },
     { name: "Change the changes" },
     { name: "De Essentie van Leiderschap" },
+    { name: "De Tien Gezichten van Innovatie" },
   ],
 };
 export const develop = {
