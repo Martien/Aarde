@@ -24,6 +24,7 @@ export const money = {
 export const community = {
   name: "Community",
   children: [
+    { name: "Elke wijk in de stad is op zichzelf een stad" },
     { name: "Vriendkunst" },
     { name: "Duizend echte fans" },
     { name: "Aardnoot Wiki Marathon" },
