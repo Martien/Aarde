@@ -7,7 +7,8 @@ import markdownItWikilinks from "@ig3/markdown-it-wikilinks";
 import MarkdownItContainer from "markdown-it-container";
 
 const htmlAttributes = { class: "pearl" };
-const postProcessPageName = (pageName) => pageName.trim().replace(/\s+/g, "-");
+const postProcessPageName = (pageName) =>
+  pageName.trim().toLowerCase().replace(/\s+/g, "-");
 const postProcessLabel = (label) => label.trim();
 export const markdownIt = (md) =>
   md
