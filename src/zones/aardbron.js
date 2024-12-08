@@ -38,6 +38,7 @@ export const business = {
   children: [
     { name: "De toekomst van gratis" },
     { name: "Doorbraakversneller" },
+    { name: "Doorbreken in 7 stappen" },
     { name: "Made to stick" },
     { name: "Change the changes" },
     { name: "De Essentie van Leiderschap" },
