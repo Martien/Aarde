@@ -56,6 +56,7 @@ export const spirit = {
   children: [
     { name: "De ziel van Leiderschap" },
     { name: "Deepak Chopra in Almere op 16 april" },
+    { name: "Deepak Chopra in Nederland" },
     { name: "The soul hypothesis" },
     { name: "Beleving van verbinding" },
     { name: "Bericht uit het Universum" },
