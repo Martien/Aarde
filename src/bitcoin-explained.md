@@ -7,4 +7,4 @@ categories:
 # BitCoin explained
 ### 2013-11-24
 
-☞ https://www.youtube.com/watch?v=SEbCbp1vc9Y
+@[youtube](SEbCbp1vc9Y)

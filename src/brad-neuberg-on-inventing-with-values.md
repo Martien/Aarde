@@ -22,7 +22,11 @@ A few months ago, my friend, [BradNeuberg](http://www.eekim.com/cgi-bin/wiki.pl?
 
 I want to highlight four things Brad said: * [(ME7)](http://www.eekim.com/blog/2007/07/01/neuberginventionvalues#nidME7 "ME7")
 
-- A good way to approach invention is, ’I Against I’ (The name comes from a [classic](http://en.wikipedia.org/wiki/I_Against_I) [punk](http://www.sing365.com/music/lyric.nsf/I-Against-I-lyrics-Bad-Brains/286F8B749C69DB3E48256D0A002F6EFF) [song](http://youtube.com/watch?v=LOAHFwrqj04) from the mid-80s.) Don’t worry about what others will do. Instead of trying to protect your ideas by putting up walls, compete against yourself. If you’re going to be put to pasture by somebody, it might as well be by you. And as Brad points out, no ideas are safe. In this day and age, you _will_ be put to pasture. * [(ME8)](http://www.eekim.com/blog/2007/07/01/neuberginventionvalues#nidME8)
+- A good way to approach invention is, ’I Against I’. The name comes from a [classic](http://en.wikipedia.org/wiki/I_Against_I) [punk](http://www.sing365.com/music/lyric.nsf/I-Against-I-lyrics-Bad-Brains/286F8B749C69DB3E48256D0A002F6EFF) [song](http://youtube.com/watch?v=LOAHFwrqj04) from the mid-80s:
+
+@[youtube](LOAHFwrqj04)
+
+Don’t worry about what others will do. Instead of trying to protect your ideas by putting up walls, compete against yourself. If you’re going to be put to pasture by somebody, it might as well be by you. And as Brad points out, no ideas are safe. In this day and age, you _will_ be put to pasture. * [(ME8)](http://www.eekim.com/blog/2007/07/01/neuberginventionvalues#nidME8)
 
 - Brad’s section on **_values_** was tremendous. He cited two techniques for clarifying values. The first was ’Mob Rule.’ If you were the only thing between an angry mob and some other thing, what thing would cause you to stand your ground? This reminds me of something [AlanDershowitz](http://www.eekim.com/cgi-bin/wiki.pl?AlanDershowitz) said in the best class I ever took in college. Dershowitz said that he was willing to die for freedom of speech. I was astounded by that statement, and it made me think about the values that I was willing to die for. * [(ME9)](http://www.eekim.com/blog/2007/07/01/neuberginventionvalues#nidME9)
 

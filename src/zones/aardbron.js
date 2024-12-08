@@ -2,6 +2,7 @@ export const money = {
   name: "Money",
   children: [
     { name: "Ecosofische beginselen" },
+    { name: "Flow money" },
     { name: "De centimeters zijn op" },
     { name: "De hoer, de boer, de slager, de waard en de toerist" },
     { name: "De rijken rijker en de armen rijken" },
@@ -53,9 +54,9 @@ export const business = {
 export const develop = {
   name: "Develop",
   children: [
-    { name: "Academie voor Levenskunst" },
+    { name: "Academie voor levenskunst" },
     { name: "Inhaalslag Bildung voor altijd" },
-    { name: "Brad Neuberg on Inventing with Values" },
+    { name: "Brad Neuberg on inventing with values" },
     { name: "Byron Katie" },
   ],
 };
