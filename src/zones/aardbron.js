@@ -64,6 +64,7 @@ export const develop = {
     { name: "Inhaalslag Bildung voor altijd" },
     { name: "Brad Neuberg on inventing with values" },
     { name: "Byron Katie" },
+    { name: "Geluksbedrading standaard" },
   ],
 };
 export const spirit = {
