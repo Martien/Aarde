@@ -7,6 +7,7 @@ export const money = {
     { name: "De hoer, de boer, de slager, de waard en de toerist" },
     { name: "De rijken rijker en de armen rijken" },
     { name: "De rivier en haar identiteit" },
+    { name: "Gek Geld" },
     { name: "Serieus Gek Geld Spel" },
     { name: "Armillaria hoshin kanri" },
     { name: "De toekomst van gratis" },
