@@ -31,4 +31,4 @@ Een greep uit de bak:
 - [Vergaderaccomodaties](http://aardnoot.nl/Categorie:Vergaderaccomodatie) die duurzaam en milieubewust opereren, en waar je prettig voelt en verantwoord en lekker kunt eten.
 - [Levenskunststromingen](http://aardnoot.nl/Categorie:Levenskunststroming) zoals Boeddhisme, Hindoeïsme, Christendom, Islam en Jodendom, en daarbinnen zaken zoals Soefisme, Theosofie en zo voort.
 
-Zoals je kan zien is er nog veel in te vullen. Ik wil graag een {inhoudsmarathon} organiseren zodat we met een handvol bevlogen mensen in één dag een hele bak inhoud genereren voor de Wiki. **Kan en wil je meewerken aan deze {inhoudsmarathon}?** [[Contact|Neem dan contact op met Martien van Steenbergen]].
+Zoals je kan zien is er nog veel in te vullen. Ik wil graag een ‘inhoudsmarathon’ organiseren zodat we met een handvol bevlogen mensen in één dag een hele bak inhoud genereren voor de Wiki. **Kan en wil je meewerken aan deze inhoudsmarathon?** [[Contact|Neem dan contact op met Martien van Steenbergen]].

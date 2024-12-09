@@ -22,7 +22,7 @@ In De Lotto Arena van Antwerpen vond 19 en 20 november het [Creativity World For
 - Dan “[[Made to Stick]]” Heat;
 - [[Chris Anderson over gratis als bedrijfsmodel|Chris “Long Tail” Anderson]]—over **gratis** als bedrijfsmodel.
 
-Daarnaast een hele riedel {pecha kuchas}. Sommigen hadden meer de smaak van een commercial, terwijl anderen je weer raakten. De {pecha kucha} die mij het meeste raakte was die van Arnoud Raskin van Streetwize waarin de tiener Junieth Mericelda Machao Juarez in haar zeer moeilijke omstandiggeden het al over leiderschap heeft en ook die talenten uitstraalt in de tweede helft van de video:
+Daarnaast een hele riedel {pecha kucha}s. Sommigen hadden meer de smaak van een commercial, terwijl anderen je weer raakten. De {pecha kucha} die mij het meeste raakte was die van Arnoud Raskin van Streetwize waarin de tiener Junieth Mericelda Machao Juarez in haar zeer moeilijke omstandiggeden het al over leiderschap heeft en ook die talenten uitstraalt in de tweede helft van de video:
 - Wees altijd positief;
 - Ga door tot het einde—altijd opnieuw blijven proberen, totdat je het hebt gevonden;
 - Kijk vooruit—heb visie en begin met het einde in gedachten;

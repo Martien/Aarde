@@ -7,12 +7,24 @@ import markdownItContainer from "markdown-it-container";
 import markdownItWikilinks from "@ig3/markdown-it-wikilinks";
 import markdownItVideo from "markdown-it-video";
 
+// import replacer from "markdown-it-replace-it";
+// replacer.replacements.push({
+//   name: "allcaps",
+//   re: /[a-z]/g,
+//   html: true,
+//   sub: function (s) {
+//     return "<span>" + s.toUpperCase() + "</span>";
+//   },
+//   default: true,
+// });
+
 const htmlAttributes = { class: "pearl" };
 const postProcessPageName = (pageName) =>
   pageName.trim().toLowerCase().replace(/\s+/g, "-");
 const postProcessLabel = (label) => label.trim();
 export const markdownIt = (md) =>
   md
+    // .use(replacer)
     .use(
       // [[text]] or [[text|link]]
       markdownItWikilinks({
