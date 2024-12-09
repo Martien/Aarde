@@ -11,6 +11,7 @@ export const money = {
     { name: "Serieus Gek Geld Spel" },
     { name: "Armillaria hoshin kanri" },
     { name: "Geld als rookgordijn" },
+    { name: "Geld voor een nieuwe samenleving" },
     { name: "De toekomst van gratis" },
     { name: "Euros voor cybergeld wettig" },
     { name: "A flaw in the monetary system" },
