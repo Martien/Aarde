@@ -20,6 +20,7 @@ export const money = {
     { name: "Adembenemend geldsysteem" },
     { name: "Als de dollar valt" },
     { name: "AEGON over renterot" },
+    { name: "Fortis failliet" },
     { name: "Anthony stort zijn hart uit" },
   ],
 };
