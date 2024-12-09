@@ -5,10 +5,10 @@ export const apl = {
     // with all the patterns;
     // disabled for now because it creates a long
     // list of broken links during build
-    // {
-    //   name: "Pattern list",
-    //   path: "pattern-list",
-    // },
+    {
+      name: "Pattern list",
+      path: "pattern-list",
+    },
     {
       name: "Independent regions",
       path: "independent-regions",

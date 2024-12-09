@@ -18,6 +18,6 @@ process.stdout.write("# Pattern list\n");
 process.stdout.write(
   (await readFile(fileURLToPath(import.meta.resolve(pn)), "utf-8"))
     .split("\n")
-    .map((p) => `1. {${p}}\n`)
+    .map((p) => `1. <span class="pearl">${p}</span>\n`)
     .join(""),
 );
