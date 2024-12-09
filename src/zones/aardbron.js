@@ -75,6 +75,7 @@ export const spirit = {
     { name: "Daniel Goleman over compassie" },
     { name: "De wereld van Merlijn" },
     { name: "Geurt Busser, waddenschilder" },
+    { name: "Gandhi Nederland Tour" },
   ],
 };
 export const identity = {
