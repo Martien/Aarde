@@ -12,6 +12,7 @@ export const money = {
     { name: "Armillaria hoshin kanri" },
     { name: "Geld als rookgordijn" },
     { name: "Geld voor een nieuwe samenleving" },
+    { name: "Geld als instrument voor massaheling" },
     { name: "De toekomst van gratis" },
     { name: "Euros voor cybergeld wettig" },
     { name: "A flaw in the monetary system" },
