@@ -56,6 +56,7 @@ export const business = {
     { name: "De Essentie van Leiderschap" },
     { name: "Don’t eat the marshmallow yet" },
     { name: "De Tien Gezichten van Innovatie" },
+    { name: "Gewoon…doen" },
   ],
 };
 export const develop = {
