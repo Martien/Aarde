@@ -1,0 +1,40 @@
+# !run from project directory!
+
+# assumes ./dist/ has release to deploy
+
+
+
+date=`date  '+%Y-%m-%d-%H-%M-%S'`
+www='/Volumes/www/nl.aardrock.aarde'
+dest="${www}/${date}"
+obsolete=`readlink ${www}/www`
+
+echo "date: ${date}"
+echo "www: ${www}"
+echo "dest: ${dest}"
+echo "obsolete: ${obsolete}"
+
+[ -d "./dist" ] || {
+    echo "./dist does not exist"
+    exit
+}
+
+[ -d "${dest}" ] && {
+    echo "${dest} already exists"
+    exit
+}
+
+
+echo "installing: rsync -a ./dist/ ${dest}"
+mkdir "${dest}" &&
+rsync -a "./dist/" "${dest}"
+
+echo "${date} installed"
+
+
+cd ${www} &&
+ln -shf "${date}" www &&
+rm -rf "${www}/${obsolete}"
+
+echo "${date} activated"
+echo "${obsolete} removed"
