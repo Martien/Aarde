@@ -14,6 +14,7 @@ export const money = {
     { name: "Geld als rookgordijn" },
     { name: "Geld is een afspraak" },
     { name: "Geld voor een nieuwe samenleving" },
+    { name: "Het geld van de toekomst" },
     { name: "Geld als instrument voor massaheling" },
     { name: "Heel onze Aarde met geld" },
     { name: "De toekomst van gratis" },
