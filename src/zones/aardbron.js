@@ -14,6 +14,7 @@ export const money = {
     { name: "Geld is een afspraak" },
     { name: "Geld voor een nieuwe samenleving" },
     { name: "Geld als instrument voor massaheling" },
+    { name: "Heel onze Aarde met geld" },
     { name: "De toekomst van gratis" },
     { name: "Euros voor cybergeld wettig" },
     { name: "A flaw in the monetary system" },
