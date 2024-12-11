@@ -37,6 +37,7 @@ export const community = {
     { name: "Elke wijk in de stad is op zichzelf een stad" },
     { name: "Geschenkenconomie katalyseert gemeenschapszin" },
     { name: "Vriendkunst" },
+    { name: "Helping others makes us happy" },
     { name: "Duizend echte fans" },
     { name: "Aardnoot Wiki Marathon" },
     { name: "Aards paradijs" },
