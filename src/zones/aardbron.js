@@ -55,6 +55,7 @@ export const business = {
   children: [
     { name: "De toekomst van gratis" },
     { name: "Doorbraakversneller" },
+    { name: "Hiepergroei" },
     { name: "Doorbreken in 7 stappen" },
     { name: "Made to stick" },
     { name: "Gun 50.000 euro aan je concurrent" },

@@ -17,7 +17,7 @@ tags:
 # Het geld van de toekomst
 ### 2009-04-25
 
-‘Het geld van de toekomst’ is een Nederlandse vertaling van Bernard Lietaer's ‘The Future of Money’. (‘De toekomst van geld’ is mijns inziens een betere vertaling van de titel, maar dat terzijde).
+“Het geld van de toekomst” is een Nederlandse vertaling van Bernard Lietaer's “The Future of Money”. (“De toekomst van geld” is mijns inziens een betere vertaling van de titel, maar dat terzijde).
 
 Eén van de mooie verhalen over rente op schuld is het verhaal van [[Het elfde schijfje]]
 
