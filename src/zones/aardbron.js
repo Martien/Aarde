@@ -41,6 +41,7 @@ export const community = {
     { name: "Vriendkunst" },
     { name: "Holacratie" },
     { name: "Helping others makes us happy" },
+    { name: "Howard Rheingold over samenwerken" },
     { name: "Duizend echte fans" },
     { name: "Aardnoot Wiki Marathon" },
     { name: "Aards paradijs" },
