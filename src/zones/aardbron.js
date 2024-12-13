@@ -6,6 +6,7 @@ export const money = {
     { name: "De centimeters zijn op" },
     { name: "De hoer, de boer, de slager, de waard en de toerist" },
     { name: "De rijken rijker en de armen rijken" },
+    { name: "Huidig geldsysteem onwettig" },
     { name: "De rivier en haar identiteit" },
     { name: "Het elfde schijfje" },
     { name: "Gek Geld" },

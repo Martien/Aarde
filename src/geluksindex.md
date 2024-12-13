@@ -1,5 +1,6 @@
 ---
 title: Geluksindex
+index: true
 ---
 # Geluksindex
 
