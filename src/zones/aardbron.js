@@ -60,6 +60,7 @@ export const business = {
     { name: "Doorbraakversneller" },
     { name: "Hiepergroei" },
     { name: "Doorbreken in 7 stappen" },
+    { name: "Innoveer je bedrijfsmodel" },
     { name: "Made to stick" },
     { name: "Gun 50.000 euro aan je concurrent" },
     { name: "Change the changes" },
