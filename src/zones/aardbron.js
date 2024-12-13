@@ -64,6 +64,7 @@ export const business = {
     { name: "De Essentie van Leiderschap" },
     { name: "Hoshin Kanri" },
     { name: "Hoshin Kanri Prezi" },
+    { name: "How the markets really work" },
     { name: "Don’t eat the marshmallow yet" },
     { name: "De Tien Gezichten van Innovatie" },
     { name: "Gewoon…doen" },
