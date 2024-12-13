@@ -62,6 +62,8 @@ export const business = {
     { name: "Gun 50.000 euro aan je concurrent" },
     { name: "Change the changes" },
     { name: "De Essentie van Leiderschap" },
+    { name: "Hoshin Kanri" },
+    { name: "Hoshin Kanri Prezi" },
     { name: "Don’t eat the marshmallow yet" },
     { name: "De Tien Gezichten van Innovatie" },
     { name: "Gewoon…doen" },
