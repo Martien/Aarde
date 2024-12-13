@@ -81,6 +81,7 @@ export const develop = {
     { name: "Brad Neuberg on inventing with values" },
     { name: "Byron Katie" },
     { name: "Geluksbedrading standaard" },
+    { name: "Innovatieplatform Noord-Nederland" },
   ],
 };
 export const spirit = {
