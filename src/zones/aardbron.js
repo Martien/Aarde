@@ -82,6 +82,7 @@ export const develop = {
     { name: "Hypercortex" },
     { name: "Brad Neuberg on inventing with values" },
     { name: "Byron Katie" },
+    { name: "J.K. Rowling over falen en verbeelden" },
     { name: "Geluksbedrading standaard" },
     { name: "Innovatieplatform Noord-Nederland" },
   ],
