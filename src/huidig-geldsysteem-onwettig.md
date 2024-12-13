@@ -25,7 +25,7 @@ De [Wet op de Kansspelen](https://wetten.overheid.nl/BWBR0002469/2022-10-01) def
 
 Net zoals ons geldsysteem dus.
 
-Een piramidespel kan je als een soort **faillissementsfraude** of **flessentrekkerij** zien: **men laat een onderneming opzettelijk schulden maken die zij uiteindelijk niet kan nakomen**. Wanneer men echter hieraan toekomt, is het al te laat en is de vogel gevlogen.
+Een piramidespel kan je als een soort **[faillissementsfraude](https://nl.wikipedia.org/wiki/Faillissementsfraude)** of **[flessentrekkerij](https://nl.wikipedia.org/wiki/Flessentrekkerij)** zien: **men laat een onderneming opzettelijk schulden maken die zij uiteindelijk niet kan nakomen**. Wanneer men echter hieraan toekomt, is het al te laat en is de vogel gevlogen.
 
 Welke verlichte juristen hebben het lef om dit eens aan een nader onderzoek te onderwerpen.
 

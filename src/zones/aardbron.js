@@ -77,6 +77,7 @@ export const develop = {
   children: [
     { name: "Academie voor levenskunst" },
     { name: "Inhaalslag Bildung voor altijd" },
+    { name: "Hypercortex" },
     { name: "Brad Neuberg on inventing with values" },
     { name: "Byron Katie" },
     { name: "Geluksbedrading standaard" },
