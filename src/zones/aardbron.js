@@ -63,6 +63,7 @@ export const business = {
     { name: "JAM in het Co-creation lab" },
     { name: "Hiepergroei" },
     { name: "Doorbreken in 7 stappen" },
+    { name: "John Cleese over creativiteit" },
     { name: "Innoveer je bedrijfsmodel" },
     { name: "Made to stick" },
     { name: "Gun 50.000 euro aan je concurrent" },
