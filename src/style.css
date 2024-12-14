@@ -114,6 +114,9 @@ publication {
     font-weight: normal;
     display: block;
 }
+.therefore:lang(nl)::before {
+    content: "Daarom:";
+}
 /* div.constitution > p, */
 /* div.context > p {
     display: inline;
