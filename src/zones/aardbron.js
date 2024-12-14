@@ -59,6 +59,7 @@ export const business = {
   children: [
     { name: "De toekomst van gratis" },
     { name: "Doorbraakversneller" },
+    { name: "JAM in het Co-creation lab" },
     { name: "Hiepergroei" },
     { name: "Doorbreken in 7 stappen" },
     { name: "Innoveer je bedrijfsmodel" },
