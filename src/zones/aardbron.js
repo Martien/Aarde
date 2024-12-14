@@ -64,6 +64,7 @@ export const business = {
     { name: "Hiepergroei" },
     { name: "Doorbreken in 7 stappen" },
     { name: "John Cleese over creativiteit" },
+    { name: "Koe en Paardebloem" },
     { name: "Innoveer je bedrijfsmodel" },
     { name: "Made to stick" },
     { name: "Gun 50.000 euro aan je concurrent" },
