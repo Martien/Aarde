@@ -113,6 +113,7 @@ export const spirit = {
     { name: "Droom" },
     { name: "En ik dan" },
     { name: "Leven is een kunst om te leren" },
+    { name: "Living is an art to be learned" },
     { name: "Deepak Chopra in Almere op 16 april" },
     { name: "Deepak Chopra in Nederland" },
     { name: "The soul hypothesis" },
