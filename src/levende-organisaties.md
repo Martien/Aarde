@@ -41,9 +41,12 @@ Wensen voor een dergelijke organisatie zijn:
 - Ontwikkel passie, richting en energie door een heldere gemeenschappelijke bedoeling (zin), beeld (visie), missie, waarden en deugden.
 :::
 
+::: rationale
 ## Levende organisaties
 
 Levende, holacratisch bestuurde chaorganisaties zijn wendbaar en duurzaam. Levende organisaties richten zich op het met succes verbinden van techniek en organisatie, en op basis van biologische fundamenten.
+
+Verborgen overeenkomsten tussen het biologische, psychologische en sociale leven. Het **starten, groeien en floreren van communities** en **praktijkgemeenschappen**. Kenmerkende eigenschappen verweven in een prachtige **{pareltaal}** die je helpen de **creatieve en collectieve kracht van gemeenschappen** in te zetten voor **baanbrekende innovatie** en **voortbestaan op de lange termijn**.
 
 Levende en bruisende organisaties zijn:
 - open;
@@ -111,3 +114,6 @@ Er zijn weinig of geen professionele diensten die andere organisaties helpen met
 1. In hoeverre gebruiken leiders hun **macht om anderen macht te geven** zodat verschillende leiders naar voren komen op het moment dat zij nodig zijn om de diverse stadia van een doorbraakproces te vergemakkelijken of te katalyseren?
 1. Op welke manier wordt de mate waarin praktijkgemeenschappen **levend zijn**, of het welzijn van haar deelgenoten of de ecologische duurzaamheid van haar producten en diensten **gemeten**?
 1. Welke **biologische tijd** tikt er onder de processen die zorgen voor **slow management** en rust in de tent?
+
+[Dompel je nog meer onder in **levende organisaties**](http://wiki.aardrock.com/Levende_organisaties), maar verdrink niet.
+:::
