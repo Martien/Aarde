@@ -1,8 +1,7 @@
-export const money = {
-  name: "Money",
+export const geld = {
+  name: "Geld",
   children: [
     { name: "Ecosofische beginselen" },
-    { name: "Flow money" },
     { name: "De centimeters zijn op" },
     { name: "De hoer, de boer, de slager, de waard en de toerist" },
     { name: "De rijken rijker en de armen rijken" },
@@ -21,10 +20,6 @@ export const money = {
     { name: "Heel onze Aarde met geld" },
     { name: "De toekomst van gratis" },
     { name: "Euros voor cybergeld wettig" },
-    { name: "A flaw in the monetary system" },
-    { name: "Direct, immediate exchange" },
-    { name: "Kredietcrisis left & right" },
-    { name: "BitCoin explained" },
     { name: "Betaal met Arkel" },
     { name: "Betaal met belminuten" },
     { name: "Banken Bonus Battle" },
@@ -34,6 +29,16 @@ export const money = {
     { name: "AEGON over renterot" },
     { name: "Fortis failliet" },
     { name: "Anthony stort zijn hart uit" },
+  ],
+};
+export const money = {
+  name: "Money",
+  children: [
+    { name: "Flow money" },
+    { name: "A flaw in the monetary system" },
+    { name: "Direct, immediate exchange" },
+    { name: "Kredietcrisis left & right" },
+    { name: "BitCoin explained" },
   ],
 };
 export const community = {
@@ -71,7 +76,6 @@ export const business = {
     { name: "Made to stick" },
     { name: "Gun 50.000 euro aan je concurrent" },
     { name: "Change the changes" },
-    { name: "De Essentie van Leiderschap" },
     { name: "Hoshin Kanri" },
     { name: "Hoshin Kanri Prezi" },
     { name: "How the markets really work" },
@@ -93,10 +97,17 @@ export const develop = {
     { name: "Innovatieplatform Noord-Nederland" },
   ],
 };
+export const leiderschap = {
+  name: "Leiderschap",
+  children: [
+    { name: "De Essentie van Leiderschap" },
+    { name: "Leiderschap ben je zelf" },
+    { name: "De ziel van leiderschap" },
+  ],
+};
 export const spirit = {
   name: "Spirit",
   children: [
-    { name: "De ziel van leiderschap" },
     { name: "Droom" },
     { name: "En ik dan" },
     { name: "Deepak Chopra in Almere op 16 april" },
@@ -117,5 +128,14 @@ export const identity = {
 export const aardbron = {
   name: "Aardbron",
   open: true,
-  children: [money, community, business, develop, spirit, identity],
+  children: [
+    geld,
+    money,
+    develop,
+    leiderschap,
+    community,
+    business,
+    spirit,
+    identity,
+  ],
 };
