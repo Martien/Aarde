@@ -23,6 +23,7 @@ export const money = {
     { name: "Euros voor cybergeld wettig" },
     { name: "A flaw in the monetary system" },
     { name: "Direct, immediate exchange" },
+    { name: "Kredietcrisis left & right" },
     { name: "BitCoin explained" },
     { name: "Betaal met Arkel" },
     { name: "Betaal met belminuten" },
