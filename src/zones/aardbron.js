@@ -111,6 +111,7 @@ export const spirit = {
   name: "Spirit",
   children: [
     { name: "Droom" },
+    { name: "Love, The Purest Form of Energy" },
     { name: "En ik dan" },
     { name: "Leven is een kunst om te leren" },
     { name: "Living is an art to be learned" },
