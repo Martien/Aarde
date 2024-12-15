@@ -28,6 +28,7 @@ export const geld = {
     { name: "Adembenemend geldsysteem" },
     { name: "Gouden ballen" },
     { name: "Als de dollar valt" },
+    { name: "Miljardairs 50 procent rijker in 2009" },
     { name: "AEGON over renterot" },
     { name: "Fortis failliet" },
     { name: "Anthony stort zijn hart uit" },
