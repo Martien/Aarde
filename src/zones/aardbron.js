@@ -93,6 +93,7 @@ export const business = {
     { name: "Don’t eat the marshmallow yet" },
     { name: "De Tien Gezichten van Innovatie" },
     { name: "Gewoon…doen" },
+    { name: "Open enterprise" },
   ],
 };
 export const develop = {
