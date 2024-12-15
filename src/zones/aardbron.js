@@ -40,6 +40,7 @@ export const money = {
     { name: "Flow money" },
     { name: "Money as the instrument of mass healing" },
     { name: "A flaw in the monetary system" },
+    { name: "Money malfunction, and what we can do about it" },
     { name: "Direct, immediate exchange" },
     { name: "Kredietcrisis left & right" },
     { name: "BitCoin explained" },
