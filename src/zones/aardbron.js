@@ -126,6 +126,7 @@ export const spirit = {
     { name: "De wereld van Merlijn" },
     { name: "Geurt Busser, waddenschilder" },
     { name: "Gandhi Nederland Tour" },
+    { name: "Mens en Spirit" },
   ],
 };
 export const identity = {
