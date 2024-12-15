@@ -1,8 +1,9 @@
 export const href = (string) =>
   string
     .toLowerCase()
-    .replace(/[\s\W]+/g, "-")
-    .replace(/[,:]/g, "");
+    .normalize("NFKD")
+    .replace(/[ ]+/g, "-")
+    .replace(/[^\w-,;]+/g, "");
 
 import { html } from "htl";
 

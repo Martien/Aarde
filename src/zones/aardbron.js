@@ -123,7 +123,7 @@ export const spirit = {
     { name: "Love, The Purest Form of Energy" },
     { name: "En ik dan" },
     { name: "Leven is een kunst om te leren" },
-    { name: "Noosfeer" },
+    { name: "Noösfeer" },
     { name: "Living is an art to be learned" },
     { name: "Deepak Chopra in Almere op 16 april" },
     { name: "Deepak Chopra in Nederland" },

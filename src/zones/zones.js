@@ -18,8 +18,9 @@ import { contact } from "./contact.js";
 const href = (string) =>
   string
     .toLowerCase()
-    .replace(/[\s\W]+/g, "-")
-    .replace(/[,:]/g, "");
+    .normalize("NFKD")
+    .replace(/[ ]+/g, "-")
+    .replace(/[^\w-,;]+/g, "");
 
 const pager = ({ name, children, open = false, path }) => ({
   name,
