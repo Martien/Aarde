@@ -8,6 +8,7 @@ export const geld = {
     { name: "De rijken rijker en de armen rijken" },
     { name: "Huidig geldsysteem onwettig" },
     { name: "Op zoek naar een nieuw idee van ‘geld’" },
+    { name: "Oud versus nieuw geld" },
     { name: "De rivier en haar identiteit" },
     { name: "Het elfde schijfje" },
     { name: "Gek Geld" },
