@@ -129,6 +129,7 @@ export const spirit = {
     { name: "Love, The Purest Form of Energy" },
     { name: "Op slag inzicht" },
     { name: "En ik dan" },
+    { name: "Overmatige beelden" },
     { name: "Leven is een kunst om te leren" },
     { name: "Noösfeer" },
     { name: "Living is an art to be learned" },
