@@ -65,7 +65,7 @@ export const community = {
     { name: "Bewegende Beelden Festival 4 april" },
     { name: "Cogito en conscientia" },
     { name: "Creativity World Forum 2008" },
-    { name: "Nomad" },
+    { name: "Nomads Life" },
     { name: "Feedback van de deelgevers van het eerste uur" },
   ],
 };
@@ -123,6 +123,7 @@ export const spirit = {
     { name: "Love, The Purest Form of Energy" },
     { name: "En ik dan" },
     { name: "Leven is een kunst om te leren" },
+    { name: "Noosfeer" },
     { name: "Living is an art to be learned" },
     { name: "Deepak Chopra in Almere op 16 april" },
     { name: "Deepak Chopra in Nederland" },
