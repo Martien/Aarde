@@ -121,6 +121,7 @@ export const spirit = {
     { name: "Living is an art to be learned" },
     { name: "Deepak Chopra in Almere op 16 april" },
     { name: "Deepak Chopra in Nederland" },
+    { name: "Mijn intentie" },
     { name: "The soul hypothesis" },
     { name: "Beleving van verbinding" },
     { name: "Bericht uit het Universum" },
