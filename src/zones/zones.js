@@ -4,7 +4,7 @@
 
 // import each page from the source
 // NOTA BENE:
-import { aardbron } from "./aardbron.js";
+import { aardbron, geld, money } from "./aardbron.js";
 import { dna } from "./dna.js";
 import { pl } from "./pearl-language.js";
 import { apl } from "./a-pattern-language.js";
@@ -39,5 +39,7 @@ export const pages = [
   dna,
   contact,
   aardbron,
+  money,
+  geld,
   engineRoom,
 ].map(pager);

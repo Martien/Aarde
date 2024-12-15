@@ -104,6 +104,7 @@ export const leiderschap = {
   children: [
     { name: "De Essentie van Leiderschap" },
     { name: "Leiderschap ben je zelf" },
+    { name: "Margaret Wheatley over duurzaam leidinggeven" },
     { name: "De ziel van leiderschap" },
   ],
 };
