@@ -47,6 +47,7 @@ export const community = {
   name: "Community",
   children: [
     { name: "Levende organisaties" },
+    { name: "Metamorfose" },
     { name: "Elke wijk in de stad is op zichzelf een stad" },
     { name: "Geschenkenconomie katalyseert gemeenschapszin" },
     { name: "Vriendkunst" },
