@@ -38,6 +38,7 @@ export const money = {
   name: "Money",
   children: [
     { name: "Flow money" },
+    { name: "Money as the instrument of mass healing" },
     { name: "A flaw in the monetary system" },
     { name: "Direct, immediate exchange" },
     { name: "Kredietcrisis left & right" },
