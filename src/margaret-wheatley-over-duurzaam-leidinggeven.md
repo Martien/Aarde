@@ -1,6 +1,7 @@
 ---
 title: Margaret Wheatley over duurzaam leidinggeven
 date: 2010-01-14
+index: true
 categories:
  - "leiderschap"
  - "samenscholing"

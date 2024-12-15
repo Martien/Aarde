@@ -20,6 +20,7 @@ export const geld = {
     { name: "Heel onze Aarde met geld" },
     { name: "De toekomst van gratis" },
     { name: "Euros voor cybergeld wettig" },
+    { name: "Medeleven met Madoff" },
     { name: "Betaal met Arkel" },
     { name: "Betaal met belminuten" },
     { name: "Banken Bonus Battle" },
