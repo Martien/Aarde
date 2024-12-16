@@ -7,16 +7,9 @@ export const engineRoom = {
   name: "Engine Room",
   children: [
     zones,
-    {
-      name: "Wiki markup",
-      path: "wiki",
-    },
-    {
-      name: "Markdown-it-container",
-      path: "markdown-it-container",
-    },
-    {
-      name: "Import WordPress",
-    },
+    { name: "Wiki markup" },
+    { name: "Markdown-it-container" },
+    { name: "Import WordPress" },
+    { name: "Observable Framework quirks" },
   ],
 };
