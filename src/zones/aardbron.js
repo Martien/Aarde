@@ -7,6 +7,7 @@ export const geld = {
     { name: "De hoer, de boer, de slager, de waard en de toerist" },
     { name: "De rijken rijker en de armen rijken" },
     { name: "Huidig geldsysteem onwettig" },
+    { name: "Radicale overvloed" },
     { name: "Op zoek naar een nieuw idee van ‘geld’" },
     { name: "Oud versus nieuw geld" },
     { name: "De rivier en haar identiteit" },
