@@ -66,6 +66,7 @@ export const community = {
     { name: "Aards paradijs" },
     { name: "Alliantie voor een nieuw mensdom" },
     { name: "Pleidooi voor een laatmoderne levenskunst" },
+    { name: "Aloha" },
     { name: "Monsterlijke mensen" },
     { name: "Ouderkunst" },
     { name: "Peer-to-peer, de nieuwe beschaving en holacratie" },
