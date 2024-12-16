@@ -53,6 +53,14 @@ export const money = {
     { name: "BitCoin explained" },
   ],
 };
+export const aloha = {
+  name: "Aloha",
+  tagline: "hallo, affectie, liefde, compassie, dank, tot ziens",
+  children: [
+    { name: "Resultaten uit het verleden waarderen" },
+    { name: "Pleidooi voor een laatmoderne levenskunst" },
+  ],
+};
 export const community = {
   name: "Community",
   children: [
@@ -68,7 +76,6 @@ export const community = {
     { name: "Aardnoot Wiki Marathon" },
     { name: "Aards paradijs" },
     { name: "Alliantie voor een nieuw mensdom" },
-    { name: "Pleidooi voor een laatmoderne levenskunst" },
     { name: "Aloha" },
     { name: "Monsterlijke mensen" },
     { name: "Ouderkunst" },
@@ -173,5 +180,6 @@ export const aardbron = {
     business,
     spirit,
     identity,
+    aloha,
   ],
 };

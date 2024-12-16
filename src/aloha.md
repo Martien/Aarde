@@ -18,3 +18,9 @@ Het {vurig verlangen} van het Aloha genootschap is:
 Geheel in de geest van Ben & Jerry's medeoprichter Ben Cohen die zegt “Wat je geeft krijg je terug.” zijn wij zijn ervan overtuigd dat geven en ontvangen in onze samenleving een verandering teweeg kan brengen. Daarom stellen wij dit boek geheel vrij beschikbaar voor de prijs die de koper daarvoor wenst te betalen.
 
 Dit vertrouwen wordt bevestigd door navraag en onderzoek bij diverse winkeliers, die dit ook een prachtig initiatief vinden. Daarmee willen we geven en ontvangen grootschalig bewust maken voor elk Nederlands-sprekend mens.
+
+~~~js
+import { section } from "./components/aids.js";
+import { aloha as toc } from "./zones/aardbron.js";
+display(section(toc));
+~~~

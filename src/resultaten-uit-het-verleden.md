@@ -1,0 +1,1 @@
+Zie http://pareltaal.nl/Resultaten_uit_het_verleden

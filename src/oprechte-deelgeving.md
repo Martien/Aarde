@@ -1,0 +1,1 @@
+Zie http://pareltaal.nl/Oprechte_deelgeving
