@@ -1,5 +1,6 @@
 ---
 title: About
+index: true
 ---
 # About
 Since the beginning of the web – somewhere in the nineties, when I was working at [Sun Microsystems](https://en.wikipedia.org/wiki/Sun_Microsystems) – I have been writing posts. I used a myriad of domains to publish them – `martien.steenbergen.nl`, `aardrock.com`, `aardrock.nl`, `martien.aardrock.com`, `martien.aardrock.nl`, `therockfamily.nl`, `pearllanguage.org`, `pareltaal.nl`, `aardnoot.nl`, and a handful of subdomains, often a wiki. I exclusively used [WordPress](https://wordpress.org) and [Mediawiki](https://www.mediawiki.org).

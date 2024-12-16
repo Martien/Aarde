@@ -3,6 +3,7 @@ title: Beleving van verbinding
 date: "2008-02-06"
 categories:
  - "zomaar"
+index: true
 ---
 # Beleving van verbinding
 ### 2008-02-06

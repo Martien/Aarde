@@ -5,6 +5,7 @@ categories:
  - "leiderschap"
  - "tedtalk"
  - "video"
+index: true
 ---
 
 # Don’t eat the marshmallow yet

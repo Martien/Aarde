@@ -5,6 +5,7 @@ categories:
  - "geld"
  - "samenscholing"
  - "serieus-spel"
+index: true
 ---
 # Bewegende Beelden Festival 4 april
 ### 2009-03-03

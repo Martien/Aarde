@@ -1,5 +1,6 @@
 ---
 title: Thuiskomen
+index: true
 ---
 # Thuiskomen
 

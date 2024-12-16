@@ -10,6 +10,7 @@ tags:
  - "informatie"
  - "rente"
  - "schuld"
+index: true
 ---
 
 # Geld is een afspraak

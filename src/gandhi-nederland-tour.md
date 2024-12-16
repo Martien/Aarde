@@ -9,6 +9,7 @@ categories:
 tags:
  - "gandhi"
  - "vrede"
+index: true
 ---
 
 # Gandhi Nederland Tour

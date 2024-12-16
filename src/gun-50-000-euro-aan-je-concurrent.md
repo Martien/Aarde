@@ -6,6 +6,7 @@ categories:
 tags:
  - "open-source"
  - "wikinomie"
+index: true
 ---
 
 # Gun 50.000 euro aan je concurrent

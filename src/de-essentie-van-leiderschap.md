@@ -6,6 +6,7 @@ categories:
 tags:
  - "leiderschap"
  - "spiritualiteit"
+index: true
 ---
 # De Essentie van Leiderschap
 ### 2008-04-06

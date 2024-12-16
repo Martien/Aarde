@@ -3,6 +3,7 @@ title: Inhaalslag Bildung voor altijd
 date: "2008-03-07"
 categories:
  - "zomaar"
+index: true
 ---
 # Inhaalslag Bildung voor altijd
 ### 2008-03-07

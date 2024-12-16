@@ -1,6 +1,7 @@
 ---
 title: Op slag inzicht
 date: 2008-04-06
+index: true
 ---
 
 # Op slag inzicht

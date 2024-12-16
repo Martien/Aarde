@@ -17,6 +17,7 @@ tags:
  - "samenlevenskunst"
  - "symbiose"
  - "systeem"
+index: true
 ---
 
 # Gek Geld

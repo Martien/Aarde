@@ -7,6 +7,7 @@ categories:
  - "money"
  - "samenlevenskunst"
  - "vrijgeld"
+index: true
 ---
 
 # Direct, immediate exchange

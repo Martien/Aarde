@@ -1,6 +1,7 @@
 ---
 title: "Contracteren"
 date: "2016-12-15"
+index: true
 ---
 # Contracteren
 ### 2016-12-15

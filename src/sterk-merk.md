@@ -1,5 +1,6 @@
 ---
 title: Sterk merk
+index: true
 ---
 ::: name
 sterk merk

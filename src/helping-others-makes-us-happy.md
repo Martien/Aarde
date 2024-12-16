@@ -7,6 +7,7 @@ categories:
  - "english"
  - "levenskunst"
  - "whole-world"
+index: true
 ---
 
 # Helping others makes us happy

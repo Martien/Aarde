@@ -4,6 +4,7 @@ date: 2010-01-13
 categories:
  - "geld"
  - "serieus-spel"
+index: true
 ---
 
 # Euros voor cybergeld wettig volgens hooggerechtshof

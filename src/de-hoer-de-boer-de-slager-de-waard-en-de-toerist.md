@@ -3,6 +3,7 @@ title: De hoer, de boer, de slager, de waard en de toerist
 date: "2009-10-05"
 categories:
   - "geld"
+index: true
 ---
 # De hoer, de boer, de slager, de waard en de toerist
 ### 2009-10-05

@@ -3,6 +3,7 @@ title: "Aards paradijs"
 date: "2010-03-08"
 categories:
  - "zomaar"
+index: true
 ---
 # Aards paradijs
 ### 2010-03-08

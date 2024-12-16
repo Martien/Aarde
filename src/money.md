@@ -1,5 +1,6 @@
 ---
 title: "Money"
+index: true
 ---
 # Money
 > Money, so they say, is the root of all evil today.

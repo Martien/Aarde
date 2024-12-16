@@ -13,6 +13,7 @@ tags:
  - "spiritualiteit"
  - "tijd"
  - "ziel"
+index: true
 ---
 
 # Deepak Chopra in Almere op 16 april

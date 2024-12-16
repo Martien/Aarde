@@ -3,6 +3,7 @@ title: Fortis failliet
 date: 2009-07-24
 categories:
  - "geld"
+index: true
 ---
 
 # Fortis failliet

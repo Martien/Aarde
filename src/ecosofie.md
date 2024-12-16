@@ -1,6 +1,7 @@
 ---
 title: "Ecosofie"
 date: "2017-07-08"
+index: true
 ---
 # Ecosofie
 ### 2017-07-08

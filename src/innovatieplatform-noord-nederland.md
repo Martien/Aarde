@@ -8,6 +8,7 @@ categories:
  - "innovation"
  - "levenskunst"
  - "whole-world"
+index: true
 ---
 
 # Innovatieplatform Noord-Nederland

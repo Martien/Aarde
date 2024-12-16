@@ -1,5 +1,6 @@
 ---
 title: City Country Fingers
+index: true
 ---
 
 ::: name

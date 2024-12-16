@@ -1,5 +1,6 @@
 ---
 title: Werven
+index: true
 ---
 
 

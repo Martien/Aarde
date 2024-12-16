@@ -6,6 +6,7 @@ categories:
   - "beschaving"
   - "holacratie"
   - "samenlevenskunst"
+index: true
 ---
 # Aardbron Moodboard
 ### 2010-03-15

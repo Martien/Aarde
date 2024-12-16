@@ -1,5 +1,6 @@
 ---
 title: Business
+index: true
 ---
 
 # Business

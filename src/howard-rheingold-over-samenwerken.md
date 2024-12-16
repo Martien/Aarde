@@ -9,6 +9,7 @@ categories:
  - "video"
 tags:
  - "howard-rheingold"
+index: true
 ---
 
 # Howard Rheingold over samenwerken

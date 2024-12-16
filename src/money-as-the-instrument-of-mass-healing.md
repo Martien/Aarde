@@ -1,6 +1,7 @@
 ---
 title: Money as the Instrument of Mass Healing
 date: 2009-01-09
+index: true
 ---
 
 # Money as the Instrument of Mass Healing

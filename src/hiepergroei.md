@@ -13,6 +13,7 @@ tags:
  - "leiderschap"
  - "standaardisatie"
  - "vertrouwen"
+index: true
 ---
 
 # Hiepergroei

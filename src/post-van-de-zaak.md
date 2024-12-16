@@ -1,6 +1,7 @@
 ---
 title: "Post van De Zaak"
 date: "2016-12-19"
+index: true
 ---
 # Post van {de zaak}
 ### 2016-12-19

@@ -1,5 +1,6 @@
 ---
 title: Aarde
+index: true
 ---
 
 <div class="hero">

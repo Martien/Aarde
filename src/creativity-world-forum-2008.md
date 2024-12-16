@@ -6,6 +6,7 @@ categories:
  - "innovatie"
  - "leiderschap"
  - "samenscholing"
+index: true
 ---
 # Creativity World Forum 2008
 ### 2008-11-27

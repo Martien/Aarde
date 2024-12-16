@@ -6,6 +6,7 @@ categories:
  - "holacratie"
  - "poster"
  - "samenlevenskunst"
+index: true
 ---
 
 # Holacratie

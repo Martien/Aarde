@@ -10,6 +10,7 @@ tags:
  - "john-cleese"
  - "lateraal-denken"
  - "meditatie"
+index: true
 ---
 
 # John Cleese over creativiteit

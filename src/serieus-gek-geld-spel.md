@@ -3,6 +3,7 @@ title: "Serieus Gek Geld Spel"
 date: "2009-01-05"
 categories:
   - geld
+index: true
 ---
 # Serieus Gek Geld Spel
 ### 2009-01-05

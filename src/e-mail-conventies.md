@@ -1,6 +1,7 @@
 ---
 title: "E-mail conventies"
 date: "2016-12-15"
+index: true
 ---
 # E-mail conventies
 ### 2016-12-15

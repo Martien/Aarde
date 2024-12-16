@@ -4,6 +4,7 @@ date: 2009-01-03
 categories:
  - "creativiteit"
  - "innovatie"
+index: true
 ---
 
 # De Tien Gezichten van Innovatie

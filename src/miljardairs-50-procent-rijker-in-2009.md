@@ -1,6 +1,7 @@
 ---
 title: Miljardairs 50 procent rijker in 2009
 date: 2010-03-15
+index: true
 ---
 
 # Miljardairs 50 procent rijker in 2009
@@ -58,5 +59,6 @@ Afgezien van directe uitreiking van overheidsgelden aan de banken en superrijken
 
 Bron: [World Socialist Web Site » World’s billionaires grew 50 percent richer in 2009](http://www.wsws.org/articles/2010/mar2010/forb-m12.shtml), door Andre Damon.
 
+index: true
 ---
 Dank aan Anthony Migchels van Gelre Handelsnetwerken voor de tip.

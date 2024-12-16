@@ -1,6 +1,7 @@
 ---
 title: "Voorzien"
 date: "2016-12-13"
+index: true
 ---
 # Voorzien
 ### 2016-12-13

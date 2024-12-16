@@ -3,6 +3,7 @@ title: Geld volgens Arnold Heertje
 date: 2007-09-26
 categories:
  - "geld"
+index: true
 ---
 
 # Geld volgens Arnold Heertje

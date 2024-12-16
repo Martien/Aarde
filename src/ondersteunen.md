@@ -1,6 +1,7 @@
 ---
 title: Ondersteunen
 date: "2016-12-15"
+index: true
 ---
 # Ondersteunende praktijken
 ### 2016-12-15

@@ -1,5 +1,6 @@
 ---
 title: Page Loader
+index: true
 ---
 ::: name
 page loader

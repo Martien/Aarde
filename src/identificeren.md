@@ -1,5 +1,6 @@
 ---
 title: Identificeren
+index: true
 ---
 # Identificeren
 ::: as-is

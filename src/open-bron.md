@@ -1,5 +1,6 @@
 ---
 title: Open bron
+index: true
 ---
 # Goede open bron
 ### 2020-07-04

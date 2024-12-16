@@ -1,5 +1,6 @@
 ---
 title: Data loader
+index: true
 ---
 ::: name
 data loader

@@ -5,6 +5,7 @@ categories:
  - "dutch"
  - "levenskunst"
  - "spiritual"
+index: true
 ---
 
 # Leven is een kunst om te leren

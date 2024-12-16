@@ -1,6 +1,7 @@
 ---
 title: Oud versus nieuw geld
 date: 2008-10-28
+index: true
 ---
 
 # Oud versus nieuw geld

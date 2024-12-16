@@ -6,6 +6,7 @@ categories:
  - "innovatie"
  - "samenscholing"
  - "serieus-spel"
+index: true
 ---
 
 # PICNIC 2009 Money Lab

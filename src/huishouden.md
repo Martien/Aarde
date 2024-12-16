@@ -1,5 +1,6 @@
 ---
 title: Huishouden
+index: true
 ---
 # Huishouden
 

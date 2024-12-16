@@ -6,6 +6,7 @@ categories:
  - "quantum"
  - "spiritual"
  - "whole-world"
+index: true
 ---
 
 # De terugkeer van Merlijn

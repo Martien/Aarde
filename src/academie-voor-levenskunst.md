@@ -3,6 +3,7 @@ title: "Academie voor Levenskunst"
 date: "2008-01-08"
 categories:
  - "zomaar"
+index: true
 ---
 
 # Academie voor Levenskunst

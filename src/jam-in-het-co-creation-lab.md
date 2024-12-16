@@ -7,6 +7,7 @@ tags:
  - "co-creatie"
  - "doorbraakversneller"
  - "visueel-denken"
+index: true
 ---
 
 # JAM in het Co-creation lab

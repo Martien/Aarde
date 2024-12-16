@@ -1,5 +1,6 @@
 ---
 title: The distribution of towns
+index: true
 ---
 
 ::: name

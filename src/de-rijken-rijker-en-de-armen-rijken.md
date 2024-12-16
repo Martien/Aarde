@@ -6,6 +6,7 @@ categories:
  - "geld"
  - "leiderschap"
  - "samenlevenskunst"
+index: true
 ---
 
 # De rijken rijker en de armen rijken

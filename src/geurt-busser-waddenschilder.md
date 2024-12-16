@@ -6,6 +6,7 @@ categories:
  - "dutch"
  - "levenskunst"
  - "spiritual"
+index: true
 ---
 
 # Geurt Busser, waddenschilder

@@ -1,5 +1,6 @@
 ---
 title: Leiderschap
+index: true
 ---
 # Leiderschap
 Iedereen kan de leiding nemen en zo leiding geven. Bijvoorbeeld om samenwerking te verbeteren, klantwaarde te verhogen, innovaties te starten, veranderingen te realiseren en resultaten te boeken.

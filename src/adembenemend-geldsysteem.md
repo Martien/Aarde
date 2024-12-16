@@ -3,6 +3,7 @@ title: "Adembenemend geldsysteem"
 date: "2010-01-13"
 categories:
  - "geld"
+index: true
 ---
 # Adembenemend geldsysteem
 ### 2010-01-13

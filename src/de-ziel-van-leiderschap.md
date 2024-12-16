@@ -14,6 +14,7 @@ tags:
  - "niet-lokaliteit"
  - "veld"
  - "ziel"
+index: true
 ---
 
 # De ziel van Leiderschap

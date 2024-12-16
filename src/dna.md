@@ -1,5 +1,6 @@
 ---
 title: DNA
+index: true
 ---
 # DNA van {de zaak}
 ::: as-is

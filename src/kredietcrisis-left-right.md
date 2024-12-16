@@ -4,6 +4,7 @@ date: 2008-11-07
 categories:
  - "geld"
  - "zomaar"
+index: true
 ---
 
 # Kredietcrisis left & right

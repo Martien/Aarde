@@ -1,5 +1,6 @@
 ---
 title: Klonen
+index: true
 ---
 
 # Klonen

@@ -3,6 +3,7 @@ title: Kwispel de Langstaart der Liefde
 date: 2008-08-01
 categories:
  - "zomaar"
+index: true
 ---
 
 # Kwispel de Langstaart der Liefde
@@ -47,6 +48,7 @@ Ik geef er de voorkeur aan om de Langstaart als een staart van een ander dier te
 
 Het is belangrijk om te weten welke staart we kwispelen.
 
+index: true
 ---
 
 Ik houd me aanbevolen voor verbeteringen van deze vrije vertaling van [Kevin Kelly: The Technium: Wagging the Long Tail of Love](http://www.kk.org/thetechnium/archives/2008/07/wagging_the_lon.php).

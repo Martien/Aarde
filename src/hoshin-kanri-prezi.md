@@ -4,6 +4,7 @@ date: 2010-02-23
 categories:
  - "hoshin-kanri"
  - "zakelijke-zin"
+index: true
 ---
 
 # Hoshin Kanri Prezi

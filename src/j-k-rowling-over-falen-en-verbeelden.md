@@ -12,6 +12,7 @@ tags:
  - "succes"
  - "verbeelding"
  - "visualisatie"
+index: true
 ---
 
 # J.K. Rowling over falen en verbeelden

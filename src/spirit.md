@@ -1,5 +1,6 @@
 ---
 title: Spirit
+index: true
 ---
 # Spirit
 A particular way of thinking, feeling, or behaving, especially a way that is typical of a particular group of people, an activity, a time, or a place:

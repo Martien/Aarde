@@ -1,6 +1,7 @@
 ---
 title: Noösfeer
 date: 2010-03-19
+index: true
 ---
 
 # Noösfeer
@@ -161,6 +162,7 @@ Heel toevallig: tijdens het samenstellen van dit artikel wilde ik in het woorden
 
 **[[Toeval bestaat]]**.
 
+index: true
 ---
 
 ### Meer

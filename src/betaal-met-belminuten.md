@@ -3,6 +3,7 @@ title: Betaal met belminuten
 date: "2009-07-30"
 categories:
  - "geld"
+index: true
 ---
 # Betaal met belminuten – BOEM!
 ### 2009-07-30

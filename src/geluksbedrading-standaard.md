@@ -6,6 +6,7 @@ categories:
  - "geluk"
  - "samenlevenskunst"
  - "video"
+index: true
 ---
 
 # Geluksbedrading standaard

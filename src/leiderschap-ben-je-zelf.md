@@ -17,6 +17,7 @@ tags:
  - "zelf"
  - "zelfkennis"
  - "zelfmotivatie"
+index: true
 ---
 
 # Leiderschap ben je zelf

@@ -1,6 +1,7 @@
 ---
 title: Ouderkunst
 date: 2008-01-08
+index: true
 ---
 
 # Ouderkunst

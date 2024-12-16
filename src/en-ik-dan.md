@@ -6,6 +6,7 @@ categories:
 tags:
  - "geluk"
  - "happiness"
+index: true
 ---
 
 # En ik dan?

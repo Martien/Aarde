@@ -3,6 +3,7 @@ title: Geld
 date: 2008-01-08
 categories:
  - "zomaar"
+index: true
 ---
 
 # Geld voor een nieuwe samenleving

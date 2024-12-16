@@ -1,5 +1,6 @@
 ---
 title: Pearl
+index: true
 ---
 ::: name
 pearl

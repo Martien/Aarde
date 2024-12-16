@@ -1,6 +1,7 @@
 ---
 title: "Verkopen"
 date: "2016-12-15"
+index: true
 ---
 # Verkopen
 ### 2016-12-15

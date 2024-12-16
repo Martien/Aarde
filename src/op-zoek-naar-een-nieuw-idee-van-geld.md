@@ -1,6 +1,7 @@
 ---
 title: Op zoek naar een nieuw idee van ‘geld’
 date: 2009-11-06
+index: true
 ---
 
 # Op zoek naar een nieuw idee van ‘geld’
@@ -110,6 +111,7 @@ Het zuiverste yingeld is een cadeautje. Tussen die twee polariteiten heb je dome
 
 Een tweede belangrijke kenmerk is dat er een [[stroomgeld|duurzaamheidsvergoeding]] wordt geheven op de Terra, de zogenaamde [[stroomgeld|circulatierente]]. Wie de Terra houdt, wie dus zijn geld parkeert, betaalt een parkeerticket van 3,5 tot 4 procent per jaar. Omwille van die [[stroomgeld|negatieve rente]] heb je er belang bij om de Terra te laten circuleren. Zo stimuleer je de handel en de investeringen. Vergeet niet dat vandaag al 10 tot 15 procent van de wereldhandel gebeurt zonder nationale munten, via ruilhandel. Die groeit vandaag drie keer sneller dan handel die met conventioneel geld wordt betaald. Wat de Terra doet, is dat bestaande systeem standaardiseren. Ik ben ervan overtuigd dat in de toekomst een munt zoals de Terra een noodzakelijke voorwaarde is om duurzaamheid op wereldvlak te ontwikkelen.”
 
+index: true
 ---
 
 Kathleen Van Brempt, Verder dan morgen, gesprekken met zicht op de toekomst, is uitgegeven bij Houtekiet. Interviews met Michael Braungart, Job Cohen, Bernard Lietaer, Kjell Erik Øie, Sunder Katwala, Rik Pinxten, Marion van San en Katja van Putten. 19,95 euro

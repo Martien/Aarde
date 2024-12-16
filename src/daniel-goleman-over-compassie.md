@@ -6,6 +6,7 @@ categories:
  - "samenlevenskunst"
  - "tedtalk"
  - "video"
+index: true
 ---
 # Daniel Goleman over compassie
 ### 2009-09-08

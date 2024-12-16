@@ -10,6 +10,7 @@ categories:
  - "smart-software"
  - "spiritual"
  - "whole-world"
+index: true
 ---
 # Brad Neuberg on Inventing with Values
 ### 2007-07-02

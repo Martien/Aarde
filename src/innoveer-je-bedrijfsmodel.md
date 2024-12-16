@@ -4,6 +4,7 @@ date: 2009-11-16
 categories:
  - "samenscholing"
  - "zakelijke-zin"
+index: true
 ---
 
 # Innoveer je bedrijfsmodel

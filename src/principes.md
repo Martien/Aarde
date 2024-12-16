@@ -1,5 +1,6 @@
 ---
 title: Principes
+index: true
 ---
 # Leidende principes
 ::: as-is

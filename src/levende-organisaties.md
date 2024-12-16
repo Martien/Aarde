@@ -5,6 +5,7 @@ categories:
  - "beschaving"
  - "holacratie"
  - "leiderschap"
+index: true
 ---
 
 # Levende organisaties

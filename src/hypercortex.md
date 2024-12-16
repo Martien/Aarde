@@ -15,6 +15,7 @@ tags:
  - "internet"
  - "matrix"
  - "web-30"
+index: true
 ---
 
 # Hypercortex

@@ -1,5 +1,6 @@
 ---
 title: Engine Room
+index: true
 ---
 # Engine Room
 

@@ -7,6 +7,7 @@ categories:
  - "geld"
  - "money"
  - "video"
+index: true
 ---
 # Banken Bonus Battle
 ### 2010-03-14

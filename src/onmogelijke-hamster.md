@@ -1,6 +1,7 @@
 ---
 title: Onmogelijke hamster
 date: 2010-02-22
+index: true
 ---
 
 # Onmogelijke hamster

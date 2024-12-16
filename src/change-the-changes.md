@@ -14,6 +14,7 @@ tags:
  - "taktiek"
  - "team"
  - "verandering"
+index: true
 ---
 # Change the changes
 ### 2008-12-10

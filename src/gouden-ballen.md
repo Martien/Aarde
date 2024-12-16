@@ -11,6 +11,7 @@ tags:
  - "geld"
  - "prisoners-dilemma"
  - "spel"
+index: true
 ---
 
 # Gouden ballen

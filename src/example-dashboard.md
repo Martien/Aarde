@@ -1,6 +1,7 @@
 ---
 title: Example dashboard
 toc: false
+index: true
 ---
 
 # Rocket launches 🚀

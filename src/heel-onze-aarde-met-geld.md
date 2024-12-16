@@ -12,6 +12,7 @@ tags:
  - "lietaer"
  - "samenleving"
  - "stroomgeld"
+index: true
 ---
 
 # Heel onze Aarde met geld

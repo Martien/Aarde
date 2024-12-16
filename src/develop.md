@@ -1,5 +1,6 @@
 ---
 title: Develop
+index: true
 ---
 # Develop
 About development, training, unfolding of (human) potential.

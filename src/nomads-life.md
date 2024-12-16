@@ -1,6 +1,7 @@
 ---
 title: Nomad
 date: 2007-04-03
+index: true
 ---
 
 # Nomad

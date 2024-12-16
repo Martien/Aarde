@@ -1,5 +1,6 @@
 ---
 title: Zones
+index: true
 ---
 # Zones
 With hundreds of posts, a long list of post titles is not the way forward. What is a good way to organize them into specific clusters or categories. What is a proper collective term for these specific areas of interest?

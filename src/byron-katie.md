@@ -3,6 +3,7 @@ title: "Byron Katie"
 date: "2007-03-26"
 categories:
  - "levenskunst"
+index: true
 ---
 # Byron Katie
 ### 2007-03-26

@@ -9,6 +9,7 @@ categories:
  - "smart-software"
  - "spiritual"
  - "whole-world"
+index: true
 ---
 
 # Love—The Purest Form of Energy

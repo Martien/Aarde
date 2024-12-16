@@ -3,6 +3,7 @@ title: Als de dollar valt
 date: "2008-03-27"
 categories:
  - "geld"
+index: true
 ---
 # Als de dollar valt
 ### 2008-03-27

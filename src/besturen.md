@@ -1,6 +1,7 @@
 ---
 title: Besturen
 date: "2016-12-12"
+index: true
 ---
 # Besturen
 ### 2016-12-12

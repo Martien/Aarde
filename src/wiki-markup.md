@@ -1,5 +1,6 @@
 ---
 title: Wiki, Pearl, and Pattern markup
+index: true
 ---
 # Wiki, Pearl, and Pattern markup
 

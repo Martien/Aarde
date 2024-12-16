@@ -1,5 +1,6 @@
 ---
 title: Aardbron
+index: true
 ---
 # Aardbron
 Van maart 2007 tot november 2013 was Aardbron actief:

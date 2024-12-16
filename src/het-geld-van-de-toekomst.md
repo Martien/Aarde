@@ -12,6 +12,7 @@ tags:
  - "schuld"
  - "speculeren"
  - "toekomst"
+index: true
 ---
 
 # Het geld van de toekomst

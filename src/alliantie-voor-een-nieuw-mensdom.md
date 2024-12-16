@@ -8,6 +8,7 @@ tags:
  - "coalitie"
  - "ego"
  - "wees-de-verandering"
+index: true
 ---
 # Alliantie voor een Nieuw Mensdom
 ### 2008-06-03

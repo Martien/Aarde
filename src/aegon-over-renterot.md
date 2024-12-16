@@ -4,6 +4,7 @@ date: "2009-12-28"
 categories:
  - "geld"
  - "video"
+index: true
 ---
 # AEGON over renterot
 ### 2009-12-28

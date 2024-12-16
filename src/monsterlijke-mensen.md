@@ -1,6 +1,7 @@
 ---
 title: Monsterlijke mensen
 date: 2008-09-29
+index: true
 ---
 
 # Monsterlijke mensen

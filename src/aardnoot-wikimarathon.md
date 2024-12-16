@@ -11,6 +11,7 @@ tags:
   - "semantisch"
   - "wiki"
   - "wikinomie"
+index: true
 ---
 # Aardnoot wikimarathon
 ### 2008-06-03

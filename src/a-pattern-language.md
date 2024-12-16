@@ -1,5 +1,6 @@
 ---
 title: A Pattern Language
+index: true
 ---
 # A Pattern Language
 

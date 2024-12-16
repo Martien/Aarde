@@ -1,6 +1,7 @@
 ---
 title: Money Malfunction, and What We Can Do About It
 date: 2012-10-08
+index: true
 ---
 
 # Money malfunction, and what we can do about it

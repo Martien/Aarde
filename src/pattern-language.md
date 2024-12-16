@@ -1,5 +1,6 @@
 ---
 title: Pattern Language
+index: true
 ---
 ::: name
 pattern language

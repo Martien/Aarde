@@ -1,5 +1,6 @@
 ---
 title: Gratis als bedrijfsmodel
+index: true
 ---
 # Chris Anderson over gratis als bedrijfsmodel
 

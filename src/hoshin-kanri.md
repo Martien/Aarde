@@ -6,6 +6,7 @@ categories:
  - "intentie"
  - "leiderschap"
  - "parel"
+index: true
 ---
 
 ::: name

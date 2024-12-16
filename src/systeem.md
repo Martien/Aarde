@@ -1,6 +1,7 @@
 ---
 title: "Systeem"
 date: "2016-12-10"
+index: true
 ---
 
 # Waarom dit model werkt (voor ons).

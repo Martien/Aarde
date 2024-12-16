@@ -16,6 +16,7 @@ results in:
 country city fingers
 :::
 
+index: true
 ---
 
 You can use any of the keywords mentioned above to fence off a specific section of a {pearl}. This will format each section accoring to the traditional way of Christopher Alexander’s *[[A Pattern Language]]*.

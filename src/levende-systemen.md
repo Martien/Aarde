@@ -5,6 +5,7 @@ categories:
  - "zomaar"
 tags:
  - "leven"
+index: true
 ---
 
 # Levende systemen

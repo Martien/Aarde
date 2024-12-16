@@ -6,6 +6,7 @@ categories:
 - "innovatie"
 - "leiderschap"
 - "serieus-spel"
+index: true
 ---
 # De centimeters zijn op
 ### 2009-09-01

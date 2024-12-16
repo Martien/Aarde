@@ -3,6 +3,7 @@ title: Bericht uit het Universum
 date: "2008-08-01"
 categories:
  - ”zomaar"
+index: true
 ---
 # Bericht uit het Universum
 ### 2008-08-01
@@ -23,6 +24,7 @@ Welkom op de hoogste hoogten,
 
 Kwispelende staarten, spinnende harten en Twizzlers, Martien?
 
+index: true
 ---
 
 In tegenstelling tot wat logisch klinkt, Martien, als jij je defensief opstelt inspireert dat anderen om zich offensief op te stellen.
@@ -45,6 +47,7 @@ Joepdoeidemazzel,
 
 Er zijn geen ongelukken Martien.
 
+index: true
 ---
 
 De magie van het leven lijkt veel op een snel stromende rivier, Martien. Het maakt niet uit hoe lang je er over uitgekeken of ontwetend tegenin gezwommen hebt, op het moment dat je stopt met worstelen ben je terug in de stroom, hoed lekker laag, stoerste kat in de buurt.
@@ -67,6 +70,7 @@ Houdoe,
 
 Laten we ze echt iets geven waarover ze kunnen praten, Martien.
 
+index: true
 ---
 
 10.000 ”Ik houd van jou’s” elke morgen.

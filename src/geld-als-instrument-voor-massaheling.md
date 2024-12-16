@@ -10,6 +10,7 @@ categories:
 tags:
  - "demurrage"
  - "stroomgeld"
+index: true
 ---
 
 # Geld als instrument voor massaheling

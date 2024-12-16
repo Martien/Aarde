@@ -5,6 +5,7 @@ categories:
  - "beeldspraak"
  - "beeldtaal"
  - "samenscholing"
+index: true
 ---
 
 # JAM School over Visueel Denken

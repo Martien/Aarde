@@ -5,6 +5,7 @@ categories:
  - "beschaving"
  - "holacratie"
  - "peer-to-peer"
+index: true
 ---
 
 # Feedback van de deelgevers van het eerste uur

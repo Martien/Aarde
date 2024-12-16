@@ -3,6 +3,7 @@ title: A flaw in the monetary system?
 date: "2013-08-11"
 categories:
   - "money"
+index: true
 ---
 # A flaw in the monetary system?
 ## 2013-08-11

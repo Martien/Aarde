@@ -1,6 +1,7 @@
 ---
 title: "Floreren"
 date: "2016-12-10"
+index: true
 ---
 
 # Wat meten we?

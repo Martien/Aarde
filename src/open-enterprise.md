@@ -1,6 +1,7 @@
 ---
 title: Open enterprise
 date: 2011-06-21
+index: true
 ---
 
 # Open enterprise

@@ -3,6 +3,7 @@ title: Anthony stort zijn hart uit
 date: "2009-04-25"
 categories:
  - "geld"
+index: true
 ---
 # Anthony stort zijn hart uit
 ### 2009-04-25

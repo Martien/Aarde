@@ -1,5 +1,6 @@
 ---
 title: Dashboard
+index: true
 ---
 # Dashboard
 Het dashboard is een intern rekenblad waarin we onze meest vitale informatie bijhouden en delen. Ooit gestart met alleen de [[geluksindex]] heeft het geleidelijk meer bladen verzameld, waaronder:

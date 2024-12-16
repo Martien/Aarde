@@ -14,6 +14,7 @@ tags:
  - "geven"
  - "lietaer"
  - "ontvangen"
+index: true
 ---
 
 # Geschenkenconomie katalyseert gemeenschapszin

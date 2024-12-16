@@ -3,6 +3,7 @@ title: Duizend echte fans
 date: "2009-03-18"
 categories:
   - "geld"
+index: true
 ---
 # Duizend echte fans
 ### 2009-03-18

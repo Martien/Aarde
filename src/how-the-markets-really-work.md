@@ -4,6 +4,7 @@ date: 2009-01-15
 categories:
  - "geld"
  - "video"
+index: true
 ---
 
 # How the markets really work

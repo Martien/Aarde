@@ -1,5 +1,6 @@
 ---
 title: Warme broodjesprotocol
+index: true
 ---
 
 # Warme broodjesprotocol

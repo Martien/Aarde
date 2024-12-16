@@ -1,5 +1,6 @@
 ---
 title: Beslissen
+index: true
 ---
 
 

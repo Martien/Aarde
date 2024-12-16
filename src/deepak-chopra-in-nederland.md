@@ -8,6 +8,7 @@ categories:
  - "science"
  - "spiritual"
  - "whole-world"
+index: true
 ---
 
 # Deepak Chopra in Nederland

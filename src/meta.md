@@ -1,5 +1,6 @@
 ---
 title: Meta
+index: true
 ---
 # Meta
 ::: as-is

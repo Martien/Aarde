@@ -4,6 +4,7 @@ date: "2007-12-18"
 categories:
  - "beschaving"
  - "peer-to-peer"
+index: true
 ---
 # Cogito en conscientia
 ### 2007-12-18

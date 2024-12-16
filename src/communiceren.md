@@ -1,6 +1,7 @@
 ---
 title: "Communiceren"
 date: "2016-12-12"
+index: true
 ---
 # Communiceren
 

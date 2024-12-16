@@ -7,6 +7,7 @@ tags:
  - "flessentrekkerij"
  - "geld"
  - "piramidespel"
+index: true
 ---
 
 # Huidig geldsysteem onwettig?

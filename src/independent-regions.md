@@ -1,5 +1,6 @@
 ---
 title: Independent Regions
+index: true
 ---
 
 ::: name

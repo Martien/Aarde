@@ -3,6 +3,7 @@ title: Elke wijk in de stad is op zichzelf een stad
 date: 2009-04-27
 categories:
  - "quote"
+index: true
 ---
 
 # Elke wijk in de stad is op zichzelf een stad

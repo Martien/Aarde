@@ -1,6 +1,7 @@
 ---
 title: Bezitten
 date: "2016-12-11"
+index: true
 ---
 # Bezitten
 ### 2016-12-11

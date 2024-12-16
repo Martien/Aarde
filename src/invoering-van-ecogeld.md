@@ -9,6 +9,7 @@ tags:
  - "geschenkeneconomie"
  - "leiderschap"
  - "rocs"
+index: true
 ---
 
 # Invoering van ecogeld

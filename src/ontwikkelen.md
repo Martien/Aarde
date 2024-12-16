@@ -1,6 +1,7 @@
 ---
 title: "Ontwikkelen"
 date: "2016-12-15"
+index: true
 ---
 # Ontwikkelen
 ### 2016-12-15

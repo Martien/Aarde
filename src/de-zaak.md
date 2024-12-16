@@ -1,5 +1,6 @@
 ---
 title: De Zaak
+index: true
 ---
 ::: name
 de zaak

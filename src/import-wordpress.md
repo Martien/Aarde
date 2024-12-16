@@ -1,5 +1,6 @@
 ---
 title: Import Wordpress posts and pages
+index: true
 ---
 # Import Wordpress posts and pages
 - [export WordPress to xml](https://wordpress.org/documentation/article/tools-export-screen/)

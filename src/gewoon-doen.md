@@ -7,6 +7,7 @@ categories:
  - "samenscholing"
  - "serieus-spel"
  - "zakelijke-zin"
+index: true
 ---
 
 # Gewoon…doen!

@@ -1,5 +1,6 @@
 ---
 title: Identity
+index: true
 ---
 # Indentity
 About brand, personality, appearance, attitude.

@@ -8,6 +8,7 @@ categories:
  - "levenskunst"
  - "spiritual"
  - "whole-world"
+index: true
 ---
 
 # Living is an art to be learned

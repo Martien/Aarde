@@ -11,6 +11,7 @@ tags:
  - "ecosofie"
  - "geld"
  - "principes"
+index: true
 ---
 
 # Ecosofische beginselen

@@ -5,6 +5,7 @@ categories:
  - "geld"
  - "samenlevenskunst"
  - "samenscholing"
+index: true
 ---
 # Betaal met Arkel
 ### 2009-11-24

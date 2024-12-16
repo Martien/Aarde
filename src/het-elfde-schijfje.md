@@ -10,6 +10,7 @@ tags:
  - "lietaer"
  - "rente"
  - "samenwerking"
+index: true
 ---
 
 # Het elfde schijfje

@@ -4,6 +4,7 @@ date: 2010-02-22
 categories:
  - "english"
  - "money"
+index: true
 ---
 
 # Flow money

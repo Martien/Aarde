@@ -3,6 +3,7 @@ title: De rivier en haar identiteit
 date: 2008-07-08
 categories:
  - "zomaar"
+index: true
 ---
 
 # De rivier en haar identiteit

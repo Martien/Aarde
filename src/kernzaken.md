@@ -1,5 +1,6 @@
 ---
 title: Kernzaken
+index: true
 ---
 # Kernzaken
 ::: as-is

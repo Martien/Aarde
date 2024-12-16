@@ -12,6 +12,7 @@ keywords:
  - "hoshin-kanri"
  - "initiatief"
  - "project"
+index: true
 ---
 # Armillaria hoshin kanri
 ### 2010-01-04

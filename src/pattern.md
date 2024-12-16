@@ -1,5 +1,6 @@
 ---
 title: Pattern
+index: true
 ---
 ::: name
 pattern

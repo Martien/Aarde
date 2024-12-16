@@ -6,6 +6,7 @@ categories:
  - "geest-2"
  - "innovatie"
  - "open-2"
+index: true
 ---
 
 # Open geest
