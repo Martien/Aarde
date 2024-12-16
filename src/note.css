@@ -1,4 +1,5 @@
 .note,
+.nota-bene,
 .tip,
 .todo,
 .warning,
@@ -12,6 +13,7 @@
 }
 
 .note::before,
+.nota-bene::before,
 .tip::before,
 .todo::before,
 .warning::before,
@@ -31,6 +33,16 @@
     color: var(--theme-foreground-muted);
 }
 
+.nota-bene {
+    border-left-color: var(--theme-foreground-fainter);
+    background-color: var(--theme-background-alt);
+}
+
+.nota-bene::before {
+    content: "Note";
+    color: var(--theme-foreground-muted);
+}
+
 .tip {
     border-left-color: var(--theme-green);
     background-color: color-mix(
@@ -45,13 +57,19 @@
     color: var(--theme-green);
 }
 
-.todo {
+.todo,
+.nota-bene {
     border-left-color: var(--theme-red);
     background-color: color-mix(
         in srgb,
         var(--theme-red),
         var(--theme-background) 90%
     );
+}
+
+.nota-bene::before {
+    content: "NB";
+    color: var(--theme-red);
 }
 
 .todo::before {
@@ -88,6 +106,7 @@
 }
 
 .note[label]::before,
+.nota-bene[label]::before,
 .tip[label]::before,
 .todo[label]::before,
 .warning[label]::before,
@@ -96,6 +115,7 @@
 }
 
 .note > :first-child,
+.nota-bene > :first-child,
 .tip > :first-child,
 .todo > :first-child,
 .warning > :first-child,
@@ -104,6 +124,7 @@
 }
 
 .note > :last-child,
+.nota-bene > :last-child,
 .tip > :last-child,
 .todo > :last-child,
 .warning > :last-child,
@@ -111,9 +132,6 @@
     margin-bottom: 0;
 }
 
-.note:lang(de)::before {
-    content: "Hinweis";
-}
 .warning:lang(nl)::before {
     content: "Pas op!";
 }

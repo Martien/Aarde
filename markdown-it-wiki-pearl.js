@@ -14,8 +14,17 @@ const wikilinksRE = /\[\[([^\]|]*)(\|([^\]]+))?\]\]/;
 const pearlRE = /{([^}|]*)(\|([^}]+))?}/;
 
 const uriSuffix = "";
-const postProcessPageName = (pageName) =>
-  pageName.trim().toLowerCase().replace(/\s+/g, "-");
+const href = (string) =>
+  string
+    .toLowerCase()
+    .normalize("NFKD")
+    .replace(/[^\w]*/, "")
+    .replace(/[ ]+/g, "-")
+    .replace(/[^\w-]+/g, "")
+    .replace(/[-]+/g, "-");
+const postProcessPageName = href;
+// (pageName) =>
+// pageName.trim().toLowerCase().replace(/\s+/g, "-").replace(/,/, "");
 
 export const markdownIt = (md) =>
   md
@@ -38,6 +47,7 @@ export const markdownIt = (md) =>
     .use(markdownItContainer, "card")
     .use(markdownItContainer, "tip")
     .use(markdownItContainer, "todo")
+    .use(markdownItContainer, "nota-bene")
     .use(markdownItContainer, "warning")
     .use(markdownItContainer, "pas-op")
     .use(markdownItContainer, "name")

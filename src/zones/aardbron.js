@@ -11,6 +11,7 @@ export const geld = {
     { name: "Radicale overvloed" },
     { name: "Op zoek naar een nieuw idee van ‘geld’" },
     { name: "Oud versus nieuw geld" },
+    { name: "Samenscholing over alternatieve waardesystemen" },
     { name: "De rivier en haar identiteit" },
     { name: "Het elfde schijfje" },
     { name: "Gek Geld" },
