@@ -66,6 +66,18 @@ export const rimpels = {
   children: [
     { name: "Rimpels in het water 2008-01" },
     { name: "Rimpels in het water 2008-02" },
+    { name: "Rimpels in het water 2008-03" },
+    { name: "Rimpels in het water 2008-04" },
+    { name: "Rimpels in het water 2008-05" },
+    { name: "Rimpels in het water 2008-06" },
+    { name: "Rimpels in het water 2008-07" },
+    { name: "Rimpels in het water 2008-08" },
+    { name: "Rimpels in het water 2008-09" },
+    { name: "Rimpels in het water 2008-10" },
+    { name: "Rimpels in het water 2008-11" },
+    { name: "Rimpels in het water 2008-12" },
+    { name: "Rimpels in het water 2008-13" },
+    { name: "Rimpels in het water 2009-01" },
   ],
 };
 export const community = {
