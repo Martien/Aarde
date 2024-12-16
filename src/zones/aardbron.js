@@ -117,6 +117,7 @@ export const develop = {
     { name: "Geluksbedrading standaard" },
     { name: "Innovatieplatform Noord-Nederland" },
     { name: "Practical wisdom" },
+    { name: "Psychologie van het Volle Leven" },
   ],
 };
 export const leiderschap = {
