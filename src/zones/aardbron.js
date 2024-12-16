@@ -66,6 +66,7 @@ export const community = {
     { name: "Alliantie voor een nieuw mensdom" },
     { name: "Monsterlijke mensen" },
     { name: "Ouderkunst" },
+    { name: "Peer-to-peer, de nieuwe beschaving en holacratie" },
     { name: "Bewegende Beelden Festival 4 april" },
     { name: "Cogito en conscientia" },
     { name: "Creativity World Forum 2008" },
