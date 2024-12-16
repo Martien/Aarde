@@ -116,6 +116,7 @@ export const develop = {
     { name: "J.K. Rowling over falen en verbeelden" },
     { name: "Geluksbedrading standaard" },
     { name: "Innovatieplatform Noord-Nederland" },
+    { name: "Practical wisdom" },
   ],
 };
 export const leiderschap = {
