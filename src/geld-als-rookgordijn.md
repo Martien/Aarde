@@ -1,12 +1,10 @@
 ---
 title: Geld volgens Arnold Heertje
 date: 2007-09-26
-categories:
- - "geld"
 index: true
 ---
 
-# Geld volgens Arnold Heertje
+# Geld als rookgordijn
 ### 2007-09-26
 
 Arnold Heertje over geld (uit zijn in 2006 verschenen Thijmessay “Echte economie. Een verhandeling over schaarste en welvaart en over het geloof  in leermeesters en _lernen_.”):

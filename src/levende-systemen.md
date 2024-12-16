@@ -1,10 +1,6 @@
 ---
 title: Levende systemen
 date: 2008-08-30
-categories:
- - "zomaar"
-tags:
- - "leven"
 index: true
 ---
 
@@ -54,7 +50,6 @@ Autopoiësis is een helder en krachtig criterium voor het maken van duidelijk on
 Zo zijn virussen niet-levend, omdat ze geen stofwisseling hebben. Buiten een levende cel is een virus een inerte moleculaire structuur, bestaande uit eitwitten en nucleïnezoren. **Een virus is in wezen een chemisch signaal**, afhankelijk van het metabolisme van de levende cel als gastheer.
 
 Hoe autopoëtisch is jouw toko? Toets jouw toko met de **strategische groeivragen** voor [[levende organisaties]].
-
 
 - De diepte in met Fritjof Capra op [De eenheid van leven](http://wiki.aardrock.com/De_eenheid_van_leven).
 - Een overzicht van kenmerken van chaorganisatie op [Chaordic Organizations](http://www.p2pfoundation.net/Chaordic_Organizations_-_Characteristics) van de Peer-2-Peer Foundation.
