@@ -18,6 +18,7 @@ export const geld = {
     { name: "Geld is een afspraak" },
     { name: "Geld voor een nieuwe samenleving" },
     { name: "Het geld van de toekomst" },
+    { name: "Postzegels waardevast" },
     { name: "Geld als instrument voor massaheling" },
     { name: "Invoering van ecogeld" },
     { name: "Heel onze Aarde met geld" },
