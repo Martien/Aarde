@@ -22,6 +22,7 @@ export const geld = {
     { name: "Invoering van ecogeld" },
     { name: "Heel onze Aarde met geld" },
     { name: "De toekomst van gratis" },
+    { name: "PICNIC 2009 Money Lab" },
     { name: "Euros voor cybergeld wettig" },
     { name: "Mensen willen graag betalen" },
     { name: "Medeleven met Madoff" },
