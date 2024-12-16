@@ -65,6 +65,7 @@ export const community = {
     { name: "Aardnoot Wiki Marathon" },
     { name: "Aards paradijs" },
     { name: "Alliantie voor een nieuw mensdom" },
+    { name: "Pleidooi voor een laatmoderne levenskunst" },
     { name: "Monsterlijke mensen" },
     { name: "Ouderkunst" },
     { name: "Peer-to-peer, de nieuwe beschaving en holacratie" },
