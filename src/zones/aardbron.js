@@ -116,6 +116,7 @@ export const develop = {
     { name: "Byron Katie" },
     { name: "J.K. Rowling over falen en verbeelden" },
     { name: "Geluksbedrading standaard" },
+    { name: "Reis naar het centrum van je brein" },
     { name: "Innovatieplatform Noord-Nederland" },
     { name: "Practical wisdom" },
     { name: "Psychologie van het Volle Leven" },
