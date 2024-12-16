@@ -61,6 +61,13 @@ export const aloha = {
     { name: "Pleidooi voor een laatmoderne levenskunst" },
   ],
 };
+export const rimpels = {
+  name: "Rimpels",
+  children: [
+    { name: "Rimpels in het water 2008-01" },
+    { name: "Rimpels in het water 2008-02" },
+  ],
+};
 export const community = {
   name: "Community",
   children: [
@@ -181,5 +188,6 @@ export const aardbron = {
     spirit,
     identity,
     aloha,
+    rimpels,
   ],
 };
