@@ -84,6 +84,7 @@ export const business = {
     { name: "Doorbreken in 7 stappen" },
     { name: "Kwispel de Langstaart der Liefde" },
     { name: "John Cleese over creativiteit" },
+    { name: "Paradox van keuze" },
     { name: "Koe en Paardebloem" },
     { name: "Innoveer je bedrijfsmodel" },
     { name: "Made to stick" },
