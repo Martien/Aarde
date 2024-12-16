@@ -3,6 +3,7 @@ export const geld = {
   children: [
     { name: "Ecosofische beginselen" },
     { name: "De centimeters zijn op" },
+    { name: "Renterot" },
     { name: "Onmogelijke hamster" },
     { name: "De hoer, de boer, de slager, de waard en de toerist" },
     { name: "De rijken rijker en de armen rijken" },
