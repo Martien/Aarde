@@ -16,6 +16,7 @@ export const geld = {
     { name: "Het elfde schijfje" },
     { name: "Gek Geld" },
     { name: "Serieus Gek Geld Spel" },
+    { name: "Serieus Gek Geld Spel tijdens Agile Holland" },
     { name: "Armillaria hoshin kanri" },
     { name: "Geld als rookgordijn" },
     { name: "Geld is een afspraak" },
