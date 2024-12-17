@@ -49,6 +49,7 @@ export const geld = {
 export const money = {
   name: "Money",
   children: [
+    { name: "Serious Funny Money Game" },
     { name: "Flow money" },
     { name: "Money as the instrument of mass healing" },
     { name: "A flaw in the monetary system" },
