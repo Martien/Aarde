@@ -1,5 +1,5 @@
 ---
-title: Schwarzenegger aan Obama – Kijk en leer
+title: "Schwarzenegger aan Obama: Kijk en leer"
 date: 2009-07-20
 ---
 
