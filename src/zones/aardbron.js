@@ -15,6 +15,7 @@ export const geld = {
     { name: "De rivier en haar identiteit" },
     { name: "Het elfde schijfje" },
     { name: "Gek Geld" },
+    { name: "Silly Money" },
     { name: "Serieus spel" },
     { name: "Serieus Gek Geld Spel" },
     { name: "Serieus Gek Geld Spel tijdens Agile Holland" },
