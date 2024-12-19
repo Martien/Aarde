@@ -170,6 +170,7 @@ export const develop = {
     { name: "Steeds sneller steeds dommer" },
     { name: "Technologie: toegepaste kunst" },
     { name: "TED 2009-De Grote Onthulling" },
+    { name: "TEDtalks.nl" },
   ],
 };
 export const leiderschap = {
@@ -185,6 +186,7 @@ export const leiderschap = {
 export const spirit = {
   name: "Spirit",
   children: [
+    { name: "Toeval bestaat" },
     { name: "Droom" },
     { name: "Open geest" },
     { name: "Love, The Purest Form of Energy" },
