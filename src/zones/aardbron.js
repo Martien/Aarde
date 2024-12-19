@@ -159,6 +159,7 @@ export const develop = {
     { name: "Innovatieplatform Noord-Nederland" },
     { name: "Practical wisdom" },
     { name: "Psychologie van het Volle Leven" },
+    { name: "Steeds sneller steeds dommer" },
   ],
 };
 export const leiderschap = {
