@@ -35,6 +35,7 @@ export const geld = {
     { name: "Mensen willen graag betalen" },
     { name: "Medeleven met Madoff" },
     { name: "Betaal met Arkel" },
+    { name: "STRO-analyse financiële crisis in 11 stappen" },
     { name: "Start je eigen munt met Twollars en WikiWikiMoney" },
     { name: "Betaal met belminuten" },
     { name: "Banken Bonus Battle" },
