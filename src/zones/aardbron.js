@@ -162,6 +162,7 @@ export const develop = {
     { name: "Levende systemen" },
     { name: "Inhaalslag Bildung voor altijd" },
     { name: "Hypercortex" },
+    { name: "Universcale" },
     { name: "Brad Neuberg on inventing with values" },
     { name: "Byron Katie" },
     { name: "J.K. Rowling over falen en verbeelden" },
