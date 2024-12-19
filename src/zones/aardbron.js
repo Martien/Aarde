@@ -100,6 +100,7 @@ export const rimpels = {
 export const community = {
   name: "Community",
   children: [
+    { name: "Tot jouw dienst" },
     { name: "Levende organisaties" },
     { name: "Samenlevenskunst" },
     { name: "Metamorfose" },
@@ -204,6 +205,7 @@ export const spirit = {
     { name: "The soul hypothesis" },
     { name: "Beleving van verbinding" },
     { name: "Bericht uit het Universum" },
+    { name: "Totally Unique Thoughts" },
     { name: "Daniel Goleman over compassie" },
     { name: "De wereld van Merlijn" },
     { name: "Geurt Busser, waddenschilder" },
