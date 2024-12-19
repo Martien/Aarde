@@ -139,6 +139,7 @@ export const business = {
     { name: "De Tien Gezichten van Innovatie" },
     { name: "Gewoon…doen" },
     { name: "Open enterprise" },
+    { name: "Slimme spirituele software" },
   ],
 };
 export const develop = {
