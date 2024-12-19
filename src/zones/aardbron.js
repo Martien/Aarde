@@ -168,6 +168,7 @@ export const develop = {
     { name: "Practical wisdom" },
     { name: "Psychologie van het Volle Leven" },
     { name: "Steeds sneller steeds dommer" },
+    { name: "Technologie: toegepaste kunst" },
   ],
 };
 export const leiderschap = {
