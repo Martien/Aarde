@@ -4,6 +4,7 @@ export const geld = {
     { name: "Ecosofische beginselen" },
     { name: "De centimeters zijn op" },
     { name: "Renterot" },
+    { name: "Stroomgeld" },
     { name: "Stroomgeld Sociaal Netwerk" },
     { name: "Onmogelijke hamster" },
     { name: "De hoer, de boer, de slager, de waard en de toerist" },
