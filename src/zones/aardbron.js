@@ -39,6 +39,7 @@ export const geld = {
     { name: "Banken Bonus Battle" },
     { name: "Adembenemend geldsysteem" },
     { name: "Schuldencrisis veroorzaakt door politici en bankiers" },
+    { name: "Spaans dorp immuun voor crisis" },
     { name: "Schwarzenegger aan Obama: Kijk en leer" },
     { name: "Gouden ballen" },
     { name: "Als de dollar valt" },
