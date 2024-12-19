@@ -1,9 +1,9 @@
 ---
-title: STRO-analyse financiële crisis in 11 stappen
+title: STRO-analyse financiële crisis
 date: 2012-03-30
 ---
 
-# STRO-analyse financiële crisis in 11 stappen
+# STRO-analyse financiële crisis
 ### 2012-03-30
 ::: vista
 <img src="stro.jpg">
