@@ -187,6 +187,7 @@ export const spirit = {
   name: "Spirit",
   children: [
     { name: "Toeval bestaat" },
+    { name: "Toevallig bericht uit het Universum" },
     { name: "Droom" },
     { name: "Open geest" },
     { name: "Love, The Purest Form of Energy" },
