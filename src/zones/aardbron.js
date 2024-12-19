@@ -169,6 +169,7 @@ export const develop = {
     { name: "Psychologie van het Volle Leven" },
     { name: "Steeds sneller steeds dommer" },
     { name: "Technologie: toegepaste kunst" },
+    { name: "TED 2009-De Grote Onthulling" },
   ],
 };
 export const leiderschap = {
