@@ -66,6 +66,10 @@ export const money = {
     { name: "BitCoin explained" },
   ],
 };
+export const taalkunst = {
+  name: "Taalkunst",
+  children: [{ name: "Stroomtaal × pareltaal = krachtstroomtaal" }],
+};
 export const aloha = {
   name: "Aloha",
   tagline: "hallo, affectie, liefde, compassie, dank, tot ziens",
@@ -215,6 +219,7 @@ export const aardbron = {
     business,
     spirit,
     identity,
+    taalkunst,
     aloha,
     rimpels,
   ],
