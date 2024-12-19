@@ -55,9 +55,11 @@ export const geld = {
 };
 export const money = {
   name: "Money",
+  tagline: "Money, so they say, is the root of all evil today.",
   children: [
     { name: "Serious Funny Money Game" },
     { name: "Flow money" },
+    { name: "Trustspace" },
     { name: "Money as the instrument of mass healing" },
     { name: "A flaw in the monetary system" },
     { name: "Money malfunction, and what we can do about it" },
