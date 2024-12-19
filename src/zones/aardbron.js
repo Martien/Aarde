@@ -177,6 +177,7 @@ export const leiderschap = {
     { name: "Leiderschap ben je zelf" },
     { name: "Margaret Wheatley over duurzaam leidinggeven" },
     { name: "De ziel van leiderschap" },
+    { name: "Systeeminterventiepunten" },
   ],
 };
 export const spirit = {
