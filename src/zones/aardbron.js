@@ -127,6 +127,7 @@ export const community = {
 export const business = {
   name: "Business",
   children: [
+    { name: "Symbiose" },
     { name: "De toekomst van gratis" },
     { name: "Doorbraakversneller" },
     { name: "JAM School over Visueel Denken" },
