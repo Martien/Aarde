@@ -1,6 +1,7 @@
 ---
 title: STRO-analyse financiële crisis
 date: 2012-03-30
+index: true
 ---
 
 # STRO-analyse financiële crisis

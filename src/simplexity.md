@@ -3,6 +3,7 @@ title: Simplexity
 date: 2008-02-01
 categories: 
  - "zomaar"
+index: true
 ---
 
 # Simplexity

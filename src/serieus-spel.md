@@ -1,6 +1,7 @@
 ---
 title: Serieus spel
 date: 2010-05-14
+index: true
 ---
 
 # Serieus spel

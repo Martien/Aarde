@@ -1,11 +1,6 @@
 ---
 title: En ik dan?
 date: 2008-07-03
-categories:
- - "video"
-tags:
- - "geluk"
- - "happiness"
 index: true
 ---
 

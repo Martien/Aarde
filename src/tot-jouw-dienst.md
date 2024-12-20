@@ -1,6 +1,7 @@
 ---
 title: Tot jouw dienst
 date: 2008-01-08
+index: true
 ---
 
 # Tot jouw dienst

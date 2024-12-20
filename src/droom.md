@@ -1,8 +1,6 @@
 ---
 title: Droom
 date: 2008-05-05
-categories:
- - "zomaar"
 index: true
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: TED 2009—De Grote Onthulling
 date: 2009-01-26
+index: true
 ---
 
 # TED 2009-De Grote Onthulling

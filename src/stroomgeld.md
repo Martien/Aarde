@@ -1,6 +1,7 @@
 ---
 title: Stroomgeld
 date: 2008-10-28
+index: true
 ---
 
 # Stroomgeld

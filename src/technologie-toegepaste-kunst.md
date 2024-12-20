@@ -1,6 +1,7 @@
 ---
 title: "Technologie: toegepaste kunst"
 date: 2008-03-25
+index: true
 ---
 
 # Technologie: toegepaste kunst

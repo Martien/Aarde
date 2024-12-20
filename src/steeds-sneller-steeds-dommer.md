@@ -1,6 +1,7 @@
 ---
 title: Steeds sneller steeds dommer
 date: 2008-10-07
+index: true
 ---
 
 # Steeds sneller steeds dommer

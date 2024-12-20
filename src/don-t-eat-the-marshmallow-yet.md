@@ -1,10 +1,6 @@
 ---
 title: Don’t eat the marshmallow yet
 date: 2009-05-31
-categories:
- - "leiderschap"
- - "tedtalk"
- - "video"
 index: true
 ---
 

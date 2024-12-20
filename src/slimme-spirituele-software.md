@@ -1,6 +1,7 @@
 ---
 title: Slimme spirituele software
 date: 2009-03-02
+index: true
 ---
 
 # Slimme spirituele software

@@ -1,3 +1,7 @@
+---
+title: Evolver
+index: true
+---
 # How did this site evolve?
 1. Clean install of Observable Framework.
 1. Extract CSS into own file `aarde.css`.

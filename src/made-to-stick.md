@@ -1,3 +1,7 @@
+---
+title: Made to stick
+index: true
+---
 # Made to stick
 ::: as-is
 <img src="madetostick-web12.jpg">

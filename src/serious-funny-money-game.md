@@ -1,6 +1,7 @@
 ---
 title: Serious Funny Money Game
 date: 2009-09-01
+index: true
 ---
 
 # Serious Funny Money Game

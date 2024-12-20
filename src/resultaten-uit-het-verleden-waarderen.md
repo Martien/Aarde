@@ -3,7 +3,6 @@ title: Resultaten uit het verleden waarderen
 date: 2007-06-21
 index: true
 ---
-
 # Resultaten uit het verleden waarderen
 ### 2007-06-21
 

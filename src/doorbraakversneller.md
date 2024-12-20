@@ -1,9 +1,6 @@
 ---
 title: Doorbraakversneller
 date: 2008-04-06
-categories:
- - "doorbraakversneller"
- - "zomaar"
 index: true
 ---
 

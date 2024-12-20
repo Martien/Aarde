@@ -1,6 +1,7 @@
 ---
 title: Systeeminterventiepunten
 date: 2009-03-02
+index: true
 ---
 
 # Systeeminterventiepunten

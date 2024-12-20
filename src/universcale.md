@@ -1,6 +1,7 @@
 ---
 title: Universcale
 date: 2008-08-30
+index: true
 ---
 
 # Universcale

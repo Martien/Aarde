@@ -1,8 +1,6 @@
 ---
 title: Doorbreken in 7 stappen
 date: 2008-05-05
-categories:
- - "doorbraakversneller"
 index: true
 ---
 

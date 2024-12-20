@@ -1,6 +1,7 @@
 ---
 title: Samenscholing over alternatieve waardesystemen
 date: 2009-11-16
+index: true
 ---
 
 # Samenscholing over alternatieve waardesystemen

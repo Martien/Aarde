@@ -1,6 +1,7 @@
 ---
 title: Start je eigen munt met Twollars en WikiWikiMoney
 date: 2009-07-30
+index: true
 ---
 
 # Start je eigen munt met Twollars en WikiWikiMoney

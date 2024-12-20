@@ -1,6 +1,7 @@
 ---
 title: Slimme hypotheekrenteaftrek
 date: 2009-04-25
+index: true
 ---
 
 # Slimme hypotheekrenteaftrek

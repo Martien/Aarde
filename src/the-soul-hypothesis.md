@@ -1,3 +1,7 @@
+---
+title: The Soul Hypotheis
+index: true
+---
 # The “Soul Hypothesis”
 
 Deepak Chopra salvo's another interesting round of points on religion, science, God, Einstein, and such.

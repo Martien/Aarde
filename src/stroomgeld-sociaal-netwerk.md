@@ -1,6 +1,7 @@
 ---
 title: Stroomgeld Sociaal Netwerk
 date: 2009-03-03
+index: true
 ---
 
 # Stroomgeld Sociaal Netwerk

@@ -1,6 +1,7 @@
 ---
 title: Silly Money
 date: 2009-01-18
+index: true
 ---
 
 # Silly Money

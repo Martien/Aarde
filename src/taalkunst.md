@@ -1,3 +1,7 @@
+---
+title: Taalkunst
+index: true
+---
 # Taalkunst
 - zie visionier.nl/taalkunst?
 

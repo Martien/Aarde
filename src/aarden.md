@@ -2,6 +2,7 @@
 title: Aarden
 date: 2007-09-20
 theme: deep-space
+index: true
 ---
 # Aarden
 ### 2007-09-20

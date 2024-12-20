@@ -1,6 +1,7 @@
 ---
 title: Spaans dorp immuun voor crisis
 date: 2012-04-18
+index: true
 ---
 
 # Spaans dorp immuun voor crisis

@@ -1,6 +1,7 @@
 ---
 title: Stroomtaal × pareltaal = krachtstroomtaal
 date: 2007-06-25
+index: true
 ---
 
 # Stroomtaal × pareltaal = krachtstroomtaal

@@ -1,6 +1,7 @@
 ---
 title: TEDtalks.nl
 date: 2008-08-01
+index: true
 ---
 
 # TEDtalks.nl

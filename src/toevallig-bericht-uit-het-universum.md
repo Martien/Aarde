@@ -1,6 +1,7 @@
 ---
 title: Toevallig bericht uit het Universum
 date: 2009-01-13
+index: true
 ---
 
 # Toevallig bericht uit het Universum

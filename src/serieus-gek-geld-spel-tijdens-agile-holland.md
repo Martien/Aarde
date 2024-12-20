@@ -10,6 +10,7 @@ tags:
  - "gemeenschapsgeld"
  - "rente"
  - "serieus-spel"
+index: true
 ---
 
 # Serieus Gek Geld Spel tijdens Agile Holland

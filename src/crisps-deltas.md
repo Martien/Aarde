@@ -1,3 +1,7 @@
+---
+title: Crisp deltas
+index: true
+---
 # Crisp deltas
 
 This DNA is a remix of [Crisp NDA](http://dna.crisp.se/) and therefore a [[klonen|clone]].

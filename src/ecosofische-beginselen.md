@@ -1,16 +1,6 @@
 ---
 title: Ecosofische beginselen
 date: 2009-01-26
-categories:
- - "beschaving"
- - "geld"
-tags:
- - "beginselen"
- - "ecologie"
- - "economie"
- - "ecosofie"
- - "geld"
- - "principes"
 index: true
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Synthetisch en echt geluk
 date: 2008-08-30
+index: true
 ---
 
 # Synthetisch en echt geluk

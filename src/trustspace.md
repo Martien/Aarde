@@ -1,6 +1,7 @@
 ---
 title: Trustspace
 date: 2010-02-22
+index: true
 ---
 
 # Trustspace

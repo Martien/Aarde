@@ -1,6 +1,7 @@
 ---
 title: Toeval bestaat
 date: 2009-04-25
+index: true
 ---
 
 # Toeval bestaat

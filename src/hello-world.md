@@ -1,3 +1,7 @@
+---
+title: Hellow world
+index: true
+---
 # Hello world
 Return to [[wiki markup]] if you came from there.
 

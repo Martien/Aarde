@@ -1,6 +1,7 @@
 ---
 title: Totally Unique Thoughts
 date: 2007-04-02
+index: true
 ---
 
 # Totally Unique Thoughts

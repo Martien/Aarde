@@ -1,6 +1,7 @@
 ---
 title: Symbiose
 date: 2008-06-03
+index: true
 ---
 
 # Symbiose

@@ -1,3 +1,7 @@
+---
+title: Vriendkunst
+index: true
+---
 # Vriendkunst
 
 In [Volkskrant](http://www.volkskrant.nl) Magazine nr. 398 van 12 januari 2008 staat het artikel **"Vrienden maken doe je zo"** van Evelien van Veen. Ik lees dat het [Rode Kruis](http://www.rodekruis.nl/) in samenwerking met de afdeling Preventie van de [Parnassia Bavo Groep](http://www.parnassiabavogroep.nl) (een grote GGZ-instelling in Schiedam) **vriendschapscursussen** organiseert.
