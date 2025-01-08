@@ -1,10 +1,10 @@
 ---
 title: Het elfde schijfje
 date: 2008-10-25
-categories: 
+categories:
  - "beschaving"
  - "geld"
-tags: 
+tags:
  - "concurrentie"
  - "geld"
  - "lietaer"
@@ -36,7 +36,7 @@ En zo gebeurde. Hij nam de **koeienhuid**, sneed daar **perfecte cirkels** uit e
 
 “Maar waar moet dat elfde schijfje vandaan komen?” vroeg de boer met de zes kippen. “Dat zul je wel merken,” zei de man met een geruststellend lachje.
 
-Ais we aannemen dat de bevolking en de jaarlijkse productie in dat jaar precies gelijk blijven, wat denkt u dan dat er moest gebeuren? Denk erom, het elfde schijfje was nooit gemaakt. Uiteindelijk moest dus **één op elke elf gezinnen al zijn schijfjes verliezen**, zelfs als iedereen zijn zaken goed voor elkaar had, opdat tien andere gezinnen over een elfde schijfje konden beschikken.
+Als we aannemen dat de bevolking en de jaarlijkse productie in dat jaar precies gelijk blijven, wat denkt u dan dat er moest gebeuren? Denk erom, het elfde schijfje was nooit gemaakt. Uiteindelijk moest dus **één op elke elf gezinnen al zijn schijfjes verliezen**, zelfs als iedereen zijn zaken goed voor elkaar had, opdat tien andere gezinnen over een elfde schijfje konden beschikken.
 
 Toen nu een storm het gewas van een van de gezinnen bedreigde, werden de mensen minder scheutig met hun tijd om de oogst binnen te halen vóór de rampspoed zou toeslaan.
 
