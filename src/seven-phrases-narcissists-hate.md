@@ -20,7 +20,7 @@ you are working with others – coworkers, friends, family. You:
 You want to protect and cultivate your self-worth: deserving attention, energy, and respect. You want to sustain and grow your well-being while comfortably sustaining all your current commitments and deliver on those promises.
 :::
 ::: therefore
-Use **magic sentences** that stop others – narcissists in particular – in their tracks when they demand your time, attention and energy. Whether you're dealing with a boss or a coworker or someone you just met or even someone you care about for a long time.
+Learn to {just say no} and use **magic sentences** that stop others – narcissists in particular – in their tracks when they demand your time, attention and energy. Whether you're dealing with a boss or a coworker or someone you just met or even someone you care about for a long time.
 :::
 ### Magic sentences
 1. **No.** – denies others access to your attention and energy.
