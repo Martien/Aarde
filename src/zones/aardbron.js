@@ -182,6 +182,7 @@ export const leiderschap = {
   children: [
     { name: "De Essentie van Leiderschap" },
     { name: "Leiderschap ben je zelf" },
+    { name: "Seven phrases narcissists hate" },
     { name: "Margaret Wheatley over duurzaam leidinggeven" },
     { name: "De ziel van leiderschap" },
     { name: "Systeeminterventiepunten" },
