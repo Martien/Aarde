@@ -155,6 +155,10 @@ export const business = {
     { name: "Slimme spirituele software" },
   ],
 };
+export const ontregelen = {
+  name: "Ontregelen",
+  children: [{ name: "Automatiseer alle toeslagen" }],
+};
 export const develop = {
   name: "Develop",
   children: [
@@ -234,6 +238,7 @@ export const aardbron = {
     leiderschap,
     community,
     business,
+    ontregelen,
     spirit,
     identity,
     taalkunst,
