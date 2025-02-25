@@ -78,72 +78,75 @@ It turns out this is a false truth living in your head. People end up respecting
 Complements {seven phrases narcissists hate}
 :::
 ### Sources
-~~~js
-const source = ({url, site, authors, title} = {}) =>
-  htl.html`<a href="${url}">${title}</a><br/><span style="font-size:smaller;color:grey;padding-top:0;">${authors}${site ? " « " + site : ""}</span>`;
 
-~~~
-1. ${source({
+~~~js
+const sources = [
+{ 
   title: "Six Guidelines for Saying No to a Stakeholder",
   authors: "Mike Cohn",
   site: "Mountain Goat Software",
   url: "https://www.mountaingoatsoftware.com/blog/six-guidelines-for-saying-no-to-a-stakeholder"
-})}
-2. ${source({
+},
+{
   title: "Don’t just do something, stand there!",
   authors: "Marvin Weisbord, Sandra Janoff",
   site: "Pearl Language",
   url: "http://pearllanguage.org/Don’t_just_do_something,_stand_there!"
-})}
-2. ${source({
+},
+{
   title: "The Power of Doing Less",
   authors: "Fergus O’Connel",
   site: "Amazon",
   url: "https://www.amazon.co.uk/Power-Doing-Less-Fergus-′Connell/dp/0857084216"
-})}
-2. ${source({
+},
+{
   title: "Essentialism: The Disciplined Pursuit of Less",
   authors: "Greg McKeown",
   url: "https://gregmckeown.com/book/"
-})}
-2. ${source({
+},
+{
   title: "The Power of “No”",
-  person: "Dan Harper",
+  authors: "Dan Harper",
   site: "LinkedIn",
   url: "https://www.linkedin.com/pulse/power-dan-harper"
-})}
-2. ${source({
+},
+{
   title: "Nine Practices to Help You Say No",
   authors: "Peter Bregman",
   site: "HBR",
   url: "http://blogs.hbr.org/bregman/2013/02/nine-practices-to-help-you-say.html"
-})}
-2. ${source({
+},
+{
   title: "Learning to Say “No” Is Part of Success",
   authors: "Ed Batista",
   site: "HBR",
   url: "http://blogs.hbr.org/2013/11/learning-to-say-no-is-part-of-success/"
-})}
-2. ${source({
+},
+{
   title: "No is essential",
   authors: "Seth Godin",
   site: "Seth’s Blog",
   url: "http://sethgodin.typepad.com/seths_blog/2014/05/no-is-essential.html",
-})}
-2. ${source({
+},
+{
   title: "The power of saying no",
   authors: "Tim Harford",
   url: "http://timharford.com/2015/01/the-power-of-saying-no/",
-})}
-2. ${source({
+},
+{
   title: "Stop trying to please everyone",
   authors: "Ron Ashkenas, Matthew McCreight",
   site: "HBR",
   url: "https://hbr.org/2015/07/stop-trying-to-please-everyone",
-})}
-2. ${source({
+},
+{
   title: "Please say “NO”",
   authors: "Steve Hayes",
   site: "Medium",
   url: "https://medium.com/unruly-engineering/please-say-no-3d2a12ba4d0d",
-})}
+},
+];
+import {sourceList} from "./components/aids.js"
+~~~
+
+${sourceList(sources)}

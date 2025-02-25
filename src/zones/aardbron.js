@@ -161,6 +161,7 @@ export const develop = {
     { name: "Academie voor levenskunst" },
     { name: "Levende systemen" },
     { name: "Inhaalslag Bildung voor altijd" },
+    { name: "Vermoorden scholen creativiteit" },
     { name: "Hypercortex" },
     { name: "Universcale" },
     { name: "Brad Neuberg on inventing with values" },
@@ -182,6 +183,7 @@ export const leiderschap = {
   children: [
     { name: "De Essentie van Leiderschap" },
     { name: "Leiderschap ben je zelf" },
+    { name: "Just say no" },
     { name: "Seven phrases narcissists hate" },
     { name: "Margaret Wheatley over duurzaam leidinggeven" },
     { name: "De ziel van leiderschap" },
@@ -191,6 +193,7 @@ export const leiderschap = {
 export const spirit = {
   name: "Spirit",
   children: [
+    { name: "Wanneer Dan" },
     { name: "Toeval bestaat" },
     { name: "Toevallig bericht uit het Universum" },
     { name: "Droom" },

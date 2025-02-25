@@ -6,7 +6,7 @@ index: true
 ### 2006-11-23
 
 ::: vista
-<img src="Aloha-vista.png">
+![aloha vista](Aloha-vista.png)
 :::
 
 Aloha: Hawaiaans voor affectie, liefde, compassie, dank, tot ziens, hallo en andere sentimenten met een vergelijkbare natuur. En een fraaie naam voor een zinderend project met de titel HARTelijk Dank!. Lees meer over de betekenis en het karakter van het woord Aloha.

@@ -15,7 +15,8 @@
     "d3-time-format": "^4.1.0",
     "markdown-it-container": "^4.0.0",
     "markdown-it-replace-it": "^1.0.0",
-    "markdown-it-video": "^0.6.3"
+    "markdown-it-video": "^0.6.3",
+    "node": "^18.20.6"
   },
   "devDependencies": {
     "rimraf": "^5.0.5"

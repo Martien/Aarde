@@ -5,13 +5,12 @@ index: true
 # A Pattern Language
 
 ```js
-import {FileAttachment} from "observablehq:stdlib";
+import { FileAttachment } from "observablehq:stdlib";
 const n = await FileAttachment("pattern-names.txt").text();
-const t = n.split("\n")
-.map((p) => `1. {${p}}\n`);
-const ps = (first, last) => t.slice(first - 1, last).join("\n");
-const zz = (l) => l.map(p => `1. ${p}`);
-const xx = () => html`{xx}`;
+const patternNames = n.split("\n");
+const slice = (l) => (first, last) => l.slice(first - 1, last);
+const li = (l) => l.map(d => html`<li>${d}</li>`);
+const patternList = (l) => (first, last) => html`<ol class="pearl", start=${first}>${li(slice(l)(first, last))}</ol>`
 ```
 
 _We begin with that part of the language which defines a town or community. These patterns can never be designed or built in one fell swoop — but patient piecemeal growth, designed in such a way that every individual act is always helping to create or generate these larger global patterns, will, slowly and surely, over the years, make a community that has these global patterns in it._
@@ -37,3 +36,5 @@ _We begin with that part of the language which defines a town or community. Thes
    build up these larger city patterns from the grass roots, through action essentially controlled by two levels of self-governing communities, which exist as physically identifiable places;
 
 1. …
+
+${patternList(patternNames)(3, 10)}

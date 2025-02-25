@@ -33,3 +33,16 @@ export const outliner =
     html`<div class="grid grid-cols-${columns}" style="grid-auto-rows: auto;">
       ${tree?.children.map(section)}
     </div>`;
+
+const source = ({ url, site, authors, title } = {}) =>
+  html`<li>
+    <a style="display:block;" href="${url}">${title}</a>
+    <div style="margin-top:0px;margin-bottom:6px;font-size:smaller;color:grey;">
+      ${authors}${site ? " « " + site : ""}
+    </div>
+  </li>`;
+
+export const sourceList = (list) =>
+  html`<ol>
+    ${list.map(source)}
+  </ol>`;
