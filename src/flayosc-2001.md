@@ -7,7 +7,8 @@ tags:
 index: true
 date: 2001-08-04
 ---
-
+# Flayosc 2001
+Heerlijk naar Zuid-Frankrijk met [[The Rock Family]].
 ## 2001-08-04 Za: Inpakken en...
 - Alles ingepakt.
 - Haar gewassen.
@@ -124,7 +125,7 @@ date: 2001-08-04
 ## 2001-08-12 Zo: Rustdag
 - Sim-pel, zoals gisteren, alleen heeft niemand gezwommen, gek hoor.
 - Seasons Aug 1998:
-- Hotelletjes: http://romantikhotels/rhstavel/.
+- Hotelletjes: https://www.romantikhotels.com
 - Kruiden: http://www.cuci.nl/~bastinkk/, Brunsum, 045 523 1475.
 - Tochtkussens en deurmatten: Mars Agenture, Zwolle, 038 465 3618.
 - Tentenverhuur: Adhara Tenten Nederland, Hoveniersweg 38, Tiel, 034 461 5373.
