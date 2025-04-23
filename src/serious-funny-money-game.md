@@ -2,6 +2,9 @@
 title: Serious Funny Money Game
 date: 2009-09-01
 index: true
+categories:
+  - money
+  - english
 ---
 
 # Serious Funny Money Game

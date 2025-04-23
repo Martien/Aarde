@@ -7,6 +7,7 @@ export const engineRoom = {
   name: "Engine Room",
   children: [
     zones,
+    { name: "Categories and tags" },
     { name: "Wiki markup" },
     { name: "Markdown-it-container" },
     { name: "Import WordPress" },

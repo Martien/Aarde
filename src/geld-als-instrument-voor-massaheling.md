@@ -2,14 +2,14 @@
 title: Geld als instrument voor massaheling
 date: 2009-01-15
 categories:
- - "beschaving"
- - "geld"
- - "innovatie"
- - "intentie"
- - "leiderschap"
+  - beschaving
+  - geld
+  - innovatie
+  - intentie
+  - leiderschap
 tags:
- - "demurrage"
- - "stroomgeld"
+  - demurrage
+  - stroomgeld
 index: true
 ---
 

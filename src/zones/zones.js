@@ -8,6 +8,7 @@ import { aardbron, geld, money } from "./aardbron.js";
 import { dna } from "./dna.js";
 import { pl } from "./pearl-language.js";
 import { apl } from "./a-pattern-language.js";
+import { vakanties } from "./vakanties.js";
 import { observableFramework } from "./observable-framework.js";
 import { engineRoom } from "./engine-room.js";
 import { contact } from "./contact.js";
@@ -44,5 +45,6 @@ export const pages = [
   aardbron,
   money,
   geld,
+  vakanties,
   engineRoom,
 ].map(pager);

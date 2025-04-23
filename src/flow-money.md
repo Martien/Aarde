@@ -2,9 +2,13 @@
 title: Flow money
 date: 2010-02-22
 categories:
- - "english"
- - "money"
+  - english
+  - money
 index: true
+tags:
+  - money
+  - demurrage
+  - english
 ---
 
 # Flow money
