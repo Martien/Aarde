@@ -10,7 +10,7 @@ index: true
 ### 2009-07-24
 
 ::: vista
-<img src="fortis-failliet.jpg">
+<img src="voc-schip.jpg">
 :::
 
 ## Laten omvallen van banken goed voor échte mensen
@@ -22,10 +22,6 @@ Als we ons maar net een beetje meer bewust worden van hoe deze afhankelijkheid z
 De huidige economische crisis is minder een resultaat van slechte besluitvorming door een paar bonuszoekende directieleden dan dat het de ingebedde logica is van een bank- en valutasysteem ontwikkeld tijdens de Renaissance en om redenen die weinig te maken met de bevordering van rijkdom en kansen.
 
 Destijds werd de aristocratie steeds meer bedreigd door zowel een groeiende handelaarsklasse als in toenemende mate welvarende lokale economieën. De zakelijke activiteiten van de permanente aristocratie werden minder en minder. Dus kwamen ze met **twee zakelijke innovaties** om het tij te keren.
-
-::: vista
-<img src="voc-schip.jpg">
-:::
 
 **De eerste was de verenigigde compagnie** zoals de VOC. In ruil voor aandelen in de vennootschap verleent een koning haar een monopolie om zaken te doen in een bepaalde regio of sector. Vrij van concurrentie kon de onderneming innovatie vergeten en zich richten op uitbuiting. De vorst kon intussen wetten schrijven ten gusten van de handelspraktijken van de onderneming.
 

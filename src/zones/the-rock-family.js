@@ -1,4 +1,4 @@
 export const theRockFamily = {
   name: "The Rock Family",
-  children: [{ name: "Vakanties" }],
+  children: [{ name: "Vakanties" }, { name: "WKZ" }],
 };
