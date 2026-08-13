@@ -7,6 +7,7 @@
 import { aardbron, geld, money } from "./aardbron.js";
 import { dna } from "./dna.js";
 import { pl } from "./pearl-language.js";
+import { pareltaal } from "./pareltaal.js";
 import { apl } from "./a-pattern-language.js";
 import { theRockFamily } from "./the-rock-family.js";
 import { vakanties } from "./vakanties.js";
@@ -40,6 +41,7 @@ const pager = ({ name, children, open = false, path }) => ({
 export const pages = [
   apl,
   pl,
+  pareltaal,
   observableFramework,
   dna,
   contact,

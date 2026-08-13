@@ -12,5 +12,6 @@ export const engineRoom = {
     { name: "Markdown-it-container" },
     { name: "Import WordPress" },
     { name: "Observable Framework quirks" },
+    { name: "To run an iPhone without a battery" },
   ],
 };

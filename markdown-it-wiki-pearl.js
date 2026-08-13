@@ -7,14 +7,9 @@ import markdownItContainer from "markdown-it-container";
 import markdownItWikilinks from "@ig3/markdown-it-wikilinks";
 import markdownItVideo from "markdown-it-video";
 
-// [[text]] or [[text|appearance]]
-const wikilinksRE = /\[\[([^\]|]*)(\|([^\]]+))?\]\]/;
-
-// {pearl} or {pearl|appearance}
-const pearlRE = /{([^}|]*)(\|([^}]+))?}/;
-
 const uriSuffix = "";
-const href = (string) =>
+
+const postProcessPageName = (string) =>
   string
     .toLowerCase()
     .normalize("NFKD")
@@ -22,27 +17,39 @@ const href = (string) =>
     .replace(/[ ]+/g, "-")
     .replace(/[^\w-]+/g, "")
     .replace(/[-]+/g, "-");
-const postProcessPageName = href;
-// (pageName) =>
-// pageName.trim().toLowerCase().replace(/\s+/g, "-").replace(/,/, "");
+
+// {pearl} or {pearl|appearance}
+const pearlLanguageLinks = markdownItWikilinks({
+  linkPattern: /{([^}|]*)(\|([^}]+))?}/,
+  htmlAttributes: { class: "pearl" },
+  uriSuffix,
+  postProcessPageName,
+});
+
+// «pattern» or «pattern|appearance» for references to https://patternlanguage.cc
+const patternLanguageLinks = markdownItWikilinks({
+  linkPattern: /«([-\w\s/]+)(\|([-\w\s/]+))?»/u,
+  linkPattern: /«([^»|]+)(?:\|([^»]+))?»/u,
+  linkPattern: /!([^!|]*)(\|([^!]+))?!/,
+  uriSuffix,
+  baseURL: "https://patternlanguage.cc/Patterns/",
+  makeAllLinksAbsolute: true,
+  postProcessPageName: (name) => name,
+});
+
+// [[text]] or [[text|appearance]]
+const wikiLinks = markdownItWikilinks({
+  linkPattern: /\[\[([^\]|]*)(\|([^\]]+))?\]\]/,
+  uriSuffix,
+  postProcessPageName,
+});
 
 export const markdownIt = (md) =>
   md
-    .use(
-      markdownItWikilinks({
-        linkPattern: wikilinksRE,
-        uriSuffix,
-        postProcessPageName,
-      }),
-    )
-    .use(
-      markdownItWikilinks({
-        linkPattern: pearlRE,
-        htmlAttributes: { class: "pearl" },
-        uriSuffix,
-        postProcessPageName,
-      }),
-    )
+    .use(wikiLinks)
+    .use(markdownItWikilinks)
+    .use(pearlLanguageLinks)
+    .use(patternLanguageLinks)
     .use(markdownItVideo)
     .use(markdownItContainer, "card")
     .use(markdownItContainer, "tip")
@@ -57,6 +64,7 @@ export const markdownIt = (md) =>
     .use(markdownItContainer, "context")
     .use(markdownItContainer, "wish")
     .use(markdownItContainer, "therefore")
+    .use(markdownItContainer, "daarom")
     .use(markdownItContainer, "sketch")
     .use(markdownItContainer, "photo")
     .use(markdownItContainer, "constitution")

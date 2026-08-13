@@ -96,7 +96,7 @@ h1 + h3::after {
     font-variant: small-caps;
 }
 .wish,
-.therefore {
+.therefore, .daarom {
     font-weight: bold;
 }
 publication {
@@ -111,6 +111,11 @@ publication {
 }
 .therefore::before {
     content: "Therefore:";
+    font-weight: normal;
+    display: block;
+}
+.daarom::before {
+    content: "Daarom:";
     font-weight: normal;
     display: block;
 }

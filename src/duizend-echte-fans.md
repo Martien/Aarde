@@ -5,16 +5,39 @@ categories:
   - "geld"
 index: true
 ---
-# Duizend echte fans
-### 2009-03-18
+::: name
+duizend echte fans
+:::
 
-::: as-is
+::: context
+je bent kunstenaar, fotograaf, kunstschilder, taalkunstenaar, ontwerper, video- of filmmaker, auteur, creator, zanger, artiest of werkt samen aan een project.
+:::
+
+::: hero
 <img src="duizend-echte-fans.jpg" style="width:100%"/>
 :::
 
-Vrij naar [Kevin Kelly](http://www.kk.org/)'s [1,000 True Fans](http://www.kk.org/thetechnium/archives/2008/03/1000_true_fans.php).
+::: wish
+Je wilt én je passies en talenten botvieren in je kunstwerken én brood op de plank.
+:::
+
+1.000 echte fans die elk jaar €100 aan jou besteden leveren €100.000 per jaar op. Meer dan voldoende brood op de plank dus.
+
+Een ‘echte fan’ is iemand die van alles en nog wat dat je produceert aanschaft. Ze rijden 200 km om je te zien zingen. Zij kopen de superdeluxe opnieuw uitgebrachte hi-res box set van je spullen, ook al hebben ze de low-res versie al. Ze hebben een Google-melding voor jouw naam. Zij hebben een boekenlegger op de eBay-pagina waar jouw edities verschijnen die uit druk zijn. Ze komen naar jouw openingen. Ze laten je hun kopieën ondertekenen. Zij kopen het t-shirt, en de beker, en de hoed. Ze kunnen niet wachten tot je je volgende werk uitbrengt. Ze zijn echte fans.
+
+{duizend echte fans} is een haalbaar aantal. Je kan tot 1.000 tellen. Als je één fan per dag toegevoegd, duurt het slechts drie jaar. {echt fanship} is uitvoerbaar. Een {echte fan} een plezier doen voelt prettig en stimulerend. Het beloont de kunstenaar om trouw te blijven, om zich te concentreren op de unieke aspecten van hun werk, juist die kwaliteiten die {echte fans} waarderen.
+
+::: daarom
+Verzamel, hoedt en koester {duizend échte fans}. Maak rechtstreeks verbinding met jouw {echte fans} om je omzet uit de het platte gedeelte van de langstaart te trekken. Converteer duizend kleine fans naar {duizend echte fans}. Gebruik een {geldtuimelaar} om voor iedereen zorgeloos projecten en initiatieven voor te financieren.
+:::
+
+::: rationale
+Heb je eenmaal {duizend echte fans}, dan maak je kans om naar de kop van de langstaart door te breken.
+:::
 
 ---
+Vrij naar [Kevin Kelly](http://www.kk.org/)'s [1,000 True Fans](http://www.kk.org/thetechnium/archives/2008/03/1000_true_fans.php).
+
 De [[kwispel de langstaart der liefde|langstaart]] is bijzonder goed nieuws voor twee klassen van mensen:
 * **een paar gelukkige verzamelaars** zoals Amazon en Netflix; en
 * **6 miljard consumenten**.
